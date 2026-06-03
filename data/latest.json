@@ -2,22 +2,8 @@
   "date": "2026-06-04",
   "osaka": [
     {
-      "hash_id": "19fc861a4d91a40145a80375e54e15d6",
-      "title": "关于延长公务员等“应对物价上涨育儿支援津贴”申请期限的通知（儿童青少年局）",
-      "date": "2026-06-02",
-      "importance": "S",
-      "labels": [
-        "亲子",
-        "市政",
-        "教育"
-      ],
-      "source_label": "大阪市",
-      "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000680192.html"
-    },
-    {
       "hash_id": "eac5da0610114239a5f5685dc58b47bb",
-      "title": "关于大阪市立幼儿园餐费征收错误的通知（儿童青少年局）",
+      "title": "大阪市立幼儿园餐费征收出现错误",
       "date": "2026-06-02",
       "importance": "S",
       "labels": [
@@ -27,7 +13,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000679986.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000679986.html",
+      "image_url": ""
     },
     {
       "hash_id": "e23e5a7e7dcc455ad53f2f6fb575cd2a",
@@ -40,7 +27,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51184.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51184.html",
+      "image_url": ""
     },
     {
       "hash_id": "157c007dc422df00269070eb30b5b8cd",
@@ -54,7 +42,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kikikanrishitsu/0000678370.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kikikanrishitsu/0000678370.html",
+      "image_url": ""
     },
     {
       "hash_id": "85a2b0f8824b17a10a75fa360d66c839",
@@ -66,11 +55,12 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100020/prs_50910.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100020/prs_50910.html",
+      "image_url": ""
     },
     {
       "hash_id": "56c945ee53b9efdbd68c7b490b85f572",
-      "title": "东京都厅举办“大阪全体验博览会”——汇聚大阪优质好物与美味佳肴",
+      "title": "东京都厅举办“大阪全体验博览会”",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -80,25 +70,27 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/seisakukikakushitsu/0000679693.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/seisakukikakushitsu/0000679693.html",
+      "image_url": ""
     },
     {
       "hash_id": "4af08649a0cb7474a6189e93cf5ba24a",
-      "title": "寓教于乐普及‘预防护理’重要性：全年举办多样化活动——首场活动为大阪城筋力训练×历史探访健步走",
+      "title": "大阪市全年开展多样化活动普及介护预防知识，首场为大阪城筋力训练+历史探访步行活动",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
         "医疗",
-        "市政",
-        "防灾"
+        "防灾",
+        "市政"
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679606.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679606.html",
+      "image_url": ""
     },
     {
       "hash_id": "fdd91169f95faae774225cd9a1d7e321",
-      "title": "北区将开展“危险物安全周”联合消防演练",
+      "title": "大阪市北区开展危险物安全周联合消防演练",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -107,11 +99,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html",
+      "image_url": ""
     },
     {
       "hash_id": "5107089989de1af6c765dd3cd41f6d5a",
-      "title": "【西淀川区、大正区、港区联合举办】高中等校升学负责人与人才服务公司、企业交流会（西淀川区主办）",
+      "title": "大阪市西淀川区等三区联合举办高中升学负责人与企业、人才服务机构交流会",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -120,7 +113,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/nishiyodogawa/0000679703.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/nishiyodogawa/0000679703.html",
+      "image_url": ""
     },
     {
       "hash_id": "380d3a0da1f920e4c190d1b1d832d352",
@@ -133,7 +127,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180030/prs_50738.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180030/prs_50738.html",
+      "image_url": ""
     },
     {
       "hash_id": "80d24b21ef7b56f80c070dae4007bea7",
@@ -147,7 +142,23 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020070/prs_50134.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020070/prs_50134.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "19fc861a4d91a40145a80375e54e15d6",
+      "title": "大阪市延长公务员等「物价高涨应对育儿支援津贴」申请期限",
+      "date": "2026-06-02",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "教育",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000680192.html",
+      "image_url": ""
     },
     {
       "hash_id": "10f5fdf0365f2687c88107a7c03f1842",
@@ -160,19 +171,23 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180040/prs_51150.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180040/prs_51150.html",
+      "image_url": ""
     },
     {
       "hash_id": "2db6ae824b5837a15e0e4858d8599369",
-      "title": "开展“微笑积分”活动！——参与“步行习惯养成活动”，最高可获2700日元礼品",
+      "title": "大阪市启动‘微笑积分’步行习惯化活动，最高赠2700日元",
       "date": "2026-06-01",
       "importance": "A",
       "labels": [
-        "市政"
+        "医疗",
+        "市政",
+        "防灾"
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679035.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679035.html",
+      "image_url": ""
     },
     {
       "hash_id": "baed7192ee3d19a5c1a919f7f0d7b47d",
@@ -185,7 +200,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/toshikeikaku/0000679797.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/toshikeikaku/0000679797.html",
+      "image_url": ""
     },
     {
       "hash_id": "febb855bd86d518aef1470939d450c9a",
@@ -199,7 +215,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51223.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51223.html",
+      "image_url": ""
     },
     {
       "hash_id": "f0cce6a02431e0bd88551136b7c83682",
@@ -212,7 +229,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51285.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51285.html",
+      "image_url": ""
     },
     {
       "hash_id": "2c48998bd9487f9aec7f04496351c780",
@@ -226,11 +244,42 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51293.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51293.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "180994cf7efd979908c95ad29719fad3",
+      "title": "义足女性团体“高跟鞋火烈鸟”创立者高木庸子女士纪念记录集出版",
+      "date": "2023-07-31",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "医疗",
+        "亲子"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/106060",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/2/9/-/img_292710459ca7f4f9baca0b372ea057a81135391.png"
+    },
+    {
+      "hash_id": "1246015ea7a382210665fe793752c16d",
+      "title": "大阪天神祭本宫活动时隔4年全面恢复",
+      "date": "2023-07-30",
+      "importance": "A",
+      "labels": [
+        "节日",
+        "文化",
+        "观光"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/105435",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/5/4/-/img_54b4f9a1796d56ed40ecafe3259c90d7413692.png"
     },
     {
       "hash_id": "b4fc9c61a3a16ba383c266f4c37bea7e",
-      "title": "千岁渡船场电话中断情况通报（第一期）（建设局）",
+      "title": "大阪市千岁渡船场电话通信中断（第一报）",
       "date": "2026-06-03",
       "importance": "B",
       "labels": [
@@ -239,7 +288,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000680418.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000680418.html",
+      "image_url": ""
     },
     {
       "hash_id": "38b9f12ea37e00b2a75be6934fe52c1d",
@@ -252,7 +302,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120070/prs_51144.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120070/prs_51144.html",
+      "image_url": ""
     },
     {
       "hash_id": "57e0c6ef765c96d823c3b0723f260e41",
@@ -265,11 +316,12 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-503501/"
+      "url": "https://brutus.jp/post-503501/",
+      "image_url": ""
     },
     {
       "hash_id": "ce9b73782493e12e34af0fe54eece910",
-      "title": "关于《水都大阪桥梁露台2030愿景（草案）》公众意见征集结果公布及正式版《水都大阪桥梁露台2030愿景》制定的通知（建设局）",
+      "title": "大阪市公布‘水都大阪桥台2030愿景（草案）’公众意见结果并正式制定最终版",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -279,11 +331,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000678780.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000678780.html",
+      "image_url": ""
     },
     {
       "hash_id": "c7695ae96196239cee0d55dad7e586cb",
-      "title": "令和8年度第一次福岛区区政会议召开通知（福岛区）",
+      "title": "大阪市福岛区将召开令和8年度第一次区政会议",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -291,11 +344,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushima/0000679752.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushima/0000679752.html",
+      "image_url": ""
     },
     {
       "hash_id": "6ed051bbeb7cfae3a8f034f9a0058991",
-      "title": "召开令和8年度第一次阿倍野区区政会议（阿倍野区）",
+      "title": "大阪市阿倍野区将召开令和8年度首次区政会议",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -303,11 +357,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/abeno/0000678464.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/abeno/0000678464.html",
+      "image_url": ""
     },
     {
       "hash_id": "dd793487a1556214904b135a7bc59452",
-      "title": "推迟举行令和8年度第一次生野区区政会议",
+      "title": "大阪市生野区将推迟举行令和8年度第一次区政会议",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -315,11 +370,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/ikuno/0000680186.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/ikuno/0000680186.html",
+      "image_url": ""
     },
     {
       "hash_id": "129e73e7f12fbdb8486ca8a71d4e5f0f",
-      "title": "推迟举行令和8年度第一次城东区区政会议（全体会议及分科会）",
+      "title": "大阪市城东区推迟举行令和8年度第一次区政会议",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -327,11 +383,12 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/joto/0000680246.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/joto/0000680246.html",
+      "image_url": ""
     },
     {
       "hash_id": "36fa2e04ae304e9387da6a2613a6135f",
-      "title": "取消“令和8年度平野区区政会议（6月）”",
+      "title": "大阪市平野区取消令和8年度6月区政会议",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -339,7 +396,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/hirano/0000680179.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/hirano/0000680179.html",
+      "image_url": ""
     },
     {
       "hash_id": "d1a28f368b488f72fe4f3b9a3cd0fd48",
@@ -352,7 +410,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020100/prs_50958.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020100/prs_50958.html",
+      "image_url": ""
     },
     {
       "hash_id": "8f2e3494717fa6bb3a233f05759bf496",
@@ -364,7 +423,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180110/prs_51130.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180110/prs_51130.html",
+      "image_url": ""
     },
     {
       "hash_id": "746296afc5bda6971720e4df5e996e39",
@@ -377,7 +437,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130060/prs_51073.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130060/prs_51073.html",
+      "image_url": ""
     },
     {
       "hash_id": "1a62e35cf25255037fcf2ff20b84a87e",
@@ -390,11 +451,12 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-493747/"
+      "url": "https://brutus.jp/post-493747/",
+      "image_url": ""
     },
     {
       "hash_id": "348cf87964a74a5a3791dad46ab8319f",
-      "title": "大阪市将举行向健康医疗领域捐赠的市长感谢状颁发仪式（健康局）",
+      "title": "大阪市举行向健康医疗领域捐赠者颁发市长感谢状仪式",
       "date": "2026-06-01",
       "importance": "B",
       "labels": [
@@ -403,7 +465,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kenko/0000679019.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kenko/0000679019.html",
+      "image_url": ""
     },
     {
       "hash_id": "654e973ddbeb7bc30e581cccecb26674",
@@ -415,7 +478,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kita/0000677282.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kita/0000677282.html",
+      "image_url": ""
     },
     {
       "hash_id": "d3f848f047d36a04f0c291b14c778dc5",
@@ -427,7 +491,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/miyakojima/0000679337.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/miyakojima/0000679337.html",
+      "image_url": ""
     },
     {
       "hash_id": "f96378769b4fce82b38e14dbef1eabb2",
@@ -441,7 +506,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110110/prs_50748.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110110/prs_50748.html",
+      "image_url": ""
     },
     {
       "hash_id": "5ca49cfc2a6c4b91a56ff8380ffa3e72",
@@ -454,7 +520,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070070/prs_51214.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070070/prs_51214.html",
+      "image_url": ""
     },
     {
       "hash_id": "eec55ae2bcf0b59c1195d0ea6370560b",
@@ -467,7 +534,79 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51295.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51295.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "33aa9437b3275f3e9d7cce4a67425297",
+      "title": "OSK爱奏曲选终章：百年历史传承，迈向新世纪",
+      "date": "2023-07-31",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/106054",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/0/7/-/img_07cec0285fabaf2f85ecd7a50482b3cd983684.png"
+    },
+    {
+      "hash_id": "cf86a7cff2ef55cdb299a60904cde6fc",
+      "title": "履正社高中时隔4年再夺大阪夏季甲子园冠军，完封大阪桐荫",
+      "date": "2023-07-31",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "教育",
+        "文化"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/106048",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/8/4/-/img_8472ef8e9d2229898998daca9e44d8304888345.png"
+    },
+    {
+      "hash_id": "41e7bc791fecc6ae4e328775b85efec3",
+      "title": "履正社高中棒球队喜获大阪高中棒球大赛冠军",
+      "date": "2023-07-31",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "教育"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/106059",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/8/7/-/img_878918ebddbff81e9c0f34c2190644f41512055.png"
+    },
+    {
+      "hash_id": "dad1415758c62761d1f61163ad2fc862",
+      "title": "大阪“地面师”案：司法书士男子承认诈骗罪，企图骗取不动产公司4亿日元",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "商业",
+        "住宅"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707707",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/7/d/1200w/img_7db09dbd1c9dff171219628fd4f1683d237348.jpg"
+    },
+    {
+      "hash_id": "864838287f9e19ec282fe209ce78fd8c",
+      "title": "近畿地区4日晴热再现，夜间南部将有降雨需带伞",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "防灾",
+        "交通"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707908",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/7/a/1200w/img_7a1d920eac330e6ecdc2e2f8a06363c9235065.jpg"
     },
     {
       "hash_id": "fd1b3b60ad4bda7fd5356e91b3924640",
@@ -479,7 +618,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51187.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51187.html",
+      "image_url": ""
     },
     {
       "hash_id": "12142f42da95237d9cadde598d8781bb",
@@ -491,7 +631,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51185.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51185.html",
+      "image_url": ""
     },
     {
       "hash_id": "b115428937176d1f87a118341ee5cce2",
@@ -505,7 +646,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-501383/"
+      "url": "https://brutus.jp/post-501383/",
+      "image_url": ""
     },
     {
       "hash_id": "880aeed0ed8bce1d708cd46553cb2087",
@@ -517,7 +659,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-503096/"
+      "url": "https://brutus.jp/post-503096/",
+      "image_url": ""
     },
     {
       "hash_id": "4bc0eeba8fab37a50f3699e2357b4d3b",
@@ -530,7 +673,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-376312/"
+      "url": "https://brutus.jp/post-376312/",
+      "image_url": ""
     },
     {
       "hash_id": "1d3d691013024b117979a445d9bbbc5b",
@@ -543,7 +687,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-502423/"
+      "url": "https://brutus.jp/post-502423/",
+      "image_url": ""
     },
     {
       "hash_id": "b4f17b2e85b3add5dda103d0a35feedc",
@@ -555,7 +700,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020050/prs_50950.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020050/prs_50950.html",
+      "image_url": ""
     },
     {
       "hash_id": "f97d7bb5798e73cb5d45e99032b3cac5",
@@ -567,7 +713,8 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110010/prs_51052.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110010/prs_51052.html",
+      "image_url": ""
     },
     {
       "hash_id": "3a87348b5eb16372716219297f611272",
@@ -579,7 +726,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-502815/"
+      "url": "https://brutus.jp/post-502815/",
+      "image_url": ""
     },
     {
       "hash_id": "d2c0fff4c4dd2447f823db007263222c",
@@ -592,7 +740,8 @@
       ],
       "source_label": "BRUTUS",
       "region": "osaka",
-      "url": "https://brutus.jp/post-389625/"
+      "url": "https://brutus.jp/post-389625/",
+      "image_url": ""
     },
     {
       "hash_id": "b2b5d6ba12da74fd842da53760bcb704",
@@ -605,7 +754,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000679910.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000679910.html",
+      "image_url": ""
     },
     {
       "hash_id": "b5d825a020da7e37d0553661c5d50145",
@@ -618,7 +768,8 @@
       ],
       "source_label": "大阪市",
       "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kankyo/0000679163.html"
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kankyo/0000679163.html",
+      "image_url": ""
     },
     {
       "hash_id": "6cc2d5c12069657482286ae0bfb19b01",
@@ -631,7 +782,112 @@
       ],
       "source_label": "大阪府",
       "region": "osaka",
-      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110020/prs_51229.html"
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110020/prs_51229.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "0aaf957bb0bb58071834eba49cab86a6",
+      "title": "《大阪每日新闻》宣布停刊",
+      "date": "2023-07-31",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/65228",
+      "image_url": "https://nihonkai.ismcdn.jp/common/images/nnn/dainichi/noimg_onn.jpg"
+    },
+    {
+      "hash_id": "dfceb636432375d5f77e4f50c726c0eb",
+      "title": "《大阪日日新闻》7月31日宣布停刊",
+      "date": "2023-07-31",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/106057",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/e/0/-/img_e0d2625e597ebf43113c893ddc291b09672738.png"
+    },
+    {
+      "hash_id": "3fbe2c6f6107412e2578c70ea6649f80",
+      "title": "大阪市议会削减议员定额，推行“自我削減”改革引质疑",
+      "date": "2023-07-30",
+      "importance": "C",
+      "labels": [
+        "市政"
+      ],
+      "source_label": "大阪日日新聞",
+      "region": "osaka",
+      "url": "https://www.nnn.co.jp/articles/-/105427",
+      "image_url": "https://nihonkai.ismcdn.jp/mwimgs/4/3/-/img_43f1cc7aadf3907cf416f25bb7ce3209642546.png"
+    },
+    {
+      "hash_id": "8ca01168b1cfdb017f90dcb091ce3dc7",
+      "title": "大阪男子因盗窃60部手机被通缉后主动投案被捕",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2708115",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/8/0/1200w/img_8012a0b576d6463c43d4b240df89ae1268118.jpg"
+    },
+    {
+      "hash_id": "d814dab47d4cb2c5beccd38408fa48ea",
+      "title": "兵库县龙野市河中发现男性遗体，或与母女杀害案嫌疑人有关",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707800",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/7/a/1200w/img_7a03fa0f7c501ac2df6745fc9d2c1cdf474380.jpg"
+    },
+    {
+      "hash_id": "12e1e9c3b2e181c590aa852bfcb33303",
+      "title": "警方逮捕3名暴力团成员，涉嫌盗窃60部智能手机；另6名涉案人员已落网，28岁主谋被公开通缉",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707895",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/2/9/1200w/img_29c040c88fa7f7679987e48ab111e92392193.jpg"
+    },
+    {
+      "hash_id": "4acd83231daf4b4f531d2cf14b448677",
+      "title": "奈良市抢劫伤人案：19岁专校男生涉嫌充当 recruiter 被逮捕",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707875",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/e/d/1200w/img_edde076f1252d6b8591494b9b6a12f98118801.jpg"
+    },
+    {
+      "hash_id": "ca998f3ad81fcb006a843b7e8840833a",
+      "title": "兵库县龙野市河中发现男性遗体，正谨慎调查是否与母女杀害案嫌犯大山贤二有关",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2707836",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/9/8/1200w/img_98aa5738356458717de0662d5dd4c338204369.jpg"
     }
   ],
   "hokkaido": [
@@ -646,7 +902,8 @@
       ],
       "source_label": "毎日新聞",
       "region": "hokkaido",
-      "url": "https://mainichi.jp/articles/20260603/k00/00m/040/318000c"
+      "url": "https://mainichi.jp/articles/20260603/k00/00m/040/318000c",
+      "image_url": ""
     },
     {
       "hash_id": "31e137d5aaa16a8a73dd41799acd3a10",
@@ -658,7 +915,8 @@
       ],
       "source_label": "NHK",
       "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015140061000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140061000",
+      "image_url": ""
     },
     {
       "hash_id": "6f032ca58af1d807756763a9fb66168e",
@@ -670,7 +928,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "hokkaido",
-      "url": "http://www.asahi.com/articles/ASV633HSVV63IIPE019M.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV633HSVV63IIPE019M.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "4aedfa8f9b28add07efa0914abc798e2",
@@ -682,7 +941,8 @@
       ],
       "source_label": "毎日新聞",
       "region": "hokkaido",
-      "url": "https://mainichi.jp/articles/20260603/k00/00m/050/350000c"
+      "url": "https://mainichi.jp/articles/20260603/k00/00m/050/350000c",
+      "image_url": ""
     },
     {
       "hash_id": "44b7746f10bfae47aea487f5c863e329",
@@ -694,7 +954,8 @@
       ],
       "source_label": "毎日新聞",
       "region": "hokkaido",
-      "url": "https://mainichi.jp/articles/20260603/k00/00m/050/296000c"
+      "url": "https://mainichi.jp/articles/20260603/k00/00m/050/296000c",
+      "image_url": ""
     }
   ],
   "national": [
@@ -710,7 +971,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015138881000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138881000",
+      "image_url": ""
     },
     {
       "hash_id": "6b461e052139f55e298981b975ec4c8c",
@@ -723,7 +985,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV633TZLV63OXIE01FM.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV633TZLV63OXIE01FM.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "313498430b007773d8e13aab206a9507",
@@ -736,7 +999,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV633Q0CV63UTIL00QM.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV633Q0CV63UTIL00QM.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "30d5cd106ed8f3f207e0bc78e0c09418",
@@ -750,7 +1014,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015139641000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139641000",
+      "image_url": ""
     },
     {
       "hash_id": "cc2382bb2e766f7e76e4c0eac4f399d3",
@@ -763,7 +1028,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015139591000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139591000",
+      "image_url": ""
     },
     {
       "hash_id": "456de154f9b7e6b85ac7620ad3ff4ef4",
@@ -776,7 +1042,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015139971000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139971000",
+      "image_url": ""
     },
     {
       "hash_id": "13bac13934ea061e9213444bf06442fa",
@@ -790,7 +1057,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV632TXXV63OXIE015M.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV632TXXV63OXIE015M.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "31c3320e042a5ca480d5532a89ab81c5",
@@ -804,7 +1072,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV633C9TV63OXIE043M.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV633C9TV63OXIE043M.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "622ee433b69db7d7906a5d9b520b56a8",
@@ -816,7 +1085,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015133301000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133301000",
+      "image_url": ""
     },
     {
       "hash_id": "328ad167663c14036c8abca09b1e519e",
@@ -828,7 +1098,8 @@
       ],
       "source_label": "NHK",
       "region": "national",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015138921000"
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138921000",
+      "image_url": ""
     },
     {
       "hash_id": "e1923795ba38f36a3b28b3128231bf79",
@@ -840,7 +1111,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV631H4KV63UTIL00LM.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV631H4KV63UTIL00LM.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "2504f8e9367edd140fe37cf48e2c6dcd",
@@ -852,7 +1124,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV634V1QV63PTIL00ZM.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV634V1QV63PTIL00ZM.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "4eabbce216f0f9b1a5488c5ab77b7e9d",
@@ -865,7 +1138,8 @@
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASV634CV5V63PITB01MM.html?ref=rss"
+      "url": "http://www.asahi.com/articles/ASV634CV5V63PITB01MM.html?ref=rss",
+      "image_url": ""
     },
     {
       "hash_id": "4b5ffd388ff4a5f3110874fad97dde57",
@@ -877,7 +1151,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp#main-container"
+      "url": "https://www.kantei.go.jp#main-container",
+      "image_url": ""
     },
     {
       "hash_id": "1dcdf9401018a83818b6e3fa57161127",
@@ -889,7 +1164,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/3_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/3_a.html",
+      "image_url": ""
     },
     {
       "hash_id": "b2f74e79d48cd4240acf06485d9f8d5f",
@@ -901,7 +1177,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_p.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_p.html",
+      "image_url": ""
     },
     {
       "hash_id": "ff7bedf9e9e0ff900642164cdee5ea74",
@@ -913,7 +1190,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/2_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/2_a.html",
+      "image_url": ""
     },
     {
       "hash_id": "de082d8e91a126c36b0eea748f4b04ec",
@@ -925,7 +1203,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_p.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_p.html",
+      "image_url": ""
     },
     {
       "hash_id": "f6b00c28b5f6b543620f04bca4d33605",
@@ -937,7 +1216,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/28_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/28_a.html",
+      "image_url": ""
     },
     {
       "hash_id": "096b724b15388f23d2c2287fec018770",
@@ -949,7 +1229,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/29_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/29_a.html",
+      "image_url": ""
     },
     {
       "hash_id": "efaa1fc3f9eb341f1bb40ae69bd6b2e4",
@@ -961,7 +1242,8 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_a.html",
+      "image_url": ""
     },
     {
       "hash_id": "41adf6bca339dbc337e4f9e633315351",
@@ -973,7 +1255,9 @@
       ],
       "source_label": "首相官邸",
       "region": "national",
-      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_a.html"
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_a.html",
+      "image_url": ""
     }
-  ]
+  ],
+  "culture": []
 }
