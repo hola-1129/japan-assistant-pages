@@ -2,19 +2,6 @@
   "date": "2026-06-04",
   "osaka": [
     {
-      "hash_id": "fdd91169f95faae774225cd9a1d7e321",
-      "title": "北区将开展“危险物安全周”联合消防演练",
-      "date": "2026-06-03",
-      "importance": "S",
-      "labels": [
-        "防灾",
-        "市政"
-      ],
-      "source_label": "大阪市",
-      "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html"
-    },
-    {
       "hash_id": "19fc861a4d91a40145a80375e54e15d6",
       "title": "关于延长公务员等“应对物价上涨育儿支援津贴”申请期限的通知（儿童青少年局）",
       "date": "2026-06-02",
@@ -57,7 +44,7 @@
     },
     {
       "hash_id": "157c007dc422df00269070eb30b5b8cd",
-      "title": "与株式会社ACTIO西日本支社签署灾害时污水处理水紧急输送等合作协议（危机管理室）",
+      "title": "与株式会社ACTIO西日本支社签署灾害时下水处理水紧急输送等合作协议（危机管理室）",
       "date": "2026-06-01",
       "importance": "S",
       "labels": [
@@ -83,7 +70,7 @@
     },
     {
       "hash_id": "56c945ee53b9efdbd68c7b490b85f572",
-      "title": "东京都厅将举办“大阪全体验博览会”——汇聚大阪优质好物与美味佳肴",
+      "title": "东京都厅举办“大阪全体验博览会”——汇聚大阪优质好物与美味佳肴",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -108,6 +95,19 @@
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679606.html"
+    },
+    {
+      "hash_id": "fdd91169f95faae774225cd9a1d7e321",
+      "title": "北区将开展“危险物安全周”联合消防演练",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "防灾",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html"
     },
     {
       "hash_id": "5107089989de1af6c765dd3cd41f6d5a",
@@ -143,7 +143,7 @@
       "labels": [
         "观光",
         "饮食",
-        "文化"
+        "商业"
       ],
       "source_label": "大阪府",
       "region": "osaka",
@@ -230,7 +230,7 @@
     },
     {
       "hash_id": "b4fc9c61a3a16ba383c266f4c37bea7e",
-      "title": "千岁渡船场电话中断情况通报（第一报）（建设局）",
+      "title": "千岁渡船场电话中断情况通报（第一期）（建设局）",
       "date": "2026-06-03",
       "importance": "B",
       "labels": [
@@ -253,6 +253,19 @@
       "source_label": "大阪府",
       "region": "osaka",
       "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120070/prs_51144.html"
+    },
+    {
+      "hash_id": "57e0c6ef765c96d823c3b0723f260e41",
+      "title": "【今日赠礼】赠送餐厅招牌甜点：Restaurant Sola 的巴黎奶油",
+      "date": "2026-06-03",
+      "importance": "B",
+      "labels": [
+        "饮食",
+        "文化"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-503501/"
     },
     {
       "hash_id": "ce9b73782493e12e34af0fe54eece910",
@@ -367,8 +380,21 @@
       "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130060/prs_51073.html"
     },
     {
+      "hash_id": "1a62e35cf25255037fcf2ff20b84a87e",
+      "title": "《真正的日记秀》第10期：艺术家Rachel",
+      "date": "2026-06-02",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-493747/"
+    },
+    {
       "hash_id": "348cf87964a74a5a3791dad46ab8319f",
-      "title": "大阪市举行向健康医疗领域捐赠的市长感谢状颁发仪式（健康局）",
+      "title": "大阪市将举行向健康医疗领域捐赠的市长感谢状颁发仪式（健康局）",
       "date": "2026-06-01",
       "importance": "B",
       "labels": [
@@ -445,7 +471,7 @@
     },
     {
       "hash_id": "fd1b3b60ad4bda7fd5356e91b3924640",
-      "title": "菲律宾共和国驻大阪总领事礼节性拜访",
+      "title": "关于菲律宾共和国驻大阪总领事礼节性拜访",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -468,8 +494,60 @@
       "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51185.html"
     },
     {
+      "hash_id": "b115428937176d1f87a118341ee5cce2",
+      "title": "三家人气新店推荐：JW ANDERSON、SUNSPEL、Graphpaper",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "商业",
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-501383/"
+    },
+    {
+      "hash_id": "880aeed0ed8bce1d708cd46553cb2087",
+      "title": "等多少年也要买法拉利的理由",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-503096/"
+    },
+    {
+      "hash_id": "4bc0eeba8fab37a50f3699e2357b4d3b",
+      "title": "冈田田、若林萌等恐怖片爱好者坦白：真正令人恐惧之物",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-376312/"
+    },
+    {
+      "hash_id": "1d3d691013024b117979a445d9bbbc5b",
+      "title": "戴上佩斯利？Drake's × UNITED ARROWS 限定棉质报童帽",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-502423/"
+    },
+    {
       "hash_id": "b4f17b2e85b3add5dda103d0a35feedc",
-      "title": "关于“2026年度面向海外的信息传播事业”最优提案承办机构的选定结果",
+      "title": "关于“2026年度面向海外的信息传播事业”最优提案单位的选定结果",
       "date": "2026-06-02",
       "importance": "C",
       "labels": [
@@ -485,12 +563,36 @@
       "date": "2026-06-02",
       "importance": "C",
       "labels": [
-        "商业",
-        "市政"
+        "低相关"
       ],
       "source_label": "大阪府",
       "region": "osaka",
       "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110010/prs_51052.html"
+    },
+    {
+      "hash_id": "3a87348b5eb16372716219297f611272",
+      "title": "等多少年都想要法拉利的理由",
+      "date": "2026-06-02",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-502815/"
+    },
+    {
+      "hash_id": "d2c0fff4c4dd2447f823db007263222c",
+      "title": "为什么人们想变成猫？",
+      "date": "2026-06-02",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "osaka",
+      "url": "https://brutus.jp/post-389625/"
     },
     {
       "hash_id": "b2b5d6ba12da74fd842da53760bcb704",
@@ -512,7 +614,7 @@
       "importance": "C",
       "labels": [
         "市政",
-        "商业"
+        "低相关"
       ],
       "source_label": "大阪市",
       "region": "osaka",
@@ -540,7 +642,7 @@
       "importance": "S",
       "labels": [
         "防灾",
-        "观光"
+        "市政"
       ],
       "source_label": "毎日新聞",
       "region": "hokkaido",
@@ -602,7 +704,9 @@
       "date": "2026-06-03",
       "importance": "S",
       "labels": [
-        "防灾"
+        "防灾",
+        "交通",
+        "医疗"
       ],
       "source_label": "NHK",
       "region": "national",
@@ -704,7 +808,7 @@
     },
     {
       "hash_id": "622ee433b69db7d7906a5d9b520b56a8",
-      "title": "兵库县龙野市河中发现男性遗体，衣着与母女杀害案嫌疑人相似",
+      "title": "兵库县龙野市河中发现男性遗体，衣着与母女杀人案嫌犯相似",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -728,7 +832,7 @@
     },
     {
       "hash_id": "e1923795ba38f36a3b28b3128231bf79",
-      "title": "涉嫌杀害公司代表，与死者同居男子被逮捕；案发后曾提取现金",
+      "title": "涉嫌杀害公司代表，同居男子被逮捕；案发后还曾取款",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -756,7 +860,8 @@
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
-        "低相关"
+        "防灾",
+        "医疗"
       ],
       "source_label": "朝日新聞",
       "region": "national",
