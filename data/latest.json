@@ -2,6 +2,19 @@
   "date": "2026-06-04",
   "osaka": [
     {
+      "hash_id": "fdd91169f95faae774225cd9a1d7e321",
+      "title": "北区将开展“危险物安全周”联合消防演练",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html"
+    },
+    {
       "hash_id": "19fc861a4d91a40145a80375e54e15d6",
       "title": "关于延长公务员等“应对物价上涨育儿支援津贴”申请期限的通知（儿童青少年局）",
       "date": "2026-06-02",
@@ -21,13 +34,26 @@
       "date": "2026-06-02",
       "importance": "S",
       "labels": [
-        "亲子",
         "教育",
+        "亲子",
         "市政"
       ],
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000679986.html"
+    },
+    {
+      "hash_id": "e23e5a7e7dcc455ad53f2f6fb575cd2a",
+      "title": "开展登革热、基孔肯雅热等蚊媒传染病防控演练！",
+      "date": "2026-06-02",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "防灾"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51184.html"
     },
     {
       "hash_id": "157c007dc422df00269070eb30b5b8cd",
@@ -36,15 +62,28 @@
       "importance": "S",
       "labels": [
         "市政",
-        "防灾"
+        "防灾",
+        "医疗"
       ],
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/kikikanrishitsu/0000678370.html"
     },
     {
+      "hash_id": "85a2b0f8824b17a10a75fa360d66c839",
+      "title": "面向诊所、药店及居家护理站实施加薪与物价上涨支援",
+      "date": "2026-06-01",
+      "importance": "S",
+      "labels": [
+        "医疗"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o100020/prs_50910.html"
+    },
+    {
       "hash_id": "56c945ee53b9efdbd68c7b490b85f572",
-      "title": "东京都厅将举办“大阪全体验博览会”——汇聚大阪优质好物与地道美食",
+      "title": "东京都厅将举办“大阪全体验博览会”——汇聚大阪优质好物与美味佳肴",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -58,7 +97,7 @@
     },
     {
       "hash_id": "4af08649a0cb7474a6189e93cf5ba24a",
-      "title": "寓教于乐普及预防护理知识：全年开展多样化活动——首场活动为大阪城筋力训练×历史探访健步走",
+      "title": "寓教于乐普及‘预防护理’重要性：全年举办多样化活动——首场活动为大阪城筋力训练×历史探访健步走",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -69,19 +108,6 @@
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000679606.html"
-    },
-    {
-      "hash_id": "fdd91169f95faae774225cd9a1d7e321",
-      "title": "北区将开展“危险物安全周”联合消防演练",
-      "date": "2026-06-03",
-      "importance": "A",
-      "labels": [
-        "防灾",
-        "市政"
-      ],
-      "source_label": "大阪市",
-      "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/shobo/0000679434.html"
     },
     {
       "hash_id": "5107089989de1af6c765dd3cd41f6d5a",
@@ -95,6 +121,46 @@
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/nishiyodogawa/0000679703.html"
+    },
+    {
+      "hash_id": "380d3a0da1f920e4c190d1b1d832d352",
+      "title": "大阪电气通信大学与大阪府立工科高等学校签署合作备忘录",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180030/prs_50738.html"
+    },
+    {
+      "hash_id": "80d24b21ef7b56f80c070dae4007bea7",
+      "title": "将在东京都厅举办“大阪全体验博览会”",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "饮食",
+        "文化"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020070/prs_50134.html"
+    },
+    {
+      "hash_id": "10f5fdf0365f2687c88107a7c03f1842",
+      "title": "支持校长管理下的学校运营",
+      "date": "2026-06-02",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180040/prs_51150.html"
     },
     {
       "hash_id": "2db6ae824b5837a15e0e4858d8599369",
@@ -122,6 +188,47 @@
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/toshikeikaku/0000679797.html"
     },
     {
+      "hash_id": "febb855bd86d518aef1470939d450c9a",
+      "title": "2026年御堂筋灯光秀：招募“我的留言树”及“支持者树”参与者",
+      "date": "2026-06-01",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "节日",
+        "观光"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51223.html"
+    },
+    {
+      "hash_id": "f0cce6a02431e0bd88551136b7c83682",
+      "title": "【首批公布】大阪市启动令和8年度“大阪CO₂（点滴）积分＋”发放",
+      "date": "2026-06-01",
+      "importance": "A",
+      "labels": [
+        "市政",
+        "商业"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51285.html"
+    },
+    {
+      "hash_id": "2c48998bd9487f9aec7f04496351c780",
+      "title": "“大家一起来减碳（减CO₂）项目2026”即将启动！",
+      "date": "2026-06-01",
+      "importance": "A",
+      "labels": [
+        "市政",
+        "防灾",
+        "教育"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51293.html"
+    },
+    {
       "hash_id": "b4fc9c61a3a16ba383c266f4c37bea7e",
       "title": "千岁渡船场电话中断情况通报（第一报）（建设局）",
       "date": "2026-06-03",
@@ -133,6 +240,19 @@
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000680418.html"
+    },
+    {
+      "hash_id": "38b9f12ea37e00b2a75be6934fe52c1d",
+      "title": "大阪府环境影响评价审查会专业调查分会召开通知",
+      "date": "2026-06-03",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "防灾"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120070/prs_51144.html"
     },
     {
       "hash_id": "ce9b73782493e12e34af0fe54eece910",
@@ -150,7 +270,7 @@
     },
     {
       "hash_id": "c7695ae96196239cee0d55dad7e586cb",
-      "title": "举办令和8年度第一次福岛区区政会议（福岛区）",
+      "title": "令和8年度第一次福岛区区政会议召开通知（福岛区）",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -209,8 +329,46 @@
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/hirano/0000680179.html"
     },
     {
+      "hash_id": "d1a28f368b488f72fe4f3b9a3cd0fd48",
+      "title": "6月为大阪府危险品安全月",
+      "date": "2026-06-02",
+      "importance": "B",
+      "labels": [
+        "防灾",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020100/prs_50958.html"
+    },
+    {
+      "hash_id": "8f2e3494717fa6bb3a233f05759bf496",
+      "title": "讲师志愿者登记说明会举办通知",
+      "date": "2026-06-02",
+      "importance": "B",
+      "labels": [
+        "教育"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o180110/prs_51130.html"
+    },
+    {
+      "hash_id": "746296afc5bda6971720e4df5e996e39",
+      "title": "新名神高速公路建设促进大会召开",
+      "date": "2026-06-02",
+      "importance": "B",
+      "labels": [
+        "交通",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130060/prs_51073.html"
+    },
+    {
       "hash_id": "348cf87964a74a5a3791dad46ab8319f",
-      "title": "大阪市将举行向健康医疗领域捐赠的市长感谢状颁发仪式（健康局）",
+      "title": "大阪市举行向健康医疗领域捐赠的市长感谢状颁发仪式（健康局）",
       "date": "2026-06-01",
       "importance": "B",
       "labels": [
@@ -246,6 +404,95 @@
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/miyakojima/0000679337.html"
     },
     {
+      "hash_id": "f96378769b4fce82b38e14dbef1eabb2",
+      "title": "“支撑未来制造业的产业人才培养项目”最优秀提案单位揭晓",
+      "date": "2026-06-01",
+      "importance": "B",
+      "labels": [
+        "教育",
+        "商业",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110110/prs_50748.html"
+    },
+    {
+      "hash_id": "5ca49cfc2a6c4b91a56ff8380ffa3e72",
+      "title": "《第二期》脉脉纪念碑等活用项目【设置地点】征集提案",
+      "date": "2026-06-01",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070070/prs_51214.html"
+    },
+    {
+      "hash_id": "eec55ae2bcf0b59c1195d0ea6370560b",
+      "title": "征集令和8年度钙钛矿太阳能电池导入可行性调查及导入计划制定项目的策划提案单位",
+      "date": "2026-06-01",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "住宅"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o120020/prs_51295.html"
+    },
+    {
+      "hash_id": "fd1b3b60ad4bda7fd5356e91b3924640",
+      "title": "菲律宾共和国驻大阪总领事礼节性拜访",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51187.html"
+    },
+    {
+      "hash_id": "12142f42da95237d9cadde598d8781bb",
+      "title": "下一任澳大利亚驻日大使礼节性拜会",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o070090/prs_51185.html"
+    },
+    {
+      "hash_id": "b4f17b2e85b3add5dda103d0a35feedc",
+      "title": "关于“2026年度面向海外的信息传播事业”最优提案承办机构的选定结果",
+      "date": "2026-06-02",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o020050/prs_50950.html"
+    },
+    {
+      "hash_id": "f97d7bb5798e73cb5d45e99032b3cac5",
+      "title": "关于与大阪府职员劳动组合商工劳动支部的交涉",
+      "date": "2026-06-02",
+      "importance": "C",
+      "labels": [
+        "商业",
+        "市政"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110010/prs_51052.html"
+    },
+    {
       "hash_id": "b2b5d6ba12da74fd842da53760bcb704",
       "title": "关于建设局互联网线路使用费支付延迟产生的滞纳金",
       "date": "2026-06-01",
@@ -270,6 +517,19 @@
       "source_label": "大阪市",
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/kankyo/0000679163.html"
+    },
+    {
+      "hash_id": "6cc2d5c12069657482286ae0bfb19b01",
+      "title": "征集“令和8年度飞行汽车专用起降场等基地建设事业补助金”资助项目",
+      "date": "2026-06-01",
+      "importance": "C",
+      "labels": [
+        "交通",
+        "商业"
+      ],
+      "source_label": "大阪府",
+      "region": "osaka",
+      "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o110020/prs_51229.html"
     }
   ],
   "hokkaido": [
@@ -280,7 +540,7 @@
       "importance": "S",
       "labels": [
         "防灾",
-        "市政"
+        "观光"
       ],
       "source_label": "毎日新聞",
       "region": "hokkaido",
@@ -336,6 +596,172 @@
     }
   ],
   "national": [
+    {
+      "hash_id": "c8fb058eae781e4bf17a1abe29533a22",
+      "title": "台风6号已转化为温带低气压，冲绳至东海6县共23人受伤",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138881000"
+    },
+    {
+      "hash_id": "6b461e052139f55e298981b975ec4c8c",
+      "title": "因不孕治疗，丈夫起诉医疗机构：称妻子未经其同意使用他人精子生育",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "亲子"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV633TZLV63OXIE01FM.html?ref=rss"
+    },
+    {
+      "hash_id": "313498430b007773d8e13aab206a9507",
+      "title": "台风6号停课决定引发争议：学校困惑称‘仅风雨强劲不足以停课’",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "教育",
+        "防灾"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV633Q0CV63UTIL00QM.html?ref=rss"
+    },
+    {
+      "hash_id": "30d5cd106ed8f3f207e0bc78e0c09418",
+      "title": "【详细解读】去年新生儿67万人，创历史最低，少子化对策关键点",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "教育",
+        "市政"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139641000"
+    },
+    {
+      "hash_id": "cc2382bb2e766f7e76e4c0eac4f399d3",
+      "title": "食品消费税减税：政府与执政党拟自明年4月起下调至1%",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "商业"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139591000"
+    },
+    {
+      "hash_id": "456de154f9b7e6b85ac7620ad3ff4ef4",
+      "title": "癌症预防最新指南：饮酒建议从“限酒”调整为“戒酒/减少饮酒”",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "医疗",
+        "饮食"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139971000"
+    },
+    {
+      "hash_id": "13bac13934ea061e9213444bf06442fa",
+      "title": "“希望遏制少子化”——各地反响汇总（地方媒体视角）",
+      "date": "2026-06-03",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "市政",
+        "亲子"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV632TXXV63OXIE015M.html?ref=rss"
+    },
+    {
+      "hash_id": "31c3320e042a5ca480d5532a89ab81c5",
+      "title": "东京都出生率止跌回升，出生人数转正，小池知事表示“令人欣喜”",
+      "date": "2026-06-03",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "教育",
+        "亲子"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV633C9TV63OXIE043M.html?ref=rss"
+    },
+    {
+      "hash_id": "622ee433b69db7d7906a5d9b520b56a8",
+      "title": "兵库县龙野市河中发现男性遗体，衣着与母女杀害案嫌疑人相似",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133301000"
+    },
+    {
+      "hash_id": "328ad167663c14036c8abca09b1e519e",
+      "title": "美伊持续相互攻击，协商无进展，局势不稳",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138921000"
+    },
+    {
+      "hash_id": "e1923795ba38f36a3b28b3128231bf79",
+      "title": "涉嫌杀害公司代表，与死者同居男子被逮捕；案发后曾提取现金",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV631H4KV63UTIL00LM.html?ref=rss"
+    },
+    {
+      "hash_id": "2504f8e9367edd140fe37cf48e2c6dcd",
+      "title": "涉嫌指使“匿流”盗窃，公开通缉4小时后自首并被逮捕",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV634V1QV63PTIL00ZM.html?ref=rss"
+    },
+    {
+      "hash_id": "4eabbce216f0f9b1a5488c5ab77b7e9d",
+      "title": "冈山一名大学教授因涉嫌在 escalator 上偷拍女性裙底被当场逮捕",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV634CV5V63PITB01MM.html?ref=rss"
+    },
     {
       "hash_id": "4b5ffd388ff4a5f3110874fad97dde57",
       "title": "跳转到主内容",
