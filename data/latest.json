@@ -1010,6 +1010,21 @@
       "image_url": ""
     },
     {
+      "hash_id": "d24f6a41ab671c36e171aa2300fa4215",
+      "title": "北海道出生率降至1.00，超半数受访者因“经济压力”放弃生育",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "亲子",
+        "教育",
+        "市政"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1320468/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/4/8/8/04885ecef18677b211cc1afebe8d5598_1.webp?20260604062834"
+    },
+    {
       "hash_id": "de7c16cec04ad4675a9e4d54e33db333",
       "title": "北海道各地熊对策缺乏因地制宜方案，专家在研讨会上提出批评",
       "date": "2026-06-03",
@@ -1046,13 +1061,13 @@
       "importance": "A",
       "labels": [
         "医疗",
-        "亲子",
-        "教育"
+        "教育",
+        "亲子"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1319817/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/a/8/9/3/a893f1b1e890ea0bbde7769b6ea58de0_1.webp?20260604061916"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/a/8/9/3/a893f1b1e890ea0bbde7769b6ea58de0_1.webp?20260604062825"
     },
     {
       "hash_id": "a1c538153cffb79031f9379abce09440",
@@ -1061,38 +1076,22 @@
       "importance": "A",
       "labels": [
         "文化",
-        "观光",
-        "节日"
+        "节日",
+        "观光"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1320470/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/8/1/0/2810c2ea667d361672b683c686aed980_1.webp?20260604061915"
-    },
-    {
-      "hash_id": "d24f6a41ab671c36e171aa2300fa4215",
-      "title": "北海道出生率降至1.00，超半数受访者因“经济压力”放弃生育",
-      "date": "2026-06-03",
-      "importance": "A",
-      "labels": [
-        "亲子",
-        "教育",
-        "市政"
-      ],
-      "source_label": "北海道新聞",
-      "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1320468/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/4/8/8/04885ecef18677b211cc1afebe8d5598_1.webp?20260604061949"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/8/1/0/2810c2ea667d361672b683c686aed980_1.webp?20260604062831"
     },
     {
       "hash_id": "10230fffb751916cfc2b73aaded9dc0e",
-      "title": "警惕“伪空调”：宣称“1秒降温”“直降20℃”产品投诉激增",
+      "title": "警惕“伪空调”：宣称“1秒降温20℃”产品咨询激增",
       "date": "2026-06-02",
       "importance": "A",
       "labels": [
         "商业",
-        "住宅",
-        "防灾"
+        "住宅"
       ],
       "source_label": "HTB北海道テレビ",
       "region": "hokkaido",
@@ -1101,7 +1100,7 @@
     },
     {
       "hash_id": "d85fbef6b11b710f974dbf99f72709b3",
-      "title": "札幌市营地铁东西线延伸至手稻区：高架化或降低每公里约400亿日元成本",
+      "title": "札幌地铁东西线拟延伸至手稻区，高架化或大幅降低成本",
       "date": "2026-06-01",
       "importance": "A",
       "labels": [
@@ -1116,7 +1115,7 @@
     },
     {
       "hash_id": "ef40240e16a55fd8816dcee314940e23",
-      "title": "今春起北海道高中棒球全面实施指定打击（DH）制度",
+      "title": "今春起日本高中棒球引入指定击球员（DH）制度",
       "date": "2026-06-04",
       "importance": "B",
       "labels": [
@@ -1126,7 +1125,7 @@
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1320474/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/4/6/d/246df274f03efd9f80504d66b62067d8_1.webp?20260604061918"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/4/6/d/246df274f03efd9f80504d66b62067d8_1.webp?20260604062827"
     },
     {
       "hash_id": "f61bfdbf8224d0619697dee892b38d1d",
@@ -1153,7 +1152,7 @@
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1320469/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/4/5/b/2/45b2591a44d6572a6a441df8e3129cf0_1.webp?20260604061947"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/4/5/b/2/45b2591a44d6572a6a441df8e3129cf0_1.webp?20260604062833"
     },
     {
       "hash_id": "31e137d5aaa16a8a73dd41799acd3a10",
@@ -1218,11 +1217,11 @@
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1320466/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/c/0/f/0/c0f0c66e61cfaa48c1dc8a01f5ecb8c8_1.webp?20260604061953"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/c/0/f/0/c0f0c66e61cfaa48c1dc8a01f5ecb8c8_1.webp?20260604062838"
     },
     {
       "hash_id": "f91824961076607bb6721fcdeb4f2918",
-      "title": "札幌一女子因在自助收银台假装扫码盗取4个装布丁被逮捕",
+      "title": "札幌一女子62岁老人在自助收银台假装扫码盗走4个装布丁被逮捕",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -1249,7 +1248,7 @@
     },
     {
       "hash_id": "23d5b1321204f834e68a4872e00ec9e2",
-      "title": "被告称“若有刀就已刺杀”，否认杀人故意，旭川女高中生遭杀害",
+      "title": "被告称“若有刀就想刺人”，否认杀人故意，涉嫌杀害旭川女高中生",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -1284,7 +1283,7 @@
       "source_label": "北海道新聞",
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1320467/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/6/4/1/c/641c163d4e1a5eb25f4b7ca373f0dc81_1.webp?20260604061951"
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/6/4/1/c/641c163d4e1a5eb25f4b7ca373f0dc81_1.webp?20260604062836"
     }
   ],
   "national": [
@@ -1302,6 +1301,20 @@
       "region": "national",
       "url": "https://news.web.nhk/newsweb/na/na-k10015138881000",
       "image_url": ""
+    },
+    {
+      "hash_id": "4eabbce216f0f9b1a5488c5ab77b7e9d",
+      "title": "冈山大学教授因在 escalator 上偷拍女性裙底被当场逮捕",
+      "date": "2026-06-03",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "教育"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV634CV5V63PITB01MM.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260603004993_comm.jpg"
     },
     {
       "hash_id": "6b461e052139f55e298981b975ec4c8c",
@@ -1447,19 +1460,6 @@
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
-      "hash_id": "4eabbce216f0f9b1a5488c5ab77b7e9d",
-      "title": "冈山警方现役逮捕大学教授，涉嫌在 escalator 上偷拍女性裙底",
-      "date": "2026-06-03",
-      "importance": "B",
-      "labels": [
-        "教育"
-      ],
-      "source_label": "朝日新聞",
-      "region": "national",
-      "url": "http://www.asahi.com/articles/ASV634CV5V63PITB01MM.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260603004993_comm.jpg"
-    },
-    {
       "hash_id": "31c3320e042a5ca480d5532a89ab81c5",
       "title": "东京都出生率止跌回升，出生人数转正，小池知事表示“令人欣喜”",
       "date": "2026-06-03",
@@ -1481,7 +1481,7 @@
       "importance": "B",
       "labels": [
         "饮食",
-        "商业",
+        "市政",
         "防灾"
       ],
       "source_label": "東京新聞",
@@ -1513,6 +1513,32 @@
       "source_label": "東京新聞",
       "region": "national",
       "url": "https://www.tokyo-np.co.jp/article/492727",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "c04477dfab6a97013bc7d1845302be35",
+      "title": "卡斯特罗诞辰日古巴强硬回应美国批评",
+      "date": "2026-06-04",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/492733",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "4aebe9d19cd8c90e8c8db0c482043eec",
+      "title": "泽连斯基警告俄扩大远程打击，称将采取反制措施",
+      "date": "2026-06-04",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/492732",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
@@ -1556,7 +1582,7 @@
     },
     {
       "hash_id": "2504f8e9367edd140fe37cf48e2c6dcd",
-      "title": "涉嫌指使盗窃团伙作案，嫌犯在公开通缉4小时后自首被捕",
+      "title": "涉嫌指使“匿流”犯罪，公开通缉4小时后自首并被捕",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -1607,12 +1633,39 @@
       "image_url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015140201_2606032200_0604053854_01_03.jpg"
     },
     {
+      "hash_id": "7f030ef9e0578c90cc30de439c1eec87",
+      "title": "兵库县龙野市河中遗体身份确认，系被公开通缉的母女杀害案嫌疑人",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "防灾",
+        "市政",
+        "低相关"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV634QN5V63PQIP010M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260604000543_comm.jpg"
+    },
+    {
+      "hash_id": "a4d60257559f60dc2139847975a456b2",
+      "title": "兵库县龙野市母女杀害案：嫌犯遗体在河中被发现",
+      "date": "2026-06-03",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK NEWS WEB",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140301000",
+      "image_url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015140301_2606040623_0604062406_01_02.jpg"
+    },
+    {
       "hash_id": "e8717082b9cf5f74b90cf34c70d6df82",
       "title": "《东京新闻》将电子新闻简报推送频次增至每日3次",
       "date": "2026-06-01",
       "importance": "C",
       "labels": [
-        "市政",
         "低相关"
       ],
       "source_label": "東京新聞",
@@ -1741,7 +1794,7 @@
   "culture": [
     {
       "hash_id": "844f9496e820329fd432c660efee5cff",
-      "title": "艺术感星巴克登陆东京谷中，与历史街区共生",
+      "title": "艺术感星巴克登陆东京谷中：历史街区HAGISO建筑再生项目",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -1756,7 +1809,7 @@
     },
     {
       "hash_id": "23a5f4d1d34c0a248dadd20388e8789f",
-      "title": "小岩井农场内私人桑拿浴场：汤道式奢华体验",
+      "title": "小岩井农场内私人桑拿浴场：汤道百选第117回，极致日式奢华泡汤体验",
       "date": "2026-06-03",
       "importance": "A",
       "labels": [
@@ -1775,8 +1828,8 @@
       "date": "2026-06-02",
       "importance": "A",
       "labels": [
-        "文化",
         "体育",
+        "文化",
         "商业"
       ],
       "source_label": "Casa BRUTUS",
@@ -1791,7 +1844,8 @@
       "importance": "B",
       "labels": [
         "饮食",
-        "文化"
+        "文化",
+        "商业"
       ],
       "source_label": "BRUTUS",
       "region": "culture",
@@ -1800,7 +1854,7 @@
     },
     {
       "hash_id": "288798596829ddacb900938673b3ec06",
-      "title": "设计师祖父江慎生前参与打造井上奈奈猫主题艺术画册",
+      "title": "设计师祖父江慎生前参与打造的井上奈奈猫主题艺术画册问世",
       "date": "2026-06-03",
       "importance": "B",
       "labels": [
@@ -1814,7 +1868,7 @@
     },
     {
       "hash_id": "1a62e35cf25255037fcf2ff20b84a87e",
-      "title": "电台节目《the TRUE DIARY show》第10期专访艺术家Rachel",
+      "title": "电台节目《THE TRUE DIARY SHOW》第10期专访艺术家Rachel",
       "date": "2026-06-02",
       "importance": "B",
       "labels": [
@@ -1843,7 +1897,7 @@
     },
     {
       "hash_id": "076819a7738c07887832b80ef62c7576",
-      "title": "日本香氛品牌T.T与感知实验室Arpa联名推出记忆唤醒香氛",
+      "title": "日本香氛品牌T.T与感知实验室Arpa跨界合作推出记忆唤醒香氛",
       "date": "2026-06-01",
       "importance": "B",
       "labels": [
@@ -1858,7 +1912,7 @@
     },
     {
       "hash_id": "329c44d2633ba9198e58e45e9b0d67cc",
-      "title": "汉斯·J·韦格纳博物馆在其故乡丹麦图宁开馆",
+      "title": "丹麦设计大师韦格纳故乡博物馆正式开馆",
       "date": "2026-06-01",
       "importance": "B",
       "labels": [
@@ -1873,7 +1927,7 @@
     },
     {
       "hash_id": "b115428937176d1f87a118341ee5cce2",
-      "title": "东京新晋三家精品店：JW ANDERSON、Sunspel、Graphpaper",
+      "title": "日本新晋精品店推荐：JW ANDERSON、SUNSPEL、Graphpaper三家品牌入驻",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -1931,7 +1985,7 @@
     },
     {
       "hash_id": "445b6939f03a1c458905e360e6bca1b3",
-      "title": "经典跑车AC Cobra现代复刻版发布",
+      "title": "经典跑车AC Cobra现代复刻版发布，再现教科书级运动设计",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
@@ -1946,7 +2000,7 @@
     },
     {
       "hash_id": "71fb446e74cb86c48d7793bf7a0b8789",
-      "title": "大谷翔平与李政厚佩戴的顶级腕表：Grand Seiko与TAG Heuer",
+      "title": "大谷翔平与李政厚佩戴的日本与韩国顶级腕表：Grand Seiko与Tag Heuer",
       "date": "2026-06-03",
       "importance": "C",
       "labels": [
