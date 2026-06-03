@@ -140,63 +140,82 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 /* ── Article Card ───────────────────── */
 .article-list { display: flex; flex-direction: column; gap: 0; }
-.article-card {
-  padding: 16px 0;
+.article-list--wide { display: flex; flex-direction: column; gap: 0; }
+
+/* 统一宽图竖向卡片（所有板块） */
+.article-card--wide {
+  padding: 20px 0;
   border-bottom: 1px solid var(--c-line);
   transition: background 0.15s;
   display: flex;
-  gap: 12px;
-  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
 }
-.article-card:first-child { border-top: 1px solid var(--c-line); }
-.article-card:hover { background: rgba(0,0,0,0.015); }
+.article-card--wide:first-child { border-top: 1px solid var(--c-line); }
+.article-card--wide:hover { background: rgba(0,0,0,0.015); }
 
-/* 卡片图片 */
-.card-image-wrap {
-  flex-shrink: 0;
-  width: 88px;
-  height: 66px;
+/* S/A 级左竖线 */
+.article-card--wide.imp-s { border-left: 3px solid var(--c-s); padding-left: 14px; }
+.article-card--wide.imp-a { border-left: 3px solid var(--c-a); padding-left: 14px; }
+
+/* 宽图 */
+.card-image-wrap--wide {
+  width: 100%;
+  height: 180px;
   border-radius: var(--r);
   overflow: hidden;
   display: block;
 }
-.card-thumb {
+.card-thumb--wide {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
+  border-radius: var(--r);
 }
 .card-body { flex: 1; min-width: 0; }
 
-/* S级卡片：左侧朱红竖线 */
-.article-card.imp-s {
-  border-left: 3px solid var(--c-s);
-  padding-left: 14px;
-}
-.article-card.imp-a {
-  border-left: 3px solid var(--c-a);
-  padding-left: 14px;
-}
-.article-card.imp-b, .article-card.imp-c {
-  padding-left: 17px;
-}
-
-/* 文化艺术卡片：宽图模式 */
-.article-list--culture .article-card--culture {
-  flex-direction: column;
-  gap: 8px;
-}
-.card-image-wrap--wide {
-  width: 100%;
-  height: 160px;
-}
-.card-thumb--wide { border-radius: var(--r); }
 .source-tag--culture {
   background: #1A3A5C22;
   color: var(--c-a);
   border: 1px solid #1A3A5C33;
 }
 .card-title--culture { font-size: 1rem; }
+
+/* ── 换一批按钮 ──────────────────────── */
+.batch-controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 14px;
+}
+.btn-batch {
+  font-family: var(--font-jp);
+  font-size: 0.72rem;
+  color: var(--c-sub);
+  background: none;
+  border: 1px solid var(--c-line);
+  border-radius: 20px;
+  padding: 3px 14px;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  transition: border-color 0.15s, color 0.15s;
+}
+.btn-batch:hover:not(:disabled) {
+  border-color: var(--c-ink);
+  color: var(--c-ink);
+}
+.btn-batch:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+.batch-indicator {
+  font-size: 0.7rem;
+  color: var(--c-c);
+  min-width: 36px;
+  text-align: center;
+}
 
 .card-meta {
   display: flex;
