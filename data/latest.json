@@ -1,0 +1,115 @@
+{
+  "date": "2026-06-04",
+  "osaka": [],
+  "hokkaido": [],
+  "national": [
+    {
+      "hash_id": "4b5ffd388ff4a5f3110874fad97dde57",
+      "title": "跳转到主内容",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp#main-container"
+    },
+    {
+      "hash_id": "1dcdf9401018a83818b6e3fa57161127",
+      "title": "上午临时内阁会议概要",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/3_a.html"
+    },
+    {
+      "hash_id": "b2f74e79d48cd4240acf06485d9f8d5f",
+      "title": "下午开场无发言（尾崎正直内阁官房副长官）",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_p.html"
+    },
+    {
+      "hash_id": "ff7bedf9e9e0ff900642164cdee5ea74",
+      "title": "上午内阁会议概要：首里城正殿复原竣工仪式及马来西亚首相安瓦尔访日",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/2_a.html"
+    },
+    {
+      "hash_id": "de082d8e91a126c36b0eea748f4b04ec",
+      "title": "下午开场无发言",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_p.html"
+    },
+    {
+      "hash_id": "f6b00c28b5f6b543620f04bca4d33605",
+      "title": "上午开场无发言",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/28_a.html"
+    },
+    {
+      "hash_id": "096b724b15388f23d2c2287fec018770",
+      "title": "上午内阁会议概要",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/29_a.html"
+    },
+    {
+      "hash_id": "efaa1fc3f9eb341f1bb40ae69bd6b2e4",
+      "title": "上午开场无发言（尾崎正直内阁官房副长官）",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/27_a.html"
+    },
+    {
+      "hash_id": "41adf6bca339dbc337e4f9e633315351",
+      "title": "上午内阁会议概要（内阁官房副长官尾崎正直）",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "首相官邸",
+      "region": "national",
+      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202605/26_a.html"
+    }
+  ]
+}

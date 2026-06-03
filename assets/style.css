@@ -1,0 +1,335 @@
+/* ─────────────────────────────────────────
+   Japan Assistant — 侘寂·简约 Design System
+   色板：
+     米白  #F8F7F4  (背景)
+     墨黑  #1C1C1C  (主文字)
+     石灰  #8A8A8A  (次要文字)
+     浅砂  #EDEBE6  (分割线/卡片边)
+     朱红  #9B2335  (S级/重点)
+     深蓝  #1A3A5C  (A级/标签)
+     茶褐  #6B4F3A  (B级)
+     石色  #B0ABA4  (C级)
+──────────────────────────────────────── */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --c-bg:      #F8F7F4;
+  --c-surface: #FDFCFA;
+  --c-ink:     #1C1C1C;
+  --c-sub:     #8A8A8A;
+  --c-line:    #EDEBE6;
+  --c-s:       #9B2335;
+  --c-a:       #1A3A5C;
+  --c-b:       #6B4F3A;
+  --c-c:       #B0ABA4;
+  --font-jp:   "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic",
+               "Noto Sans JP", system-ui, -apple-system, sans-serif;
+  --r:         2px;
+  --max-w:     760px;
+}
+
+html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+body {
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-family: var(--font-jp);
+  line-height: 1.75;
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ── Header ─────────────────────────── */
+.site-header {
+  position: sticky; top: 0; z-index: 100;
+  background: var(--c-bg);
+}
+.header-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 20px 24px 16px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.site-logo {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.logo-jp {
+  font-size: 1.5rem;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+  color: var(--c-s);
+}
+.logo-zh {
+  font-size: 0.85rem;
+  color: var(--c-sub);
+  letter-spacing: 0.08em;
+}
+.site-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+.date-badge {
+  font-size: 0.8rem;
+  color: var(--c-ink);
+  letter-spacing: 0.06em;
+}
+.update-time {
+  font-size: 0.7rem;
+  color: var(--c-sub);
+}
+.header-divider {
+  height: 1px;
+  background: var(--c-line);
+  max-width: var(--max-w);
+  margin: 0 auto;
+  width: calc(100% - 48px);
+}
+.back-link {
+  font-size: 0.8rem;
+  color: var(--c-sub);
+  letter-spacing: 0.04em;
+}
+.back-link:hover { color: var(--c-ink); }
+
+/* ── Main ───────────────────────────── */
+.main-content {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+/* ── Region Block ───────────────────── */
+.region-block { padding: 8px 0 32px; }
+.region-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+.region-kana {
+  font-size: 0.7rem;
+  color: var(--c-sub);
+  letter-spacing: 0.15em;
+  writing-mode: horizontal-tb;
+}
+.region-title {
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  color: var(--c-ink);
+}
+.region-count {
+  font-size: 0.75rem;
+  color: var(--c-sub);
+  margin-left: auto;
+}
+
+.section-divider {
+  height: 1px;
+  background: var(--c-line);
+  margin: 8px 0 40px;
+}
+
+/* ── Article Card ───────────────────── */
+.article-list { display: flex; flex-direction: column; gap: 0; }
+.article-card {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--c-line);
+  transition: background 0.15s;
+}
+.article-card:first-child { border-top: 1px solid var(--c-line); }
+.article-card:hover { background: rgba(0,0,0,0.015); }
+
+/* S级卡片：左侧朱红竖线 */
+.article-card.imp-s {
+  border-left: 3px solid var(--c-s);
+  padding-left: 14px;
+}
+.article-card.imp-a {
+  border-left: 3px solid var(--c-a);
+  padding-left: 14px;
+}
+.article-card.imp-b, .article-card.imp-c {
+  padding-left: 17px;
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+.imp-badge {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 1px 6px;
+  border-radius: var(--r);
+}
+.imp-badge.imp-s { background: var(--c-s); color: #fff; }
+.imp-badge.imp-a { background: var(--c-a); color: #fff; }
+.imp-badge.imp-b { background: var(--c-b); color: #fff; }
+.imp-badge.imp-c { background: var(--c-line); color: var(--c-sub); }
+
+.art-date {
+  font-size: 0.72rem;
+  color: var(--c-sub);
+  letter-spacing: 0.04em;
+}
+.source-tag {
+  font-size: 0.68rem;
+  color: var(--c-sub);
+  background: var(--c-line);
+  padding: 1px 7px;
+  border-radius: 20px;
+}
+.region-tag {
+  font-size: 0.68rem;
+  color: var(--c-sub);
+}
+
+.card-title {
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  letter-spacing: 0.02em;
+}
+.card-title a:hover { color: var(--c-s); }
+
+.card-summary {
+  font-size: 0.82rem;
+  color: #4A4A4A;
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+
+.card-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.label-chip {
+  font-size: 0.65rem;
+  color: var(--c-sub);
+  border: 1px solid var(--c-line);
+  padding: 1px 8px;
+  border-radius: 20px;
+  letter-spacing: 0.04em;
+}
+
+.empty-state {
+  font-size: 0.82rem;
+  color: var(--c-c);
+  padding: 20px 0;
+  letter-spacing: 0.06em;
+}
+.show-more {
+  font-size: 0.75rem;
+  color: var(--c-sub);
+  margin-top: 12px;
+  text-align: right;
+}
+
+/* ── Article Detail ─────────────────── */
+.article-main {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+.article-detail {}
+.article-header { margin-bottom: 28px; }
+.article-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.article-title {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.55;
+  letter-spacing: 0.03em;
+  margin-bottom: 12px;
+}
+.article-lead {
+  font-size: 0.9rem;
+  color: #4A4A4A;
+  line-height: 1.7;
+  margin-bottom: 14px;
+  padding: 12px 16px;
+  border-left: 3px solid var(--c-line);
+  background: var(--c-surface);
+}
+.article-labels { display: flex; flex-wrap: wrap; gap: 6px; }
+.article-divider {
+  height: 1px;
+  background: var(--c-line);
+  margin: 24px 0;
+}
+.importance-box {
+  padding: 14px 16px;
+  border-radius: var(--r);
+  margin-bottom: 20px;
+}
+.imp-bg-s { background: #FDF1F2; border-left: 3px solid var(--c-s); }
+.imp-bg-a { background: #EEF3F8; border-left: 3px solid var(--c-a); }
+.imp-bg-b { background: #F5EFE9; border-left: 3px solid var(--c-b); }
+.imp-bg-c { background: var(--c-surface); border-left: 3px solid var(--c-line); }
+.imp-label {
+  display: block;
+  font-size: 0.68rem;
+  color: var(--c-sub);
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+}
+.importance-box p { font-size: 0.85rem; line-height: 1.65; }
+.source-link-box {
+  padding: 14px 16px;
+  background: var(--c-surface);
+  border: 1px solid var(--c-line);
+  border-radius: var(--r);
+}
+.source-hint {
+  font-size: 0.68rem;
+  color: var(--c-sub);
+  margin-bottom: 5px;
+  letter-spacing: 0.08em;
+}
+.source-link {
+  font-size: 0.78rem;
+  color: var(--c-a);
+  word-break: break-all;
+}
+
+/* ── Footer ─────────────────────────── */
+.site-footer {
+  text-align: center;
+  padding: 32px 24px 40px;
+  border-top: 1px solid var(--c-line);
+  color: var(--c-sub);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  line-height: 2;
+}
+.footer-note { font-size: 0.68rem; color: var(--c-c); }
+
+/* ── Responsive ─────────────────────── */
+@media (max-width: 600px) {
+  .header-inner { padding: 16px 16px 12px; }
+  .main-content, .article-main { padding: 24px 16px 60px; }
+  .logo-jp { font-size: 1.2rem; }
+  .region-title { font-size: 1.2rem; }
+  .article-title { font-size: 1.1rem; }
+}
