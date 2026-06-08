@@ -2,6 +2,35 @@
   "date": "2026-06-08",
   "osaka": [
     {
+      "hash_id": "c03c902de67f8c2fd640a495678acb21",
+      "title": "大阪市福岛区役所发生高额介护服务费负担上限额计算错误",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushima/0000680582.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
+      "hash_id": "fece16b0f2bfe012a0c1f47c293c6572",
+      "title": "大阪市立粉浜幼儿园因供水管破裂临时停园",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "亲子",
+        "教育",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kodomo/0000680878.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
       "hash_id": "5d9980674aa4b19009ed1a2b5b094fe9",
       "title": "疑似亲子殉情事件致3人死亡，家中发现带血菜刀",
       "date": "2026-06-07",
@@ -32,6 +61,21 @@
       "image_url": ""
     },
     {
+      "hash_id": "6ad98ee7f5d8135166fcac5d1b668a6a",
+      "title": "池田小学儿童杀伤事件25周年：母亲将女儿最后走过的走廊地板制成饰品赠予重要之人",
+      "date": "2026-06-07",
+      "importance": "S",
+      "labels": [
+        "亲子",
+        "教育",
+        "防灾"
+      ],
+      "source_label": "読売新聞大阪",
+      "region": "osaka",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTlJFa0FXcWtuSG14WlNPX0l3azdzYUhrbWtwcUg3emoxUUZSbWN0SF9yRTNTcEFGeWp4djQ0UHcybkRSeWM2dDVSdUpwOWVERkU4NUVYSmJoRjkzbXdTSE15TWRkM01aMUZ6bVI1a0VNZw?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "5b6f7d9a395f582a9642fe9c675885d9",
       "title": "近畿地区7日下午普遍降雨，局部雨势增强",
       "date": "",
@@ -43,6 +87,111 @@
       "region": "osaka",
       "url": "https://newsdig.tbs.co.jp/articles/mbs/2714892",
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/9/a/1200w/img_9a929d3b5ec940fa1914cf9a969f55ae246831.jpg"
+    },
+    {
+      "hash_id": "4f99627bdb089e5eb261e87881770ad2",
+      "title": "【海啸信息】和歌山县串本町袋港观测到最大0.2米海啸",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716926",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/4/3/1200w/img_43bee7d37d8406b130eff4eaeb661c9a80956.jpg"
+    },
+    {
+      "hash_id": "79d532075dc3733a47303e73f727f8e5",
+      "title": "【速报】和歌山县串本町袋港观测到0.2米海啸，那智胜浦町浦神亦有记录",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716738",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/b/a/1200w/img_ba415a1462185f7d83ca4b40d444efbb272762.jpg"
+    },
+    {
+      "hash_id": "01f4158b836c3415603cc1f2fd87544c",
+      "title": "【速报】和歌山县串本町袋港观测到首波海啸高0.1米，那智胜浦町浦神亦有观测",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716709",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/0/b/1200w/img_0bc378da2a6881c039b6f403c9d0973d281382.jpg"
+    },
+    {
+      "hash_id": "0c146fdb480d82de4d6d6862dd57ad78",
+      "title": "【海啸信息】气象厅发布海啸观测信息（截至13:25）",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716584",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/d/b/1200w/img_db5b4769cd6c00fcb7e739be1dc8f8fe205966.jpg"
+    },
+    {
+      "hash_id": "b04daffeda7a6ab31355223ab1206226",
+      "title": "【海啸信息】气象厅发布海啸观测信息（13:18更新）",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716554",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/d/b/1200w/img_db5b4769cd6c00fcb7e739be1dc8f8fe205966.jpg"
+    },
+    {
+      "hash_id": "243ce29c857ef09ef6d2160defd2f31b",
+      "title": "【海啸信息】气象厅发布海啸观测信息（截至12时46分）",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716496",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/d/b/1200w/img_db5b4769cd6c00fcb7e739be1dc8f8fe205966.jpg"
+    },
+    {
+      "hash_id": "1db648fa8f692ddf059d5b99e80fe1ca",
+      "title": "菲律宾附近发生8.2级地震，和歌山县发布海啸注意报",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2716259",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/c/5/1200w/img_c51b6f290b27feb6299b1b0679ecdefc213306.jpg"
+    },
+    {
+      "hash_id": "286f31b24d91d38604a429628395e938",
+      "title": "大阪市启动2026年度下半年艺术活动振兴资助金申报",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000678684.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
     },
     {
       "hash_id": "a3f6f6a4cfa039f8cc2082709ab09fe2",
@@ -57,6 +206,21 @@
       "source_label": "読売新聞大阪",
       "region": "osaka",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DRWZrTWp6TkMzd3pUSGVNbzdZSk9vczR5Sk9YY0UwRUVVLTFwUVV0Uy1kOHExY3hzSjQzVk93TzNXZkxIdDhCUENBRGc3TlUtSHdhS0Z1RkxRX1V2MkxRT0FMQ1oyOWRnNTFDd1NWWDhyOVNX?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "9dd0a22f8209bd08bfb491643c4e5da7",
+      "title": "大阪八尾举办“尽享毛豆”主题活动，7月20日开幕",
+      "date": "2026-06-06",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "农业",
+        "观光"
+      ],
+      "source_label": "読売新聞大阪",
+      "region": "osaka",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tY3V5VHJJZW43Q0tHbkJFLTcxOU4ta0xNa3NyV1c5enVYZVE4dms5TDdIcno0d1djYk1BeUFURk1seU1BdHJnMnhjeUp0dVYwN1JhUjM4MUhZUQ?oc=5",
       "image_url": ""
     },
     {
@@ -105,6 +269,35 @@
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/c/6/1200w/img_c6af78ef30dbd208db13d97628adae5b214255.jpg"
     },
     {
+      "hash_id": "d1df23601310491c3c454ac6208e70ac",
+      "title": "大阪市启动2026年度含水层蓄热系统地质勘察补贴申请",
+      "date": "2026-06-08",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "住宅",
+        "低相关"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kankyo/0000679485.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
+      "hash_id": "262a60a74fe69f38742fa327ff0d6ac1",
+      "title": "大阪市教育委员会就2025年度业务执行体制相关劳动条件保障事宜与市职员工会市民生活支部举行协商",
+      "date": "2026-06-08",
+      "importance": "B",
+      "labels": [
+        "教育",
+        "市政"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kyoiku/0000680412.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
       "hash_id": "0e93d54fe90238d0276fbb37ae2e4cb9",
       "title": "新式居酒屋‘新潮小酒馆’兴起：以高颜值装修、社交平台传播和明码标价吸引年轻人与女性",
       "date": "",
@@ -134,6 +327,33 @@
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/3/6/1200w/img_3613b50ba5cb88100de3cc8ac3b32faf217117.jpg"
     },
     {
+      "hash_id": "6d89b108ac1129d5d9759af41b8e6919",
+      "title": "大阪市将向2026年ITTF世界乒乓球锦标赛伦敦大赛成绩优异者颁发市长特别表彰",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000679862.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "856293faee7c184f4d0bfbf22a3a93d4",
+      "title": "大阪市启动2026年度“飞行汽车社会实装促进事业”补助金申报",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "交通",
+        "商业"
+      ],
+      "source_label": "大阪市",
+      "region": "osaka",
+      "url": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000680047.html",
+      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
       "hash_id": "b2bc927977581caa7cf0ce765701acbb",
       "title": "J联赛：神户胜利船夺得“J1百年构想联赛”冠军，确定获下赛季亚冠精英赛参赛资格",
       "date": "",
@@ -149,6 +369,34 @@
   ],
   "hokkaido": [
     {
+      "hash_id": "2970b735bb4cddfc66ac6edc6116e4bf",
+      "title": "北海道纹别市住宅区发现熊出没，附近有学校和运动公园",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "亲子",
+        "市政"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1321966/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/f/0/4/b/f04b6d3070fdc0e96ddb4b199387d26d_1.webp?20260608162032"
+    },
+    {
+      "hash_id": "12c6c3792d3b5a8ef0b228a0afcaf0f4",
+      "title": "北海道纹别市市区内发现熊与车辆并行，札幌圆山动物园附近亦目击2米长熊",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5c3YtbTBhc2pZYTNMV3ZUQWgtVUhWcHkzYVQ4Qmp3MzVwUVJwTllvcktseV9iUWxVTGRSWmdRUm8tTEV3QXc0RFkwLW4teWU4bmpRUFJYVWpuUQ?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "7398415181d5fbe52a0b9237779f9afa",
       "title": "札幌市圆山西町发现熊出没，距圆山动物园仅600米",
       "date": "2026-06-07",
@@ -161,6 +409,21 @@
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1321911/",
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/d/9/b/e/d9be28b47936f3fdae141c32b75887aa_1.webp?20260608053026"
+    },
+    {
+      "hash_id": "cbc8d5ec08df59a8e8607a2f2e370972",
+      "title": "女童饿着肚子走进便利店，店员报警；北海道钏路市20多岁母亲与同居男子被查出将孩子半日弃置家中饮酒",
+      "date": "2026-06-07",
+      "importance": "S",
+      "labels": [
+        "亲子",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16b1lfWjNrZkd0emcxMHE1bExPcmlQXzIzY3NXcGRkWUh6aGthUlR5V1ljaEZQWTZYNk10TDg5dG5NTTB1UHlrNzN3aEtGaFdTQ3NmS1VuVkhqQQ?oc=5",
+      "image_url": ""
     },
     {
       "hash_id": "98d681d61dc37667a3325b1534a117cc",
@@ -189,6 +452,21 @@
       "source_label": "HTB北海道テレビ",
       "region": "hokkaido",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjbHVtcHhZTHRibWlzdGhNUUVzWnE0Y3BRZ2REOTUxTTlncXFTU2JSaEpiNlc4ZklMU3Z0U1JnVjFtUTRmbHVtY1Ayc0N3SXA1VFhaXzNiTXZDdw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "d88b9df5f7f9cb3de9adc604feb96c3c",
+      "title": "日本千岁市发生持刀袭击事件：印尼籍男子欲骑压静卧女子行凶，警察冲入制止但女子身亡",
+      "date": "2026-06-05",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "市政",
+        "医疗"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1seHFTVTd0RlIxODhBTktzaTZLSnFwLXZyX2l1Rms2dlVhcGxwVDNqQ1JUelVtZld6VVNUQnAxbWR3LUd2MkJ2ZGZMS1dQM3F1c2l4M05URm9wUQ?oc=5",
       "image_url": ""
     },
     {
@@ -222,6 +500,95 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/9622fdd3962e052fe8c7569063bef2d0.jpg?20260608053427"
     },
     {
+      "hash_id": "b508cbf4d73851f36f979ee64284a28f",
+      "title": "北海道遗产浓昼山道将举办徒步活动，石狩市7月4日举行",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "体育",
+        "文化"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1322098/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/0/f/6/20f6e22950ce44cd7a729daf6232dc74_1.webp?20260608162021"
+    },
+    {
+      "hash_id": "4b7c0619a77c592596e65dff33019db5",
+      "title": "千岁市启用仿航空管制塔和云朵的大型室内儿童游乐设施",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "教育",
+        "市政"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1322093/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/8/6/e/086e350618ffbd21791ab5f1a5fead0f_1.webp?20260608162023"
+    },
+    {
+      "hash_id": "8f5a35da807eae10e67509653ddedba6",
+      "title": "札幌地铁东西线迎来开通50周年，客流量跃居首位成‘摇钱树’线路",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "交通",
+        "市政",
+        "住宅"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1321984/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/d/6/4/3/d643b2c4461cb3ad0154b15981fc335c_1.webp?20260608162026"
+    },
+    {
+      "hash_id": "9f1f47c52ed728131e910069c9d8edae",
+      "title": "札幌市将临时接受非指定垃圾袋投放，15日起实施",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "市政",
+        "住宅"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1321943/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/e/d/2/e/ed2ed3f0f7db50387d88229a0ac45a7a_1.webp?20260608162158"
+    },
+    {
+      "hash_id": "4948748096af044f7b48af109c3688e9",
+      "title": "赤砖厅舍举办“札幌铃兰市集”，体验铃兰香气与虾夷鹿咖喱等野味美食",
+      "date": "2026-06-07",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "饮食",
+        "文化"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tN1E4WUVoTFYxOEkzYW53M1JjX3ZhNi1QX1FoTnEydk54eURjZEZoMlRqV3l4OVRPbzY1MXFwRkNkZDR5QzIxWks2NGp0c0NiY0FTRy1RRkE0dw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "5108f3b4faa3d76cc662e5d31272a2ec",
+      "title": "坂本花织引退后首次指导儿童 花样滑冰奥运奖牌得主现身苫小牧",
+      "date": "2026-06-07",
+      "importance": "A",
+      "labels": [
+        "体育",
+        "教育",
+        "文化"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQUN1UkR5MTVYc3pNQW1uWDVLb3lZUnZ0ZHJMeWxWeG8yVmFGRm1qWFVhWDczYnJWM21OV2ZJMkJBd3lHVG91OE12dW4wRmdNbHcwcGUwQnJ4dw?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "e0c1c0aa6748b33b46d66d9ea27aa226",
       "title": "受年轻群体和海外人士关注的“迷你盆栽”展在札幌丰平公园绿地中心开幕",
       "date": "2026-06-05",
@@ -248,6 +615,36 @@
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1321923/",
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/8/a/f/4/8af472fb55b7625641d0c4d5c7e28dd9_1.webp?20260608053107"
+    },
+    {
+      "hash_id": "1bbe426a144b052c13ca89b7b7e655b1",
+      "title": "从新闻记者在北海道仁木町转型为迷你番茄种植户：松井三奈的女性自立之路",
+      "date": "2026-06-08",
+      "importance": "B",
+      "labels": [
+        "农业",
+        "文化",
+        "亲子"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1322107/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/5/3/c/9/53c9faafb347f684fcfed7c141792a91_1.webp?20260608162019"
+    },
+    {
+      "hash_id": "5877c4f3362b72f40f49260461c5cded",
+      "title": "北海道北竜町发行居民风采册《向日葵的周围》，全户免费发放",
+      "date": "2026-06-08",
+      "importance": "B",
+      "labels": [
+        "农业",
+        "文化",
+        "观光"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1321967/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/7/8/2/b/782b298518362be41d5aa7d9e7150ee0_1.webp?20260608162030"
     },
     {
       "hash_id": "34702309f8cf4a784d71924075ac9b3e",
@@ -277,6 +674,19 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/9/d/d/f/9ddfbfb6efa56d6bf27988c924a9fbb9_1.webp?20260608053429"
     },
     {
+      "hash_id": "75edd2d19f9bfbca149a3c634deafc8f",
+      "title": "被告内田被求处有期徒刑27年：旭川高中生杀人案",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1321979/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/4/6/3/a/463a87e3f7de423b7cc34af65fa0cffc_1.webp?20260608162028"
+    },
+    {
       "hash_id": "9f4295aaa089e6d279de5144624dde34",
       "title": "跳台滑雪运动员伊藤有希宣布退役：从未犹豫，梦想已圆、目标已达",
       "date": "2026-06-07",
@@ -301,9 +711,106 @@
       "region": "hokkaido",
       "url": "https://www.hokkaido-np.co.jp/article/1321912/",
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/b/7/d/4/b7d4f603787ee6fd3ad540ae8ac251e4_1.webp?20260608053319"
+    },
+    {
+      "hash_id": "c8e3ed1753996f1bb9b7828211aafe18",
+      "title": "“究竟想教给学生什么？”——法官当庭质问涉嫌江别大学生抢劫致死案的被告教师",
+      "date": "2026-06-05",
+      "importance": "C",
+      "labels": [
+        "教育",
+        "防灾",
+        "低相关"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PdDNpMXBBTGUtdnk1UmEwTjBXT3QzR3N5c2hMcUlGZmJCOFNoOHZHX1hQYjBQVXBicW1GdDZzRFdOVzYyVjJnd3ZOVjlpNFQ1NHdPc3Z1TzE3QQ?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "7c0b876d3105bea379b8f02cf940f9a6",
+      "title": "“踏入社会的概率极低，几乎为零”——江别市大学生遭暴行致死案被告川村在求刑前表态",
+      "date": "2026-06-05",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84bWpRWmVpQnhreGpZT3NMbWlTTUNDUUZzYkl5S0FkQUpoWUhvZG1JNkRncF9BeExLOWJwbjlYN2Vxb1lzYkhpbGw5SXNTMkxYYTZ4ZHNYYU9CZw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "1cdf948380c684b025af6259ca338ceb",
+      "title": "旭川女子高中生杀人案庭审第三日：被告面对辩护人提问落泪，却对检察官“为何哭泣”沉默不语",
+      "date": "2026-06-04",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrU01kRjNHX2tYbFJEbFVHWjlKQVFVeC0xbnB5MlNvb29DN2lfRC1DdS1FSlRsZ3ZiR25pQkNURjNZYnpIYlZyUE9fMVlDbU5QQU1RUmxoYTE4Zw?oc=5",
+      "image_url": ""
     }
   ],
   "national": [
+    {
+      "hash_id": "1a2ca73cdc34feec47fc8ad0c3d6deb0",
+      "title": "长崎地裁判决：私立海星高中因怠于反欺凌被赔300万日元，但未认定欺凌与自杀存在因果关系",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "教育",
+        "亲子",
+        "防灾"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV680TJXV68TIPE01FM.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260608001783_comm.jpg"
+    },
+    {
+      "hash_id": "7b9d7d03d5baa6ba1a1ee1c37abda2d4",
+      "title": "菲律宾附近发生8.2级地震，日本多地观测到20厘米海啸，茨城至冲绳持续发布海啸注意报",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV6801PJV68ULZU002M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260608002385_comm.jpg"
+    },
+    {
+      "hash_id": "94b2eeb39564fa0faf37011297959937",
+      "title": "附属池田小学事件25周年：追悼仪式上誓言传承日常的珍贵",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "教育",
+        "防灾",
+        "文化"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV651CWBV65OXIE02SM.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260608001706_comm.jpg"
+    },
+    {
+      "hash_id": "b6de4ca502b2bd8768b732ee2f7a7cb0",
+      "title": "菲律宾附近发生8.2级地震，日本多地发布海啸注意报",
+      "date": "2026-06-08",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK NEWS WEB",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143781000",
+      "image_url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015143781_2606080911_0608091142_01_02.jpg"
+    },
     {
       "hash_id": "c2fa2bb920a7d9441f72bd9e14071219",
       "title": "宇都宫市中心区两天内20次目击熊出没，轨迹由北向南移动",
@@ -317,6 +824,21 @@
       "region": "national",
       "url": "http://www.asahi.com/articles/ASV672VCDV67UTNB00DM.html?ref=rss",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260607003265_comm.jpg"
+    },
+    {
+      "hash_id": "f37a2bb2b5bde58272fc28e368d87318",
+      "title": "爱子公主观看维也纳童声合唱团演出，并欣赏皇室合作歌曲《歌声的响》",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "艺术",
+        "节日"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV6823HXV68UTIL025M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260608002777_comm.jpg"
     },
     {
       "hash_id": "2308e04374b0c9c2c341c99aade114f9",
@@ -426,6 +948,138 @@
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
+      "hash_id": "fe20eeacb99195c671f6154a692b1be4",
+      "title": "日韩防务关系开启“新篇章”：两国同意重启海上搜救联合训练",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "防灾",
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493707",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "caddfd33d4dd21b783656d52f3958e4b",
+      "title": "要求重新审议再审制度：前川彰司等议员收到请愿书",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493714",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "b745b6ef2f7a35e63fedc7a590ef3b00",
+      "title": "大阪府市法定协议会首次会议或仅维新党参加，自民党和公明党可能缺席",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493706",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "0885f7e51b85ab700ba4d5fb62b1074f",
+      "title": "日本政府将召开专家会议，审议修订安保三文件",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493703",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "73b08968704ea832b95b4930be708c90",
+      "title": "日本职棒裁判川上因眨眼反应慢，4月挥棒时头部受伤",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493713",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "bf0b8ac875b3b3a6bbcb29d1256a5a8f",
+      "title": "日本职业棒球联赛部分比赛取消",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/493696",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "c49048fb294987475347e5dac4831ae7",
+      "title": "天皇皇后陛下将正式访问荷兰和比利时",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "节日"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV6622P2V66UTIL01GM.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260606001789_comm.jpg"
+    },
+    {
+      "hash_id": "13b2192b98a176c8a9bd44ef3c3c15d8",
+      "title": "北海道旭川女高中生坠桥死亡案：被告内田梨瑚被检方求刑27年",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞",
+      "region": "national",
+      "url": "http://www.asahi.com/articles/ASV680W08V68IIPE005M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260608002914_comm.jpg"
+    },
+    {
+      "hash_id": "8b912ceb90b895c96b5d773caf332c06",
+      "title": "围绕皇位稳定继承的跨党派协商结束，汇总方案已提交",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK NEWS WEB",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143611000",
+      "image_url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015143611_2606081525_0608152900_01_02.jpg"
+    },
+    {
+      "hash_id": "91199b8cf02f320771af766bad7bc023",
+      "title": "菲律宾附近发生8.2级地震，当局确认8人死亡，多地观测到20厘米海啸",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK NEWS WEB",
+      "region": "national",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143861000",
+      "image_url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015143861_2606081054_0608112136_01_02.jpg"
+    },
+    {
       "hash_id": "28b674f0cf3d7210cae1dff9db117a59",
       "title": "日本法务省限制检方讯问录像公开，要求原告签署保密承诺书",
       "date": "2026-06-07",
@@ -506,6 +1160,20 @@
   ],
   "culture": [
     {
+      "hash_id": "50e0ff1770b5fa59736cf18ba7afc3a0",
+      "title": "今日的礼物：唤醒对糯米美味的认知——「饼屋 と亀」手作刮饼",
+      "date": "2026-06-08",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "文化"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-504574/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/c90d91354ef12cbc99c486fd89f7f3c7.jpg"
+    },
+    {
       "hash_id": "b883c5222a48c092592222a835778dfd",
       "title": "蘑菇造型展馆在墨西哥落成",
       "date": "2026-06-07",
@@ -519,6 +1187,21 @@
       "region": "culture",
       "url": "https://casabrutus.com/categories/architecture/487163",
       "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/04/0429casawabi_1200.jpg"
+    },
+    {
+      "hash_id": "9bebcef11856fe794ad6455ca05c3682",
+      "title": "以香为饰：香氛品牌‘PERS’推出空间香氛新品‘Paper Fragrance’",
+      "date": "2026-06-08",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术",
+        "饮食"
+      ],
+      "source_label": "Casa BRUTUS",
+      "region": "culture",
+      "url": "https://casabrutus.com/categories/design/487549",
+      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/05/06fridge10_1312.jpg"
     },
     {
       "hash_id": "ce2e7790f3b672cececea33c2485cd35",
@@ -593,6 +1276,34 @@
       "region": "culture",
       "url": "https://casabrutus.com/categories/design/487555",
       "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/05/06fridge09_1200.jpg"
+    },
+    {
+      "hash_id": "c41424d44fa1cd38b73e7e6687b8f323",
+      "title": "巧用夹层空间：Daniel & Bob双室托特包",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "商业",
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-503590/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/7_Daniel-Bob_OG.jpg"
+    },
+    {
+      "hash_id": "453078ac2fe816fbdaf51582e8a6ea15",
+      "title": "《Microsoft 365》催生新型工作方式：编辑花井优太亲测AI如何缩短创意思考的“间隙”",
+      "date": "2026-06-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-502447/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/98c1dbaafe5a7293e851c0ffcaf2ce1d.jpg"
     },
     {
       "hash_id": "20fecda271661e2990e3d4cc084eaccc",
@@ -820,6 +1531,21 @@
       "image_url": "https://www.japan-guide.com/g25/nihonbashi.jpg"
     },
     {
+      "hash_id": "54efc55bcca0a5c029565d0d1c9195e2",
+      "title": "涩谷站巨变：已发生的改造与未来展望",
+      "date": "",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "交通",
+        "市政"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/cassandra/260220_shibuya_updates.html",
+      "image_url": ""
+    },
+    {
       "hash_id": "a1ffed6097e8aab96eace9160cde6a2e",
       "title": "北海道观光振兴机构向北海道知事提交观光发展诉求",
       "date": "2026-01-06",
@@ -860,6 +1586,21 @@
       "region": "travel",
       "url": "https://www.japan-guide.com/blog/cassandra/260420.html",
       "image_url": "https://www.japan-guide.com/blog/cassandra/g/260420_nara-1.jpg"
+    },
+    {
+      "hash_id": "863ef20bfdb26c032011eefbc37fb113",
+      "title": "日本第二座厕所博物馆：INAX厕所博物馆开馆",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "观光",
+        "饮食"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/raina/260313.html",
+      "image_url": "https://www.japan-guide.comg/260313_11.jpg"
     }
   ]
 }
