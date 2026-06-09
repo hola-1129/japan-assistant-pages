@@ -42,7 +42,7 @@
   --shadow-hover: 0 4px 16px rgba(0,0,0,.10), 0 8px 24px rgba(0,0,0,.06);
 }
 
-html { font-size: 20px; -webkit-font-smoothing: antialiased; }
+html { font-size: 19px; -webkit-font-smoothing: antialiased; }
 body {
   background: var(--c-bg);
   color: var(--c-ink);
