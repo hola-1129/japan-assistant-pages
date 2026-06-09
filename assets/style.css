@@ -33,8 +33,9 @@
   --c-national:  #6B21A8;
   --c-culture:   #0F9E6A;
   --c-travel:    #D97706;
-  --font-jp:     "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic",
-                 "Noto Sans JP", system-ui, -apple-system, sans-serif;
+  --font-jp:     -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                 "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic",
+                 "Noto Sans JP", sans-serif;
   --r:           10px;
   --r-sm:        6px;
   --max-w:       820px;
