@@ -42,7 +42,7 @@
   --shadow-hover: 0 4px 16px rgba(0,0,0,.10), 0 8px 24px rgba(0,0,0,.06);
 }
 
-html { font-size: 17px; -webkit-font-smoothing: antialiased; }
+html { font-size: 18px; -webkit-font-smoothing: antialiased; }
 body {
   background: var(--c-bg);
   color: var(--c-ink);
@@ -295,7 +295,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 
 .card-title {
-  font-size: 1.02rem;
+  font-size: 1.05rem;
   font-weight: 600;
   line-height: 1.5;
   margin-bottom: 4px;
@@ -304,9 +304,9 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .card-title a:hover { color: var(--c-s); }
 
 .card-summary {
-  font-size: 0.88rem;
+  font-size: 0.95rem;
   color: #444;
-  line-height: 1.65;
+  line-height: 1.7;
   margin-bottom: 6px;
 }
 
@@ -461,8 +461,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 .article-section--insight .section-label { background: var(--c-a); }
 .section-body {
-  font-size: 0.92rem;
-  line-height: 1.75;
+  font-size: 1.0rem;
+  line-height: 1.8;
   color: #2A2A2A;
 }
 
@@ -489,17 +489,21 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* 文章详情 — 手机阅读优化 */
   .section-body {
-    font-size: 0.95rem;
-    line-height: 1.8;
+    font-size: 1.0rem;
+    line-height: 1.85;
     color: #2A2A2A;
   }
   .article-lead {
     font-size: 1.05rem;
-    line-height: 1.7;
+    line-height: 1.75;
     padding: 12px 14px;
   }
   .importance-box p {
+    font-size: 1.0rem;
+    line-height: 1.85;
+  }
+  .card-summary {
     font-size: 0.95rem;
-    line-height: 1.8;
+    line-height: 1.75;
   }
 }
