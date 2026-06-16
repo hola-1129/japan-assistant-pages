@@ -460,6 +460,34 @@
       "image_url": "https://imgopt.asahi.com/ogp/AS20260615004491_comm.jpg"
     },
     {
+      "hash_id": "773c805c1d02b3e6e38ec2dc39b7e400",
+      "title": "冲绳战役81周年：NHK冲绳特别节目预告",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "教育",
+        "节日"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pODlQQWFpeTd2MUZmRnRfZDZCemZIckN3SXdLTS1KRG1tXy0tX19UcEsxZE1XTUcwXy1qSmdoYkE1aVo0SksyNUgwWm9zbV9ZM0MwbVRFNlp0Y3h1MmtxMjVVY2lEdw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "dc4efdc3d77ddd3104cc2040b809e406",
+      "title": "冲绳县内所有避难指示已全部解除",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiWDRRcVRkVDc2Y0JqSkxNLW0xdjFYNk83U3BXY05FaE9IZEpncWJFWi11a0FkMElJUFdKTW00ZVdJdUhsTzJGOXVUQU1OaWFYZnNkMGZKaXhHYmZfYVpJ?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "218dfb808a4f7e3e881b1c3b7a2cc52b",
       "title": "冲绳本岛北部将现线状降水带，下午6点半前或发生",
       "date": "2026-06-15",
@@ -471,6 +499,19 @@
       "region": "okinawa",
       "url": "https://www.asahi.com/articles/ASV6H2D0LV6HUTIL024M.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260615004117_comm.jpg"
+    },
+    {
+      "hash_id": "f1b3298236a7be7fcfa7bd65da561ada",
+      "title": "冲绳与鹿儿岛将迎强降雨，需严防山体滑坡和内涝",
+      "date": "2026-06-15",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3RHhUdkZyYXhOYTlUbDRsdFhyOUN5WUdxaTdjUkx1VF9KZDZGUGtqWXNiQ1FDTWtsa1BuYU5BdV9KNDRrWHoyb2NQT0xLTWlzUTZ5M2lfQTVjZE1CODlZ?oc=5",
+      "image_url": ""
     }
   ],
   "national": [
