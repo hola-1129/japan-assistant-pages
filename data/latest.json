@@ -90,6 +90,33 @@
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/6/4/1200w/img_642e42f89e7102ffa7fe6efbec4d4a32500833.jpg"
     },
     {
+      "hash_id": "7a4682772942264a26d718e5f641656a",
+      "title": "兵库县宝冢市接连出现疑似熊目击事件",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "市政"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2736077",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/0/4/1200w/img_04f55d283488408d2d6dc3e78488787d82824.jpg"
+    },
+    {
+      "hash_id": "741386029acbbd3fd8b7599a67d13bb9",
+      "title": "大阪堺市开展警消联合水上救援演练，备战汛期极端天气",
+      "date": "",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2735890",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/f/c/1200w/img_fcac3be346028cebc4e9f8be399c7f78133216.jpg"
+    },
+    {
       "hash_id": "e5f32456ada51fe0cbd208811834c8f9",
       "title": "大阪城音乐厅举办「黄昏音乐会2026」",
       "date": "2026-06-16",
@@ -191,6 +218,21 @@
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/6/6/1200w/img_66e70b2fc55e4e1b25c18bd74f69aa1f129403.jpg"
     },
     {
+      "hash_id": "4eb3b5527934101ca62b17d44a8dd3a3",
+      "title": "和歌山白浜町议会通过“住宿税”条例案，年预计增收约6.5亿日元",
+      "date": "",
+      "importance": "A",
+      "labels": [
+        "市政",
+        "商业",
+        "观光"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2735892",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/4/9/1200w/img_4932f38ad6e567ec3ff043f290683600106863.jpg"
+    },
+    {
       "hash_id": "b8d4af8da050856e7359a5a5d5ec46ca",
       "title": "大阪中之岛关电总部旁新办公楼开工，标志30年区域开发收官",
       "date": "2026-06-16",
@@ -260,6 +302,20 @@
       "region": "osaka",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWjN5cG1haGtpTnhLSGt0cHBOVjE5aDlLbEFUUVZFX3MzNC1yQWQ3b2hULU1saTJSMjNNUkJxMlBUSm0tTnUtdXhScVgwVXI0WHByUk1tZFRaNUhWTmVvX3FBcjZpYXFpWm9DUmdHQmZldw?oc=5",
       "image_url": ""
+    },
+    {
+      "hash_id": "973aa03457292e1b1154d066fcc5d65d",
+      "title": "男子涉嫌盗窃新建住宅工地水表被捕，家中搜出数十件被盗部件",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "住宅",
+        "商业"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2736198",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/2/0/1200w/img_20f90b345286d466f1fab11063d10581158040.jpg"
     },
     {
       "hash_id": "eff892b5083cc7f1f20faee6994a55c0",
@@ -398,6 +454,46 @@
       "region": "osaka",
       "url": "https://newsdig.tbs.co.jp/articles/mbs/2733876",
       "image_url": "https://newsdig.ismcdn.jp/mwimgs/b/a/1200w/img_ba3d568589a36dee613ab4f139bd6d791402921.jpg"
+    },
+    {
+      "hash_id": "49e1f7c31785aa37000f9109ef6b9cf4",
+      "title": "大阪府议会通过条例：议员定额从79人减至73人",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "市政"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2736176",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/0/8/1200w/img_081e6e4c9cbe216be30938dbc0f8ee36198964.jpg"
+    },
+    {
+      "hash_id": "866a51f8e67850a725135c292d387c69",
+      "title": "前风俗店女员工因无力偿还夜店债务杀害富豪并抛尸琵琶湖，被判无期徒刑",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2735962",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/0/1/1200w/img_016458ad02488e69f293e11d7d63964f90914.jpg"
+    },
+    {
+      "hash_id": "749c92b6111d9c177c3be89ed1bddc39",
+      "title": "近江铁道迎来创立130周年：成功摆脱废线危机，实现连续两年盈利",
+      "date": "",
+      "importance": "C",
+      "labels": [
+        "交通",
+        "商业"
+      ],
+      "source_label": "MBS毎日放送",
+      "region": "osaka",
+      "url": "https://newsdig.tbs.co.jp/articles/mbs/2735961",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/a/8/1200w/img_a88572ff9f24b064674d8a2aed57b758130547.jpg"
     }
   ],
   "hokkaido": [
@@ -409,6 +505,35 @@
       "labels": [
         "防灾",
         "市政"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54MlVuMklKeUdiVGNEUklZcGdiTUtHa3ktdmxTYzgyeUg5N2MxRDQxNXRmQ1JlVkNyRTlpc3lRUkJBazNnQmNvRzI4NlMyNG85ODVSMGRlLTA3UQ?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "93ac0d2c266791fe512e4a5a0688c874",
+      "title": "北海道佐吕间町发生住宅火灾，现场发现1具遗体",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "住宅",
+        "防灾"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325673/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/5/a/1/3/5a13048db02e0e92d39c396f6b2b645d_1.webp?20260616190456"
+    },
+    {
+      "hash_id": "b4affdc4dc1f7091ed7c2151832bf484",
+      "title": "北海道多地接连发生火灾，佐吕间町住宅废墟发现1具遗体，旭川旧旅馆灭火持续进行",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "市政",
+        "住宅"
       ],
       "source_label": "HTB北海道テレビ",
       "region": "hokkaido",
@@ -474,6 +599,95 @@
       "image_url": ""
     },
     {
+      "hash_id": "14632f2e9bad6daf38c508d9f3cab8d8",
+      "title": "美深高中2026年度引入「美深学」课程：在松山湿地开展木道修缮与生态观光学习",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "观光",
+        "文化"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325664/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/8/d/f/7/8df7cb99caca87ce193b5d7f7c9fab12_1.webp?20260616190505"
+    },
+    {
+      "hash_id": "95f3e48ea019ac9ea31541896b9b38b6",
+      "title": "根室市中学部活远征，八成学生由家长接送，教委称难以用金钱方式解决",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "亲子"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325654/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/d/a/2/8/da28b0364393784ae72013f5c5b5ad67_1.webp?20260616190449"
+    },
+    {
+      "hash_id": "db8d203a5288ef187740bbda00ab4372",
+      "title": "带广畜产大学7月举办开放日，可参观马厩区域",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "农业",
+        "观光"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325653/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/ogp/category/1200x630/3/0b63737dbe8dbe8194f94e5dec8ee296.jpg?20260616190511"
+    },
+    {
+      "hash_id": "079d994b3e2668a83439869a9bf19999",
+      "title": "宣告夏日来临的札幌祭进入高潮！气势恢宏的神舆巡游引观众欢呼",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "节日",
+        "文化",
+        "观光"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UTmhNTWJFTWFMc0o4WWhfRDYwUE9mOTVIcnNsRGQ2ekhjQ3B1TVBveElXSnJ4YmJxeURZdWxXQlVqeDZaXzhWdVhYcE9YWDIzV2o0WDc2cXg3Zw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "0b3ac36d73b42821c849e545af9cbc15",
+      "title": "名店美味一网打尽！丸井今井札幌本店推出「北海道味之旅」主题便当展",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "观光",
+        "商业"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWHk5NGJlc3ZBQWV3T2ZsNkZzektsOV9sZlh6TElVRkp2czNqNG55b2ZwVnh4M0x1Wms4RTZBQmV4MXpQa25tTGtjb3ZHeHhIVDZUazdDYVFHdw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "b14ae0accbb16e33b97aba88cabee8e7",
+      "title": "避开酷暑与人流，修学旅行目的地转向北海道道南，关东地区学校数量增至4倍",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "教育",
+        "观光",
+        "交通"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jOVM3YlJsTUJKcUx3bXJWRkpURWJwMWx6bGNiTGx3NEQ1MVZ5ZVQzb0tNYlJqdGdoVkQxU1RRQlhkc2puUjBWemFwNEtPUkI1XzJxYm4wWE01Zw?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "e3348e7c0c96f728fa629923d2c74357",
       "title": "札幌丘珠机场与新千岁机场将试点跨机场汽车共享“终点还车”服务",
       "date": "2026-06-15",
@@ -486,6 +700,21 @@
       "source_label": "HTB北海道テレビ",
       "region": "hokkaido",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDeEo1RmlRWnRtN05PRk5iNzNTM2RmVHlSOTB3c3g0SjBYOXRSakNwN3VxU3FMVEJab01GUkdUYXJuSmRLZTdmZmZwYU56a3g3bW81cXlfcE5pZw?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "e9934bd755b24f0f03738d22efa9b5fc",
+      "title": "“札幌祭”广受市民喜爱，北海道神宫例行祭典开幕，中岛公园热闹非凡，持续至16日",
+      "date": "2026-06-14",
+      "importance": "A",
+      "labels": [
+        "节日",
+        "文化",
+        "观光"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwd1FYUVBQNG5oeC1kTE12V1ZOdW1WUUhMNmdIZmhVY1lQVTN0b3RsX29rT2xINWEwek5feFR4a0phRGFRYWN3c1laSUxsbVJkMTNtdWV2eDIzdw?oc=5",
       "image_url": ""
     },
     {
@@ -561,6 +790,78 @@
       "image_url": ""
     },
     {
+      "hash_id": "e03b7e8f9a30a578677f36afc29ecb76",
+      "title": "小樽兰岛海水浴场面临停摆：北海道最古老海滨浴场因盐害设备严重老化，运营组合发起众筹",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325688/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/1/5/1/01517380d1368500d11a1d648dcd215d_1.webp?20260616190501"
+    },
+    {
+      "hash_id": "fcea566dd86c60ef80fba82eac51dd11",
+      "title": "新世代台头但未觉世代更替：前罗科·索拉雷队员吉田知那美眼中的日本冰壶锦标赛",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "文化"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325659/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/e/1/8/3/e1833ee23945fbf8ac6c9d96e03ea1dc_1.webp?20260616190507"
+    },
+    {
+      "hash_id": "4c26c43fa3dd6fbf0b2c12b519642cde",
+      "title": "JR北海道召开股东大会，铁道·运输机构要求就“黄色线区域”与地方协商",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "交通",
+        "市政"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325649/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/4/2/c/0/42c023a5cffea158613370017af1dc14_1.webp?20260616190442"
+    },
+    {
+      "hash_id": "7191e76708c3dd967f04d0e85f64faf6",
+      "title": "江别市清真寺纵火嫌疑，涉嫌事务所纵火未遂男子被再次逮捕",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "防灾"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325645/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/9/1/c/b/91cb34277039e1f344de08deaaf3a36c_1.webp?20260616190453"
+    },
+    {
+      "hash_id": "4117cb106d61370cf56e280d0babc014",
+      "title": "摄影师柏仓阳介在札幌举办摄影展：聚焦咸海危机与北海道至乌兹别克斯坦的援助纽带",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术",
+        "观光"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbFBtUnRJcGNoR1pfb25wR3VhcTgtRGVfUEdJVzNIRTdYM2IzbF9OS2hiLW5hb28xM0xacVJGMk1yRnA1RFBIUGwyd2VKNUc2cTBnWHRMUUtvdw?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "fa2c4030b52d936ab25ade5522be82d1",
       "title": "北海道旭川市凌晨配送中心发生火灾，8辆卡车被烧毁",
       "date": "2026-06-15",
@@ -626,6 +927,19 @@
       "region": "hokkaido",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTTUyOWowS1phWllmYTJPVERUdkVnV2YwVlBsZUprOU5wMFV1QmoxOC1weHNlRER1QmdRTzBaRnkzY0I2LW1qMlBtdEMxaVlHc01VcFpCbnRHUQ?oc=5",
       "image_url": ""
+    },
+    {
+      "hash_id": "cc1142a1df71992d71ec133a69854593",
+      "title": "北海道共同募金会1.8亿日元去向不明，50多岁事务局长涉嫌贪污将被解雇",
+      "date": "2026-06-15",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTTUyOWowS1phWllmYTJPVERUdkVnV2YwVlBsZUprOU5wMFV1QmoxOC1weHNlRER1QmdRTzBaRnkzY0I2LW1qMlBtdEMxaVlHc01VcFpCbnRHUQ?oc=5",
+      "image_url": ""
     }
   ],
   "national": [
@@ -643,6 +957,19 @@
       "region": "national",
       "url": "http://www.asahi.com/articles/ASV6J162ZV6JULOB00HM.html?ref=rss",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260616002181_comm.jpg"
+    },
+    {
+      "hash_id": "3deaa44f055481f68c93d03898ec8992",
+      "title": "印尼苏拉威西岛发生6.7级地震，建筑物受损",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495424",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
       "hash_id": "4e703ed0d7d19393ce67cf45b160c407",
@@ -837,6 +1164,71 @@
       "region": "national",
       "url": "https://news.web.nhk/newsweb/na/na-k10015150961000",
       "image_url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015150961_2606161035_0616115928_01_02.jpg"
+    },
+    {
+      "hash_id": "01c4daecc84ebc2b07bc3e0291e2f9f4",
+      "title": "袴田事件受害者家属呼吁完善冤罪救济制度",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495436",
+      "image_url": "https://static.tokyo-np.co.jp/image/article/size1/f/6/2/e/f62ebadbbd543d74d90c3e0c4cad7134_1.jpg"
+    },
+    {
+      "hash_id": "b77642e12943d6eb384f95601c5d745c",
+      "title": "日本朝野政党就选举社交媒体对策法案达成共识，拟于下周提交",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495425",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "3355fe0e5fb04571c246610d2e9a9795",
+      "title": "东京日元汇率升至160日元兑1美元区间",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495428",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "e7ba25738cca7b941dcb8212ebdc8ee6",
+      "title": "自主型无人机年内扩大运用：无需人工操控即可对俄作战",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495438",
+      "image_url": "https://static.tokyo-np.co.jp/image/article/size1/8/1/f/7/81f70d149ff36e1199980d662c70845e_1.jpg"
+    },
+    {
+      "hash_id": "db7659563cae45a3c59ae8136286209e",
+      "title": "J1联赛新赛季最终轮定于明年6月6日",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495440",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     }
   ],
   "culture": [
@@ -898,6 +1290,35 @@
       "region": "culture",
       "url": "https://brutus.jp/post-502470/",
       "image_url": "https://media.brutus.jp/wp-content/uploads/2026/05/ogIMG_3437.jpg"
+    },
+    {
+      "hash_id": "91e4c6dd13b8a7e13639c869b586f240",
+      "title": "《居住空间学2026》编后记：令人动容的居住空间学",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "住宅",
+        "文化"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-505655/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/8155375534332c26c13ba836dab62dd6.jpg"
+    },
+    {
+      "hash_id": "4c1246c3647253bdfc439128ca03eab0",
+      "title": "今日的礼物：温暖手作陶土火柴盒——猪股大二作品",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术",
+        "饮食"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-506473/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/4962aa5010798ae12068043b4efdd608.jpg"
     },
     {
       "hash_id": "3711fda845cd53498d3a982e3eac2e0e",
@@ -1032,6 +1453,62 @@
       "image_url": "https://popeyemagazine.jp/wp-content/uploads/2021/09/podcast-cover-1200x630.jpg"
     },
     {
+      "hash_id": "1ad2f50e8506c9f11a72c8385544d948",
+      "title": "一件彰显结构之美的衬衫：日本品牌〈SETCHU〉的和洋融合设计",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-505505/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/04_PC.jpg"
+    },
+    {
+      "hash_id": "6b1909ad533e32baa55425468b4b4089",
+      "title": "《POPEYE》创刊50周年纪念项目：手绘“波派字体”诞生记（下篇）",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-286559/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/15_IMG_6162-1600x866-share.jpg"
+    },
+    {
+      "hash_id": "8b9482c4ea7298312f2fac399576e2f8",
+      "title": "《POPEYE》创刊50周年纪念项目：我们制作了「波派字体」（中篇）",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-286675/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/c9426e679fe86b65c7c58d2947770736-share.jpg"
+    },
+    {
+      "hash_id": "b741b118835e37bf5037071a7d71d2b2",
+      "title": "《POPEYE》创刊50周年纪念项目：我们制作了“波派字体”（上篇）",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-286557/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/4a1af639ddb2dd92162c53e050451fac-share.jpg"
+    },
+    {
       "hash_id": "de44bffbf353b78ee7381b99c2e079d7",
       "title": "普拉达推出日本限定金属色运动鞋",
       "date": "2026-06-15",
@@ -1148,6 +1625,35 @@
       "image_url": "https://www.japan-guide.com/blog/a-stroll-through/g/260423_obuse_title.jpg"
     },
     {
+      "hash_id": "dca3063c218f6fa1783c2731e77971b2",
+      "title": "东京雨天完美一日游推荐行程",
+      "date": "",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "文化",
+        "饮食"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/matt/260521.html",
+      "image_url": "https://www.japan-guide.com/blog/matt/g/260521_rainy_title3.jpg"
+    },
+    {
+      "hash_id": "c1078e2cf83b42c3964aeaee9e1c8034",
+      "title": "新水上巴士航线开通：连接东京市中心与丰洲",
+      "date": "",
+      "importance": "A",
+      "labels": [
+        "交通",
+        "观光"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/matt/260508.html",
+      "image_url": "https://www.japan-guide.com/g25/nihonbashi.jpg"
+    },
+    {
       "hash_id": "a1ffed6097e8aab96eace9160cde6a2e",
       "title": "北海道观光振兴机构向北海道知事提交观光发展诉求",
       "date": "2026-01-06",
@@ -1189,6 +1695,36 @@
       "region": "travel",
       "url": "https://www.japan-guide.com/blog/cassandra/260220_shibuya_updates.html",
       "image_url": ""
+    },
+    {
+      "hash_id": "54efc55bcca0a5c029565d0d1c9195e2",
+      "title": "涩谷站大改造：已变与将变",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "交通",
+        "市政"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/cassandra/260220_shibuya_updates.html",
+      "image_url": ""
+    },
+    {
+      "hash_id": "cb827b366d2ec5c207aa169b9e9f57d2",
+      "title": "日本新增第二座厕所博物馆：INAX厕所博物馆2025年4月开馆",
+      "date": "",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "观光",
+        "饮食"
+      ],
+      "source_label": "Japan Guide",
+      "region": "travel",
+      "url": "https://www.japan-guide.com/blog/raina/260313.html",
+      "image_url": "https://www.japan-guide.comg/260313_11.jpg"
     }
   ],
   "japan_local": [
