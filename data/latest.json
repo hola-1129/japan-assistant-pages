@@ -986,6 +986,21 @@
       "image_url": "https://imgopt.asahi.com/ogp/AS20260614005038_comm.jpg"
     },
     {
+      "hash_id": "5aeb62b6926725016cdc0b7b1f01e315",
+      "title": "东京警视厅与心理师协会合作预防跟踪骚扰犯罪",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "防灾",
+        "市政",
+        "医疗"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495453",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
       "hash_id": "6bee5626029f44e38a9001795c8cfeff",
       "title": "北海道大学校园内发现鸳鸯亲子栖息，吸引散步师生驻足观赏",
       "date": "2026-06-16",
@@ -1044,6 +1059,64 @@
       "image_url": "https://imgopt.asahi.com/ogp/AS20260615002583_comm.jpg"
     },
     {
+      "hash_id": "7c6a6973f121f7022016e8e0055ac280",
+      "title": "爱知县名古屋举办虚拟跆拳道赛事",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "文化",
+        "节日"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495437",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "07b0fed5edd7b4a3e03c344d1f3809bd",
+      "title": "“比以往更开心”——将棋藤井棋王就位仪式举行",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "体育",
+        "艺术"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495443",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "b7365b7888012fa8af4d47b670aef99c",
+      "title": "对骚扰女性的“碰撞大叔”怒吼“你这家伙！”后，意外结局：她因总说“对不起”而决心改变自己",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "教育"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/946891",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/e/1200xm/img_5e7d016561f9fe9bef3bb3622e980263113092.jpg"
+    },
+    {
+      "hash_id": "fb2b35656f2b4ea8a395c9e41e61f85a",
+      "title": "《亲爱的外国人》重制版第2话：痴迷日语的外国丈夫说出令人心颤的‘奇迹之言’",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/946934",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200xm/img_7d1fabcde6a854081fd6be766093ec2260667.jpg"
+    },
+    {
       "hash_id": "5aa2396f211e75b969f8f076f7553d48",
       "title": "AI的‘习性’暗藏风险：私人信息管理背后的隐忧",
       "date": "2026-06-15",
@@ -1084,6 +1157,36 @@
       "region": "national",
       "url": "http://www.asahi.com/articles/ASV6B1P4HV6BUTIL011M.html?ref=rss",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260610002258_comm.jpg"
+    },
+    {
+      "hash_id": "1a6fd805eb5767d0ca38b538839e11fb",
+      "title": "日本鱼类资源枯竭的真正原因：既非外国责任，也非渔民之过",
+      "date": "2026-06-15",
+      "importance": "B",
+      "labels": [
+        "农业",
+        "饮食",
+        "商业"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/947900",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/5/b/1200xm/img_5bd126526d88a9cc8e9af8e197ee114d746106.jpg"
+    },
+    {
+      "hash_id": "8f9910acfcb883292d0f70f3917a7860",
+      "title": "中国富裕阶层吐槽“不太满意的日本旅游”：访日游客锐减的非政治因素",
+      "date": "2026-06-15",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "商业",
+        "文化"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/946532",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/f/e/1200xm/img_fe7b59a6d8a1ecf024e28dfd80300257252128.jpg"
     },
     {
       "hash_id": "65ce51e7bf923f6a26c3aaaee1bf35f7",
@@ -1229,6 +1332,46 @@
       "region": "national",
       "url": "https://www.tokyo-np.co.jp/article/495440",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "c4d34a398731731e4a63e96ca8a4342a",
+      "title": "17日预告先发阵容",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "東京新聞",
+      "region": "national",
+      "url": "https://www.tokyo-np.co.jp/article/495432",
+      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "6186315d21f07d2504cc7e6a9945b9fc",
+      "title": "大腿骨内に寄生蟹？中年患者的惊愕境遇",
+      "date": "2026-06-13",
+      "importance": "C",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/946897",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/3/b/1200xm/img_3b5d6623f758a02d539878f9c1cd9368497401.jpg"
+    },
+    {
+      "hash_id": "1e1c291676a9d91705c24b7fe2245a50",
+      "title": "为何‘普通衣服’却引发争议？解析‘周末伊藤洋华堂商场大叔’穿搭的违和感根源",
+      "date": "2026-06-13",
+      "importance": "C",
+      "labels": [
+        "文化"
+      ],
+      "source_label": "東洋経済オンライン",
+      "region": "national",
+      "url": "https://toyokeizai.net/articles/-/947916",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/4/5/1200xm/img_45ec6c19dd8d2aec685d7818e0c3491a140291.jpg"
     }
   ],
   "culture": [
