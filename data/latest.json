@@ -1538,6 +1538,110 @@
   ],
   "travel": [
     {
+      "hash_id": "7abe77c83ef7b6592e627ca43067f930",
+      "title": "日本观光厅拟允许地方政府出台实质“禁止经营”民宿条例",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "住宅",
+        "商业"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6J2200V6JULFA023M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616002986_comm.jpg"
+    },
+    {
+      "hash_id": "cafdb78d57298c94b3b7c639ecf7ce9e",
+      "title": "长崎豪斯登堡将建首座过山车，2027年开业",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "亲子",
+        "文化"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6J22G6V6JTOLB002M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616003028_comm.jpg"
+    },
+    {
+      "hash_id": "f347e909cdf647bae2414f6fd355f364",
+      "title": "京都南山城村道之驿：主打顶级抹茶的甜品盛宴",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "饮食",
+        "文化"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6H20FZV6HPLZB001M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615003597_comm.jpg"
+    },
+    {
+      "hash_id": "924e221b4f4310dc6cb409af14304745",
+      "title": "岩手县早池峰山举行山开仪式，山顶奉纳国家级非遗“早池峰神乐”",
+      "date": "2026-06-15",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "文化",
+        "节日"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6H2R3QV6HUJUB00DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004340_comm.jpg"
+    },
+    {
+      "hash_id": "cad5b6f7cbec025b21a9e5b710277e7c",
+      "title": "北阿尔卑斯夏季设双登山检查 gate，未充分准备者被劝止入山",
+      "date": "2026-06-15",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "防灾",
+        "交通"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6H1G0BV6HUOOB008M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615003234_comm.jpg"
+    },
+    {
+      "hash_id": "157b5fe7f45d0add636c5317c8eff179",
+      "title": "上高地加强熊患防控：设食物保管柜、禁止烧烤",
+      "date": "2026-06-13",
+      "importance": "A",
+      "labels": [
+        "防灾",
+        "观光"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6D3H7ZV6DUOOB00CM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260612004883_comm.jpg"
+    },
+    {
+      "hash_id": "93f11201f08bf5992fa1d69434ba25d5",
+      "title": "上高地“韦斯顿祭”迎来80周年，传承日本登山文化",
+      "date": "2026-06-12",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "观光",
+        "节日"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6C36MRV6CUOOB00JM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260611004406_comm.jpg"
+    },
+    {
       "hash_id": "a5f76abf904b00845448f32bad36a288",
       "title": "东川町与北海道新闻社将在赤砖厅舍举办「卡姆伊之歌学校嘉年华」",
       "date": "2026-02-06",
@@ -1654,6 +1758,105 @@
       "image_url": "https://www.japan-guide.com/g25/nihonbashi.jpg"
     },
     {
+      "hash_id": "daad6f8c826b9f1fffe2196c7cae0ac4",
+      "title": "日本多地发生震度5弱地震，观光厅拟允许地方政府实施“零日民泊禁令”",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "观光"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6J2200V6JULFA023M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616002986_comm.jpg"
+    },
+    {
+      "hash_id": "98c510987a431e0ec66c9a2341bdb71e",
+      "title": "曾见证经济腾飞的屋岛沦为“负遗产”，高松市出台再生方案",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "观光",
+        "市政"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6B4TGSV6BPLXB00DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260610005776_comm.jpg"
+    },
+    {
+      "hash_id": "b6aa36c69968c6194c261b91be9d35a5",
+      "title": "从台湾乌来温泉邂逅陈先生：一段跨越殖民历史的温情对话",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "文化",
+        "艺术"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6H3F4MV6HPXLB00DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004843_comm.jpg"
+    },
+    {
+      "hash_id": "277aef21833d658cfb9acef25c125c6f",
+      "title": "为避免出现“危险熊”，尾濑国立公园持续开展防范措施",
+      "date": "2026-06-13",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "防灾"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6C34TSV6CUHNB001M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260611004306_comm.jpg"
+    },
+    {
+      "hash_id": "04c8304f768ee45c9e7d1e0678e3341e",
+      "title": "帕萨迪纳：英雄杰基·罗宾逊的故乡与经典酒店交织的历史之城",
+      "date": "2026-05-28",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "文化"
+      ],
+      "source_label": "朝日新聞 &Travel",
+      "region": "travel",
+      "url": "https://www.asahi.com/and/travel/article/16622781",
+      "image_url": "https://p.potaufeu.asahi.com/b068-p/picture/30926449/b72b809ea153e88074568fbff3fc0427.jpg"
+    },
+    {
+      "hash_id": "b86977dc9b772f6ba4c22eef993e90f3",
+      "title": "永濑正敏摄影集《记忆：漫长旅途之中》——镜头下的东京",
+      "date": "2026-05-01",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "朝日新聞 &Travel",
+      "region": "travel",
+      "url": "https://www.asahi.com/and/travel/article/16620646",
+      "image_url": "https://p.potaufeu.asahi.com/b4d4-p/picture/30923108/4f53551a81134193cf5ef2e90394d933.jpg"
+    },
+    {
+      "hash_id": "647e5239d2b836ba1a3a89be9f6543f6",
+      "title": "郡山城：丰臣秀长的“大阪城之弟”与大和统治",
+      "date": "2026-02-26",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "观光"
+      ],
+      "source_label": "朝日新聞 &Travel",
+      "region": "travel",
+      "url": "https://www.asahi.com/and/travel/article/16625188",
+      "image_url": "https://p.potaufeu.asahi.com/badb-p/picture/30930319/5834a83041b642480dc0901a1e2b899e.jpg"
+    },
+    {
       "hash_id": "a1ffed6097e8aab96eace9160cde6a2e",
       "title": "北海道观光振兴机构向北海道知事提交观光发展诉求",
       "date": "2026-01-06",
@@ -1725,6 +1928,19 @@
       "region": "travel",
       "url": "https://www.japan-guide.com/blog/raina/260313.html",
       "image_url": "https://www.japan-guide.comg/260313_11.jpg"
+    },
+    {
+      "hash_id": "d6cf11e46f8075413f976ad5430e3fe5",
+      "title": "岩手县早池峰山14日开山，迎来超600名登山者",
+      "date": "2026-06-15",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞 山",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6H2R3QV6HUJUB00DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004340_comm.jpg"
     }
   ],
   "japan_local": [
@@ -1898,5 +2114,6 @@
       "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00028/",
       "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00126-1.jpg?type=ogpw"
     }
-  ]
+  ],
+  "okinawa": []
 }
