@@ -684,6 +684,20 @@
       "image_url": ""
     },
     {
+      "hash_id": "3b80e086423ab2033841c4d8d2f1dda3",
+      "title": "女子被厢式车撞倒身亡 岩见泽市国道交叉路口发生交通事故",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "交通",
+        "防灾"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325725/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/6/0/b/260b73b7b84c9cb8b119799b244e23eb_1.webp?20260616202122"
+    },
+    {
       "hash_id": "4d2d4cdbbfa2166db0d4e0805a13579b",
       "title": "札幌公寓内20多岁女性3人一氧化碳中毒死亡，疑似SNS结识后集体自杀",
       "date": "2026-06-15",
@@ -829,6 +843,49 @@
       "region": "hokkaido",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jOVM3YlJsTUJKcUx3bXJWRkpURWJwMWx6bGNiTGx3NEQ1MVZ5ZVQzb0tNYlJqdGdoVkQxU1RRQlhkc2puUjBWemFwNEtPUkI1XzJxYm4wWE01Zw?oc=5",
       "image_url": ""
+    },
+    {
+      "hash_id": "ce036131e74723c9caa7c7b356d7b8b7",
+      "title": "夏季食物中毒预防：务必彻底加热",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "医疗",
+        "防灾"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325724/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/e/6/c/b/e6cb8a255dda58eba24f5d6c14dc8bb5_1.webp?20260616202211"
+    },
+    {
+      "hash_id": "2dabe5745ac0ad3821d2926852721bf9",
+      "title": "北海道议会召开会议，提交补充预算案，重点支持医院设备引进",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "医疗",
+        "市政"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325709/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/c/5/3/0c53d28221fb33b4d242563728185b7a_1.webp?20260616202123"
+    },
+    {
+      "hash_id": "cf08ebcd72c758cea21ab94f737e5cf5",
+      "title": "北海道神宫例祭最后一天：神轿巡行14.6公里穿越札幌市中心",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "节日",
+        "文化"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325700/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/1/6/1/9/161978a0e6d9e6b4be6ff7bc36f8b0e5_1.webp?20260616202230"
     },
     {
       "hash_id": "e3348e7c0c96f728fa629923d2c74357",
@@ -1059,6 +1116,59 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/a/6/5/0/a650dd3f4f2472d23a080ce6722a60e1_1.webp?20260616150612"
     },
     {
+      "hash_id": "f4f2ac2cbba46926526be5369ee8cf7d",
+      "title": "独家：铃木道政被北海道议会立民党派要求加强问责",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325742/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/4/2/b/8/42b89774b24161dbbf89403ac1646b5e_1.webp?20260616202118"
+    },
+    {
+      "hash_id": "7ac321be3787676496824cc25bee7cec",
+      "title": "北海道信用金库2026年3月期核心业务纯利润增长10.1%，达27亿日元",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "商业",
+        "低相关"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325734/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/f/d/a/e/fdae80eeb821fd08979f641fbc2edf56_1.webp?20260616202112"
+    },
+    {
+      "hash_id": "3d611303ffbe4be33d3cd68d7520f1ab",
+      "title": "旭川信用金库原田会长任期届满卸任",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325733/",
+      "image_url": "https://static.hokkaido-np.co.jp/files/image/logo/logo_ogp.jpg"
+    },
+    {
+      "hash_id": "593f20e67fff387f867d976f4f38c6ea",
+      "title": "律师伊东秀子因破产程序中偏袒特定债权人被停业10个月",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325720/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/c/a/1/9/ca19e9610a811cab9dc55091afd4e325_1.webp?20260616202113"
+    },
+    {
       "hash_id": "9c0268cabe71c4b8aa4fa476c302722e",
       "title": "北海道共同募金会1.8亿日元去向不明，50多岁事务局长涉嫌贪污将被解雇",
       "date": "2026-06-15",
@@ -1082,6 +1192,20 @@
       "source_label": "HTB北海道テレビ",
       "region": "hokkaido",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTTUyOWowS1phWllmYTJPVERUdkVnV2YwVlBsZUprOU5wMFV1QmoxOC1weHNlRER1QmdRTzBaRnkzY0I2LW1qMlBtdEMxaVlHc01VcFpCbnRHUQ?oc=5",
+      "image_url": ""
+    },
+    {
+      "hash_id": "16eb96968d619d57ed628cfdabc9b215",
+      "title": "钏路湿原周边太阳能企业擅自砍伐林木，屡次违法后失联",
+      "date": "2026-06-15",
+      "importance": "C",
+      "labels": [
+        "市政",
+        "低相关"
+      ],
+      "source_label": "HTB北海道テレビ",
+      "region": "hokkaido",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZRjE0Ti04cmQ1TzZiLTF4ejAtUmFzeWNRODJQM2dwVTNremV2Mk1EVl9OWVM2VEpJSlczMEFhUXc5T0FiYW5kbWhHeHlOdUhGRzJRR1hsSmx2UQ?oc=5",
       "image_url": ""
     }
   ],
