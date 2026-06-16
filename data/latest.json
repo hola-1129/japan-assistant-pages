@@ -298,6 +298,21 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/e/6/c/b/e6cb8a255dda58eba24f5d6c14dc8bb5_1.webp?20260616202211"
     },
     {
+      "hash_id": "6bbefb153f056254db10ac05548c9146",
+      "title": "支笏湖畔丸驹温泉夏季揽客新举措：开放湖畔栈桥与露台座位",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "饮食",
+        "文化"
+      ],
+      "source_label": "北海道新聞",
+      "region": "hokkaido",
+      "url": "https://www.hokkaido-np.co.jp/article/1325796/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/a/7/5/f/a75f08cfb0b75c71918fef38010a7b6d_1.webp?20260616223201"
+    },
+    {
       "hash_id": "e3348e7c0c96f728fa629923d2c74357",
       "title": "札幌丘珠机场与新千岁机场将试点跨机场汽车共享“终点还车”服务",
       "date": "2026-06-15",
@@ -400,48 +415,32 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/2/6/0/b/260b73b7b84c9cb8b119799b244e23eb_1.webp?20260616202122"
     },
     {
-      "hash_id": "4d2d4cdbbfa2166db0d4e0805a13579b",
-      "title": "札幌公寓内20多岁女性3人一氧化碳中毒死亡，疑似SNS结识后集体自杀",
-      "date": "2026-06-15",
+      "hash_id": "7e761f2bdf2273d7a21105e9855e8ddf",
+      "title": "涉嫌对未成年少女实施性暴力并拍摄视频，札幌25岁公司职员被苫小牧警署再次逮捕",
+      "date": "2026-06-16",
       "importance": "S",
       "labels": [
         "防灾",
-        "医疗"
-      ],
-      "source_label": "HTB北海道テレビ",
-      "region": "hokkaido",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMFA5UjFOSnFhLW5KVkpXNERwYUlJQjU0TnZtT2JEM3FOSzlsLUxOV2g0VGNWeGV1cWZXeXZKZW1mM2ZsSWxHbjBNV1RlUDlwd3VOY1pFby15UQ?oc=5",
-      "image_url": ""
-    },
-    {
-      "hash_id": "47dd9fb40f7a6346b24f2cb3e2d3486f",
-      "title": "北海道教委规定校内社团活动租用车辆接送须获家长同意并满足驾驶经验等条件",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "教育",
-        "交通",
-        "防灾"
+        "市政"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1325462/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/3/7/6/e/376eedede963d7b21684b04150fcca3f_1.webp?20260616150613"
+      "url": "https://www.hokkaido-np.co.jp/article/1325773/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/0/8/e/8/08e885d180f707fb0eb0761bfbd54d89_1.webp?20260616223327"
     },
     {
-      "hash_id": "53efd44f6d16c0c2884d81bbc8092be9",
-      "title": "札幌丘珠机场绿地北移，为延长跑道避军民航空器冲突",
+      "hash_id": "04365447c5e5086e19258f791727f2bb",
+      "title": "北海道生鲜牛奶供货农户数量同比减少4.1%，为近五年第二高水平",
       "date": "2026-06-16",
-      "importance": "A",
+      "importance": "B",
       "labels": [
-        "交通",
-        "市政",
-        "防灾"
+        "农业",
+        "饮食"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1325342/",
-      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/d/a/4/a/da4ae9b5d3473b026455ce1baba52f4e_1.webp?20260616150639"
+      "url": "https://www.hokkaido-np.co.jp/article/1325764/",
+      "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/c/e/4/3/ce433cbf7d6eb8cd63eeaf1114f7ca9c_1.webp?20260616223330"
     }
   ],
   "okinawa": [
