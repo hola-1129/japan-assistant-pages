@@ -444,7 +444,35 @@
       "image_url": "https://static.hokkaido-np.co.jp/image/article/size1/d/a/4/a/da4ae9b5d3473b026455ce1baba52f4e_1.webp?20260616150639"
     }
   ],
-  "okinawa": [],
+  "okinawa": [
+    {
+      "hash_id": "47164beaf1d828949eb3d382e8644d07",
+      "title": "冲绳本部町具志坚行政区前区长金城均获居民慰劳会",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "节日"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASV6H2W70V6HDIFI00LM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004491_comm.jpg"
+    },
+    {
+      "hash_id": "218dfb808a4f7e3e881b1c3b7a2cc52b",
+      "title": "冲绳本岛北部将现线状降水带，下午6点半前或发生",
+      "date": "2026-06-15",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASV6H2D0LV6HUTIL024M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004117_comm.jpg"
+    }
+  ],
   "national": [
     {
       "hash_id": "3e593f8c9fe6dd27224bd4e6f156a09e",
