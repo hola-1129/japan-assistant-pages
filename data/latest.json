@@ -46,6 +46,21 @@
       "image_url": ""
     },
     {
+      "hash_id": "9462f191b8b4d70958bedcc4618cfe96",
+      "title": "涉嫌在工作场所遗弃婴儿尸体，大阪一母亲被再次逮捕",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "防灾",
+        "教育"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6J1RVGV6JPTIL007M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616002669_comm.jpg"
+    },
+    {
       "hash_id": "3d2245b2801d557603fcf39308f01648",
       "title": "大阪市立北中道小学泳池因排水阀未完全关闭导致注水异常",
       "date": "2026-06-15",
@@ -129,6 +144,21 @@
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/kyoiku/0000680574.html",
       "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
+      "hash_id": "5b836863ce09d7d7cb4e14e56d37b994",
+      "title": "大阪举行世界杯公共观赛活动，400名球迷现场助威日本队战平荷兰",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "体育",
+        "文化",
+        "节日"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6H522JV6HOXIE01GM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616000027_comm.jpg"
     },
     {
       "hash_id": "e2639d1d5610c088eba56176192a85e9",
@@ -248,6 +278,63 @@
       "image_url": ""
     },
     {
+      "hash_id": "f95170cc67ea784198ba4ac921f9f2eb",
+      "title": "大阪桐荫剑指史上首次高中棒球春夏连霸，首轮对阵泛爱—箕面自由胜者",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "教育"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV634CSVV63OXIE03SM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616003733_comm.jpg"
+    },
+    {
+      "hash_id": "6524b3ea738fbabceab43af3bcc72dd5",
+      "title": "小剧场「翼之场」与创始人福本年雄坚守34年的故事",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "艺术"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6H2F5SV6HUCVL00JM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004156_comm.jpg"
+    },
+    {
+      "hash_id": "9462b45ea35211909e00c2baab93aecd",
+      "title": "大阪公立大学设立“室内生活研究所”，招募蛰居者担任研究员",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "教育",
+        "医疗",
+        "防灾"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6H169PV6HUTFL01LM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260615003109_comm.jpg"
+    },
+    {
+      "hash_id": "1475dacba505be19bd2b2a0ecaaadca0",
+      "title": "大阪大东市职员因涉嫌受贿被逮捕，涉市营住宅工程舞弊",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "市政",
+        "住宅"
+      ],
+      "source_label": "読売新聞大阪",
+      "region": "osaka",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZm1GUEMyZk1mSlpfRWZ1NWNpcGNZandaeW5FV3VTZklPaXdBWDhhR0ZoR0RSNndvcVoxblNYalRtQTdaSnM5dmR1bi1YSHNCTnFqYm9SWmhhOV94bUNMaWY3b201UQ?oc=5",
+      "image_url": ""
+    },
+    {
       "hash_id": "d2fa9ca61de7191ae8927a0509d57d7a",
       "title": "大阪城天守阁7月1日起黄色灯光亮化，呼应“社会明光运动”强化月",
       "date": "2026-06-15",
@@ -302,6 +389,35 @@
       "region": "osaka",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWjN5cG1haGtpTnhLSGt0cHBOVjE5aDlLbEFUUVZFX3MzNC1yQWQ3b2hULU1saTJSMjNNUkJxMlBUSm0tTnUtdXhScVgwVXI0WHByUk1tZFRaNUhWTmVvX3FBcjZpYXFpWm9DUmdHQmZldw?oc=5",
       "image_url": ""
+    },
+    {
+      "hash_id": "42f7fdbeefe5c6cce4d4d36557fcd90c",
+      "title": "寿司店「鮓 くおん」：技巧と創意に満ちた江戸前鮨",
+      "date": "2025-12-14",
+      "importance": "B",
+      "labels": [
+        "饮食",
+        "文化",
+        "艺术"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASTDD0NXRTDDOXIE024M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20251212001165_comm.jpg"
+    },
+    {
+      "hash_id": "a6de8e9f91322d531c88e45e13277fee",
+      "title": "正宗江户前寿司店「ザギンでシースー」三宫横丁店开业，性价比出众",
+      "date": "2025-12-07",
+      "importance": "B",
+      "labels": [
+        "饮食",
+        "商业"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASTD50GPTTD5OXIE02DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20251205001141_comm.jpg"
     },
     {
       "hash_id": "973aa03457292e1b1154d066fcc5d65d",
@@ -370,6 +486,33 @@
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/somu/0000680990.html",
       "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+    },
+    {
+      "hash_id": "cc333d6955edc06d3f62eb118bac5011",
+      "title": "大阪大东市职员涉嫌收受贿赂被逮捕",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政",
+        "低相关"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6J323PV6JPTIL005M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616003877_comm.jpg"
+    },
+    {
+      "hash_id": "dfc07cf75b636be059334dca5ebe3ae7",
+      "title": "大阪府议会再减6席，议席数成日本都道府县最少",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6J1DJFV6JOXIE02CM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616003331_comm.jpg"
     },
     {
       "hash_id": "ffc053812b706e03236ca851986a3897",
@@ -942,6 +1085,7 @@
       "image_url": ""
     }
   ],
+  "okinawa": [],
   "national": [
     {
       "hash_id": "39f055b30355f29b57264d6a075f22d1",
@@ -972,6 +1116,20 @@
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
+      "hash_id": "14006e580e66d273c425277604eb2cfd",
+      "title": "北九州市国民健康保险缴费单出错：封包机故障与程序缺陷致条形码印错",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "市政"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00038/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00128-1.jpg?type=ogp"
+    },
+    {
       "hash_id": "4e703ed0d7d19393ce67cf45b160c407",
       "title": "听见呼喊男子飞奔救人：20年前女童事件催生“爱管闲事”的初心",
       "date": "2026-06-15",
@@ -999,6 +1157,66 @@
       "region": "national",
       "url": "https://www.tokyo-np.co.jp/article/495453",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "4f50c82343322a1fe087ffbf5798d402",
+      "title": "岛根县海士町启动24小时居家护理服务，让留守老人“终老故土”",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "医疗",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00142/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00144-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "9a12dc17e09411c8d9e397fe62dff282",
+      "title": "新绿映照镜面房间，梅雨季的静谧之美——京都大津旧竹林院",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "观光",
+        "艺术"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00140/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00141-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "f6b3bb5d47b3ceaa420625c9c265cf75",
+      "title": "冈山县警启动AI识别斑马线磨损项目，三年内集中修复",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "交通",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00128/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00131-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "09fd0fff375834ac021d2362e63c70cd",
+      "title": "福冈市动物园将改造陡坡园路，增设多处捷径与缓坡提升无障碍通行",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "市政",
+        "交通"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00034/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00035-1.jpg?type=ogp"
     },
     {
       "hash_id": "6bee5626029f44e38a9001795c8cfeff",
@@ -1115,6 +1333,36 @@
       "region": "national",
       "url": "https://toyokeizai.net/articles/-/946934",
       "image_url": "https://tk.ismcdn.jp/mwimgs/7/d/1200xm/img_7d1fabcde6a854081fd6be766093ec2260667.jpg"
+    },
+    {
+      "hash_id": "c4062b4416ef502676bbf166896c13a1",
+      "title": "镰田大地在鸟栖时期苦学英语：6个月实现流利对话，世界杯前向老师致谢",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "教育",
+        "文化"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00113/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00116-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "50f8f30de64abc9d9a07179282abac9e",
+      "title": "福冈大空袭81周年：圆应寺举行首次诵读105名遇难者姓名的慰灵祭",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "节日",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00032/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00033-1.jpg?type=ogp"
     },
     {
       "hash_id": "5aa2396f211e75b969f8f076f7553d48",
@@ -1345,6 +1593,72 @@
       "region": "national",
       "url": "https://www.tokyo-np.co.jp/article/495432",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+    },
+    {
+      "hash_id": "b08ea82c9d40a6e3222dbf4e88f2b207",
+      "title": "长崎县议会选举德永达也为新议长",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00056/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00130-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "96195fa2d72162d38a648acdd32531df",
+      "title": "福冈县饭冢市长资产公开：年收入与赠与1371万日元，总资产4307万日元",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政",
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00039/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00127-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "3e368d8a3fc347c8e634d3a7cd8be2f1",
+      "title": "福冈市野芥发生刺杀案20年：受害者背部多处被刺身亡，警方重启线索征集",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00036/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00037-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "1ff64ac854d9d3ffd002f6d93179ccc8",
+      "title": "京都府宫津市市长与市议会选举均无竞争，双双无投票当选",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00125/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00126-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "f905277f7073a6712e7cdb711fcd9ed6",
+      "title": "维亚玛特拉斯宫崎队补时绝平横滨FC海鸥队",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00028/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00126-1.jpg?type=ogpw"
     },
     {
       "hash_id": "6186315d21f07d2504cc7e6a9945b9fc",
@@ -2085,178 +2399,5 @@
       "url": "https://www.asahi.com/articles/ASV6H2R3QV6HUJUB00DM.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260615004340_comm.jpg"
     }
-  ],
-  "japan_local": [
-    {
-      "hash_id": "14006e580e66d273c425277604eb2cfd",
-      "title": "北九州市国民健康保险缴费单出错：封包机故障与程序缺陷致条形码印错",
-      "date": "2026-06-16",
-      "importance": "S",
-      "labels": [
-        "医疗",
-        "市政"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00038/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00128-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "4f50c82343322a1fe087ffbf5798d402",
-      "title": "岛根县海士町启动24小时居家护理服务，让留守老人“终老故土”",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "医疗",
-        "市政",
-        "防灾"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00142/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00144-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "9a12dc17e09411c8d9e397fe62dff282",
-      "title": "新绿映照镜面房间，梅雨季的静谧之美——京都大津旧竹林院",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "文化",
-        "观光",
-        "艺术"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00140/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00141-1.jpg?type=ogpw"
-    },
-    {
-      "hash_id": "f6b3bb5d47b3ceaa420625c9c265cf75",
-      "title": "冈山县警启动AI识别斑马线磨损项目，三年内集中修复",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "交通",
-        "市政",
-        "防灾"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00128/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00131-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "09fd0fff375834ac021d2362e63c70cd",
-      "title": "福冈市动物园将改造陡坡园路，增设多处捷径与缓坡提升无障碍通行",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "亲子",
-        "市政",
-        "交通"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00034/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00035-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "c4062b4416ef502676bbf166896c13a1",
-      "title": "镰田大地在鸟栖时期苦学英语：6个月实现流利对话，世界杯前向老师致谢",
-      "date": "2026-06-16",
-      "importance": "B",
-      "labels": [
-        "体育",
-        "教育",
-        "文化"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00113/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00116-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "50f8f30de64abc9d9a07179282abac9e",
-      "title": "福冈大空袭81周年：圆应寺举行首次诵读105名遇难者姓名的慰灵祭",
-      "date": "2026-06-16",
-      "importance": "B",
-      "labels": [
-        "文化",
-        "节日",
-        "防灾"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00032/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00033-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "b08ea82c9d40a6e3222dbf4e88f2b207",
-      "title": "长崎县议会选举德永达也为新议长",
-      "date": "2026-06-16",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00056/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00130-1.jpg?type=ogpw"
-    },
-    {
-      "hash_id": "96195fa2d72162d38a648acdd32531df",
-      "title": "福冈县饭冢市长资产公开：年收入与赠与1371万日元，总资产4307万日元",
-      "date": "2026-06-16",
-      "importance": "C",
-      "labels": [
-        "市政",
-        "低相关"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00039/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00127-1.jpg?type=ogpw"
-    },
-    {
-      "hash_id": "3e368d8a3fc347c8e634d3a7cd8be2f1",
-      "title": "福冈市野芥发生刺杀案20年：受害者背部多处被刺身亡，警方重启线索征集",
-      "date": "2026-06-16",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00036/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00037-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "1ff64ac854d9d3ffd002f6d93179ccc8",
-      "title": "京都府宫津市市长与市议会选举均无竞争，双双无投票当选",
-      "date": "2026-06-16",
-      "importance": "C",
-      "labels": [
-        "市政"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00125/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00126-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "f905277f7073a6712e7cdb711fcd9ed6",
-      "title": "维亚玛特拉斯宫崎队补时绝平横滨FC海鸥队",
-      "date": "2026-06-16",
-      "importance": "C",
-      "labels": [
-        "体育"
-      ],
-      "source_label": "読売新聞",
-      "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00028/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00126-1.jpg?type=ogpw"
-    }
-  ],
-  "okinawa": []
+  ]
 }
