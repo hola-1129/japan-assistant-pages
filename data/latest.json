@@ -16,6 +16,51 @@
       "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
     },
     {
+      "hash_id": "7ec3387bc4398a94b2979f1764aa135d",
+      "title": "6月食中毒激增，家庭可采取的预防措施",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "饮食",
+        "医疗",
+        "防灾"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103317",
+      "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260616/2000103317_20260616191856_m.jpg"
+    },
+    {
+      "hash_id": "02d67367a72233089472c542fb5619e6",
+      "title": "和果子之日：滋贺县近江八幡市中小学供餐推出传统麻薯点心",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "教育",
+        "饮食"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103306",
+      "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260616/2000103306_20260616191113_m.jpg"
+    },
+    {
+      "hash_id": "cbc536cf7b105433ed9d4722a9468cce",
+      "title": "和歌山县串本町海水浴场为6月下旬“海开”做准备",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "观光",
+        "节日",
+        "防灾"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103301",
+      "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260616/2000103301_20260616185850_m.jpg"
+    },
+    {
       "hash_id": "09829aae68cc67955ab858881dd9076f",
       "title": "大阪此花区与横滨濑谷区启动世博会联动宣传",
       "date": "2026-06-15",
@@ -104,6 +149,63 @@
       "image_url": "https://imgopt.asahi.com/ogp/AS20260616002669_comm.jpg"
     },
     {
+      "hash_id": "0c50ca6d325b623a32b6bb98b2387e29",
+      "title": "大阪高中棒球大赛抽签结束，3轮对阵确定",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "教育",
+        "体育"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASV6J3QV7V6JOXIE05MM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260616004678_comm.jpg"
+    },
+    {
+      "hash_id": "5ccc5398f9827042d88a6fe97c7b1c92",
+      "title": "茨城南部地震致群马、埼玉震度5弱，滋贺震度1，无海啸风险",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103319",
+      "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260616/2000103319_20260614220156_m.jpg"
+    },
+    {
+      "hash_id": "4edbb9cdd0de3cd799add4157582b6f5",
+      "title": "滋贺县高岛市特色木莓“阿德莓”进入丰收季",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "农业",
+        "饮食",
+        "观光"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103297",
+      "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260616/2000103297_20260616191406_m.jpg"
+    },
+    {
+      "hash_id": "594f4384dd6de7364d1fe6b9c67b3b7d",
+      "title": "大阪富田林市中学生采访广岛原爆幸存者，创作和平主题绘本",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "教育",
+        "文化",
+        "防灾"
+      ],
+      "source_label": "読売新聞大阪",
+      "region": "osaka",
+      "url": "https://www.yomiuri.co.jp/local/osaka/news/20260615-GYTNT00119/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260615-GYTNI00122-1.jpg?type=ogp"
+    },
+    {
       "hash_id": "d2fa9ca61de7191ae8927a0509d57d7a",
       "title": "大阪城天守阁7月1日起黄色灯光亮化，呼应“社会明光运动”强化月",
       "date": "2026-06-15",
@@ -116,109 +218,6 @@
       "region": "osaka",
       "url": "https://www.city.osaka.lg.jp/hodoshiryo/fukushi/0000680478.html",
       "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
-    },
-    {
-      "hash_id": "3d2245b2801d557603fcf39308f01648",
-      "title": "大阪市立北中道小学泳池因排水阀未完全关闭导致注水异常",
-      "date": "2026-06-15",
-      "importance": "S",
-      "labels": [
-        "教育",
-        "市政",
-        "防灾"
-      ],
-      "source_label": "大阪市",
-      "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/kyoiku/0000681231.html",
-      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
-    },
-    {
-      "hash_id": "5b836863ce09d7d7cb4e14e56d37b994",
-      "title": "大阪举行世界杯公共观赛活动，400名球迷现场助威日本队战平荷兰",
-      "date": "2026-06-16",
-      "importance": "A",
-      "labels": [
-        "体育",
-        "文化",
-        "节日"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASV6H522JV6HOXIE01GM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260616000027_comm.jpg"
-    },
-    {
-      "hash_id": "e2639d1d5610c088eba56176192a85e9",
-      "title": "大阪古典音乐节2026举办时间及宣传演出确定",
-      "date": "2026-06-15",
-      "importance": "A",
-      "labels": [
-        "文化",
-        "艺术",
-        "观光"
-      ],
-      "source_label": "大阪市",
-      "region": "osaka",
-      "url": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000680947.html",
-      "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
-    },
-    {
-      "hash_id": "4ae72a46b0586c9d192d638cbb401898",
-      "title": "大阪市东淀川区公寓杀人案：逮捕同楼层男子，涉嫌强盗杀人",
-      "date": "2026-06-15",
-      "importance": "A",
-      "labels": [
-        "市政",
-        "防灾"
-      ],
-      "source_label": "読売新聞大阪",
-      "region": "osaka",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GQXJkTUVER1dtblNhUW5lUFR6UlR3UnV5cDc0LXJuSjBMWTFhWjdIcnh6OHVtQjlnRFVlbGhfbWQ4UFNKUWY5cXFreV9ISkJuWGdxT1FOQnloOER6SUZPSTBOZDY2Zw?oc=5",
-      "image_url": ""
-    },
-    {
-      "hash_id": "b8d4af8da050856e7359a5a5d5ec46ca",
-      "title": "大阪中之岛关电总部旁新办公楼开工，标志30年区域开发收官",
-      "date": "2026-06-16",
-      "importance": "B",
-      "labels": [
-        "商业",
-        "住宅",
-        "市政"
-      ],
-      "source_label": "読売新聞大阪",
-      "region": "osaka",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdU5HdmZQdThYemt0VTdXVWkwTlNvRTl2RmlLY3NyOFZFZzlVb1VaeFEzMTRoemNMcmg0cmtNeHFHYmx3NWlPT2pncmJ4bGY4Z19QSmExNzNtbS1Ya3N0VFRHTEY?oc=5",
-      "image_url": ""
-    },
-    {
-      "hash_id": "6524b3ea738fbabceab43af3bcc72dd5",
-      "title": "小剧场「翼之场」与创始人福本年雄坚守34年的故事",
-      "date": "2026-06-16",
-      "importance": "B",
-      "labels": [
-        "文化",
-        "艺术"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASV6H2F5SV6HUCVL00JM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260615004156_comm.jpg"
-    },
-    {
-      "hash_id": "9462b45ea35211909e00c2baab93aecd",
-      "title": "大阪公立大学设立“室内生活研究所”，招募蛰居者担任研究员",
-      "date": "2026-06-16",
-      "importance": "B",
-      "labels": [
-        "教育",
-        "医疗",
-        "防灾"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASV6H169PV6HUTFL01LM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260615003109_comm.jpg"
     }
   ],
   "hokkaido": [
