@@ -1190,5 +1190,177 @@
       "url": "https://www.japan-guide.com/blog/cassandra/260220_shibuya_updates.html",
       "image_url": ""
     }
+  ],
+  "japan_local": [
+    {
+      "hash_id": "14006e580e66d273c425277604eb2cfd",
+      "title": "北九州市国民健康保险缴费单出错：封包机故障与程序缺陷致条形码印错",
+      "date": "2026-06-16",
+      "importance": "S",
+      "labels": [
+        "医疗",
+        "市政"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00038/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00128-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "4f50c82343322a1fe087ffbf5798d402",
+      "title": "岛根县海士町启动24小时居家护理服务，让留守老人“终老故土”",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "医疗",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00142/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00144-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "9a12dc17e09411c8d9e397fe62dff282",
+      "title": "新绿映照镜面房间，梅雨季的静谧之美——京都大津旧竹林院",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "文化",
+        "观光",
+        "艺术"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00140/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00141-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "f6b3bb5d47b3ceaa420625c9c265cf75",
+      "title": "冈山县警启动AI识别斑马线磨损项目，三年内集中修复",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "交通",
+        "市政",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00128/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00131-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "09fd0fff375834ac021d2362e63c70cd",
+      "title": "福冈市动物园将改造陡坡园路，增设多处捷径与缓坡提升无障碍通行",
+      "date": "2026-06-16",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "市政",
+        "交通"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00034/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00035-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "c4062b4416ef502676bbf166896c13a1",
+      "title": "镰田大地在鸟栖时期苦学英语：6个月实现流利对话，世界杯前向老师致谢",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "体育",
+        "教育",
+        "文化"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00113/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00116-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "50f8f30de64abc9d9a07179282abac9e",
+      "title": "福冈大空袭81周年：圆应寺举行首次诵读105名遇难者姓名的慰灵祭",
+      "date": "2026-06-16",
+      "importance": "B",
+      "labels": [
+        "文化",
+        "节日",
+        "防灾"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00032/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00033-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "b08ea82c9d40a6e3222dbf4e88f2b207",
+      "title": "长崎县议会选举德永达也为新议长",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00056/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00130-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "96195fa2d72162d38a648acdd32531df",
+      "title": "福冈县饭冢市长资产公开：年收入与赠与1371万日元，总资产4307万日元",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政",
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00039/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00127-1.jpg?type=ogpw"
+    },
+    {
+      "hash_id": "3e368d8a3fc347c8e634d3a7cd8be2f1",
+      "title": "福冈市野芥发生刺杀案20年：受害者背部多处被刺身亡，警方重启线索征集",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00036/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00037-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "1ff64ac854d9d3ffd002f6d93179ccc8",
+      "title": "京都府宫津市市长与市议会选举均无竞争，双双无投票当选",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "市政"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kansai/news/20260616-GYO1T00125/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYO1I00126-1.jpg?type=ogp"
+    },
+    {
+      "hash_id": "f905277f7073a6712e7cdb711fcd9ed6",
+      "title": "维亚玛特拉斯宫崎队补时绝平横滨FC海鸥队",
+      "date": "2026-06-16",
+      "importance": "C",
+      "labels": [
+        "体育"
+      ],
+      "source_label": "読売新聞",
+      "region": "japan_local",
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20260616-GYS1T00028/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260616-GYS1I00126-1.jpg?type=ogpw"
+    }
   ]
 }
