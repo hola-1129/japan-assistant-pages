@@ -661,5 +661,20 @@
       "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/0604designhunter_1200.jpg"
     }
   ],
-  "travel": []
+  "travel": [
+    {
+      "hash_id": "e92c0e65800354fba30b544aa519beae",
+      "title": "5月访日游客连续两月同比下滑，中国游客减少六成，韩国台湾增长",
+      "date": "2026-06-17",
+      "importance": "B",
+      "labels": [
+        "观光",
+        "商业"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6K26LVV6KULFA013M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260617003179_comm.jpg"
+    }
+  ]
 }
