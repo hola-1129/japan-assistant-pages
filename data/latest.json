@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "osaka": [
     {
       "hash_id": "1842c8796da556a476a8464722fefe64",
@@ -73,20 +73,6 @@
       "image_url": "https://www.yomiuri.co.jp/ogp.jpg?type=ogp"
     },
     {
-      "hash_id": "b771ed490ae4e02429933b06d109a4a8",
-      "title": "大阪用超声波+AI阻断ATM前诈骗通话，退税诈骗案件减少八成",
-      "date": "2026-06-22",
-      "importance": "A",
-      "labels": [
-        "防灾",
-        "商业"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASV6N2189V6NPTIL009M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260620002069_comm.jpg"
-    },
-    {
       "hash_id": "5be365db0926dec56596b07216fac29d",
       "title": "HKT48开启结成15周年全国巡演，首站定于大阪",
       "date": "2026-06-23",
@@ -113,34 +99,6 @@
       "region": "osaka",
       "url": "https://news.web.nhk/newsweb/na/nb-2000103467",
       "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "f38280aaa1d888aff8cea013133d491d",
-      "title": "世界杯场馆“膜结构屋顶”多由大阪企业承建，瑞典战将继续使用",
-      "date": "2026-06-22",
-      "importance": "B",
-      "labels": [
-        "体育",
-        "观光"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASV6M2272V6MPLFA00SM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260619002733_comm.jpg"
-    },
-    {
-      "hash_id": "03a5b628899bcd7b2b041697d24fd536",
-      "title": "大阪枚方市启动“可用大件垃圾”销售项目",
-      "date": "2026-06-22",
-      "importance": "B",
-      "labels": [
-        "市政",
-        "住宅"
-      ],
-      "source_label": "読売新聞大阪",
-      "region": "osaka",
-      "url": "https://www.yomiuri.co.jp/local/osaka/news/20260621-GYTNT00141/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/06/20260621-GYTNI00144-1.jpg?type=ogp"
     },
     {
       "hash_id": "69211857edf8621759c0fe2485b3f6ce",
@@ -209,6 +167,45 @@
       "region": "osaka",
       "url": "https://news.web.nhk/newsweb/na/nb-2000103453",
       "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260623/2000103453_20260623151309_m.jpg"
+    },
+    {
+      "hash_id": "0e4202eb454a327370bf95e1f318e669",
+      "title": "大阪茨木市公寓壁橱内发现部分白骨化遗体，警方以弃尸案调查",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103463",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "6bc5d223960a9513594c3027cfa6be22",
+      "title": "神户公寓冷冻柜内发现被肢解男性遗体，室内无明显破坏及血迹",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nb-2000103459",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "4a8844ead2b6bc70365c37a45b0500f4",
+      "title": "大阪地区多家商户推出优惠活动",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "読売新聞大阪",
+      "region": "osaka",
+      "url": "https://www.yomiuri.co.jp/local/osaka/news/",
+      "image_url": "https://www.yomiuri.co.jp/media/2025/07/27osaka1600.jpg"
     }
   ],
   "hokkaido": [
@@ -427,6 +424,149 @@
   ],
   "okinawa": [
     {
+      "hash_id": "214743379c83e4dc292b6a808b846c8a",
+      "title": "客室リネンの品質向上へ　クラブフロア宿泊者向けサービス刷新　沖縄",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASV6R2V7TV6RDIFI00VM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260623003520_comm.jpg"
+    },
+    {
+      "hash_id": "20219d2f9c0db73dbbaa4cacb3439b4d",
+      "title": "出院者が語る「少年院から出た僕の居場所」　27日に那覇で学習会",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASV6R2VNXV6RDIFI00SM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260623003546_comm.jpg"
+    },
+    {
+      "hash_id": "e655ea2469c587738c9d39ddccfc810e",
+      "title": "台風７号 ２５〜２７日 強い勢力で沖縄接近か 暴風厳重警戒",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035682",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260624/5090035682_20260624125426_m.jpg"
+    },
+    {
+      "hash_id": "645da2345c625951e7f2765472977c04",
+      "title": "沖縄戦で「戦争マラリア」で亡くなった人たちの追悼式典 石垣",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035681",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260624/5090035681_20260624125803_m.jpg"
+    },
+    {
+      "hash_id": "e053ad0981f3a40a4004b4f63a7acc89",
+      "title": "日銀那覇支店 東将人新支店長 “プラスになる情報や提言を”",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035680",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260624/5090035680_20260624083000_m.jpg"
+    },
+    {
+      "hash_id": "705c6b931e25fef24e16ee6c1632f46a",
+      "title": "米軍関係者の性暴力事件 女性団体が国に通報義務化を再度要請",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035679",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260624/5090035679_20260624082632_m.jpg"
+    },
+    {
+      "hash_id": "3fe83ba53e8089e0af54248d39364773",
+      "title": "沖縄知事との会談は5分　初訪問の高市首相、基地負担より安保に軸足",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASV6R1RS4V6RUTIL00VM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260623002464_comm.jpg"
+    },
+    {
+      "hash_id": "01bfb5c17a74819509c08a68a4198170",
+      "title": "最後の官選知事　島田叡の資料発見“遺骨”電報も…",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035678",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260623/5090035678_20260623201128_m.jpg"
+    },
+    {
+      "hash_id": "1b322eeb7c50a01f993f8d9003b399da",
+      "title": "慰霊の日 兵士看護に動員 「瑞泉学徒隊」慰霊祭 那覇 首里",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035676",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260623/5090035676_20260623192349_m.jpg"
+    },
+    {
+      "hash_id": "7e35d9d9a87e72f8463c152cabd64c16",
+      "title": "慰霊の日「海鳴りの像」で攻撃で沈没した船の犠牲者を追悼",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035674",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260623/5090035674_20260623212324_m.jpg"
+    },
+    {
+      "hash_id": "00adb767faa201dfad70790203bd8a1c",
+      "title": "慰霊の日 修学旅行生が「糸数アブチラガマ」訪れ平和を学ぶ",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nb-5090035665",
+      "image_url": "https://imgu.web.nhk/news/u/lnews/okinawa/20260623/5090035665_20260623212626_m.jpg"
+    },
+    {
       "hash_id": "753426e61bdcc0a1daf83b4d69cdf7cb",
       "title": "曽祖母が「生きたいと願った証」　「平和の詩」読む中学生が見た傷痕",
       "date": "2026-06-23",
@@ -477,136 +617,6 @@
       "region": "okinawa",
       "url": "https://www.asahi.com/articles/ASV6N2245V6NTPOB004M.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260620002110_comm.jpg"
-    },
-    {
-      "hash_id": "7b8f761a3d53884f21168c0b436276a3",
-      "title": "台風6号で倒木のガジュマル、沖縄市議会有志が市長に復元を要請",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞沖縄",
-      "region": "okinawa",
-      "url": "https://www.asahi.com/articles/ASV6Q2W0MV6QDIFI00PM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260622003583_comm.jpg"
-    },
-    {
-      "hash_id": "1d2bc8e93534333747456fc60ad1019e",
-      "title": "W杯勝利にオトーリで祝杯　堂安律選手の親戚ら歓喜　沖縄・宮古島",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞沖縄",
-      "region": "okinawa",
-      "url": "https://www.asahi.com/articles/ASV6Q2VXHV6QDIFI00NM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260622003582_comm.jpg"
-    },
-    {
-      "hash_id": "a8eefa628068a2e59ce493ad2c7be398",
-      "title": "慰霊の日 生徒らが犠牲 開南中慰霊祭 遺骨ＤＮＡ鑑定申請も",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035667",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "9f30787d3effb2f1de05531f02ec09d7",
-      "title": "沖縄戦８１年の「慰霊の日」戦没者追悼式 各地で平和の祈り",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035663",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "e04d14e9700e3ee923f84edd88f0801f",
-      "title": "慰霊の日 戦没者追悼式「平和の詩」全文",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035654",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "a154e45ba52359f43cd4eff329ebffc4",
-      "title": "慰霊の日 ひめゆり学徒隊慰霊祭 戦後８１年 元学徒参加無く",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035661",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "4a3a9b5a30610c539ed193736e1b0fe0",
-      "title": "慰霊の日 沖縄戦の犠牲となった生徒や卒業生を追悼 名護",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035657",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "10fac1f758a56fbfc4cc99ff862cf99c",
-      "title": "沖縄 慰霊の日 沖縄戦最後の激戦地を歩く「平和行進」",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035655",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "efd070a90b7c49b6b910f5f749064650",
-      "title": "沖縄 慰霊の日 竹富町で戦没者追悼式",
-      "date": "2026-06-23",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nb-5090035656",
-      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "hash_id": "97ea937fc72d44299506c971e27a0c50",
-      "title": "「戦争反対は空虚な理想論ではない」　沖縄「慰霊の日」戦没者追悼式",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞沖縄",
-      "region": "okinawa",
-      "url": "https://www.asahi.com/articles/ASV6Q1TYYV6QUTIL00VM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260623001713_comm.jpg"
     }
   ],
   "national": [
@@ -823,79 +833,6 @@
   ],
   "culture": [
     {
-      "hash_id": "1afe8c0c4f63ebf0b2d79061605c8db9",
-      "title": "日用品图鉴：空间导演山际悠辅的私藏好物",
-      "date": "2026-06-22",
-      "importance": "B",
-      "labels": [
-        "文化",
-        "艺术",
-        "饮食"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-503991/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/2724849664febb92cd9104f662903660.jpg"
-    },
-    {
-      "hash_id": "de45361a30cd452ec02078b58a210ff8",
-      "title": "香氛品牌「Parfumer H」亚洲首家旗舰店在首尔开业，携手韩国品牌打造专属茶室",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "饮食",
-        "商业",
-        "文化"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-503316/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/Coming-Soon-Eye-1.jpg"
-    },
-    {
-      "hash_id": "29d53db531fe446729797eb1b6d78331",
-      "title": "适合夏日的太阳风穿搭：巴蒂克印花衬衫与环形T恤轻盈登场",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "文化",
-        "饮食"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-500515/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/05/42d.jpg"
-    },
-    {
-      "hash_id": "3a35493607659e798f6e3eca9bf2615b",
-      "title": "让·玛丽·马索以“减法思维”设计的现代沙发《AOUM》",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "艺术",
-        "住宅"
-      ],
-      "source_label": "Casa BRUTUS",
-      "region": "culture",
-      "url": "https://casabrutus.com/categories/design/489397",
-      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/07fridge12_1200.jpg"
-    },
-    {
-      "hash_id": "74cb138b9da4907354b2ac6bbe1ef265",
-      "title": "米其林一星主厨在斯德哥尔摩开设高端餐厅ADAM ALBIN",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "饮食",
-        "文化",
-        "艺术"
-      ],
-      "source_label": "Casa BRUTUS",
-      "region": "culture",
-      "url": "https://casabrutus.com/categories/food/488948",
-      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/0604adamalbin_1200.jpg"
-    },
-    {
       "hash_id": "010cc958ca5c1e5764a93216ab593eef",
       "title": "西山彻新品牌「Buffer」旗舰店入驻东京原宿神宫前",
       "date": "2026-06-23",
@@ -909,34 +846,6 @@
       "region": "culture",
       "url": "https://casabrutus.com/categories/fashion/488940",
       "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/0604bufferstore_1200.jpg"
-    },
-    {
-      "hash_id": "c232cc1b842de3371a8c7caa81166c3d",
-      "title": "轻盈相伴创作之姿：画家下田昌克与他的椅子",
-      "date": "2026-06-22",
-      "importance": "B",
-      "labels": [
-        "文化",
-        "艺术"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-492685/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/04/39d.jpg"
-    },
-    {
-      "hash_id": "044fca7a56a222260d34a3332b80dd64",
-      "title": "【#3】这里真的是屋久岛吗？",
-      "date": "2026-06-22",
-      "importance": "B",
-      "labels": [
-        "观光",
-        "文化"
-      ],
-      "source_label": "POPEYE",
-      "region": "culture",
-      "url": "https://popeyemagazine.jp/post-287347/",
-      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/4e1af5cf9f21a8efc6cf8cb279317608-1200x630.jpg"
     },
     {
       "hash_id": "625d0e009875f9bd81521059c50f3a60",
@@ -968,21 +877,6 @@
       "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/c0b623d8ddd2fa02b818c917e714348f.jpg"
     },
     {
-      "hash_id": "709eae4156672a8d915cce791463a80b",
-      "title": "腰间低调宣言：DEHANCHE植物鞣革腰带入选《BRUTUS》年度优选",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "文化",
-        "艺术",
-        "商业"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-506158/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/p133_03_PC.jpg"
-    },
-    {
       "hash_id": "057badb29864c7409d4d6f4db4a4ba09",
       "title": "実家の部屋から茶室まで、NIGO®︎を紐解く展覧会がロンドンで開催中！",
       "date": "2026-06-23",
@@ -997,34 +891,149 @@
       "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/0604nigo_1200.jpg"
     },
     {
-      "hash_id": "c2313117e8509f8c1317a85e33e8da3a",
-      "title": "像工具一样结实的毛衣",
-      "date": "2026-06-22",
+      "hash_id": "a56e30ad20053aeb2edad7f394c5e5d2",
+      "title": "猛暑も急な雨の日も。いま選びたい晴雨兼用傘10選。",
+      "date": "2026-06-24",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "Casa BRUTUS",
+      "region": "culture",
+      "url": "https://casabrutus.com/categories/design/489517",
+      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2027/06/0612_umbrella_ogp_1200.jpg"
+    },
+    {
+      "hash_id": "07e5373d0313c71c3e1f7d643e13c821",
+      "title": "踏まれた数だけ歴史がある。東大・本郷キャンパスに残る奥深き「帝大下水」",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-495316/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/04/71d.jpg"
+    },
+    {
+      "hash_id": "326cdd87d564ab39eec23796ed43d0e3",
+      "title": "花井祐介、クニモンド瀧口、丸山智博ら10人の椅子好きが愛用する一脚",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-493835/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/04/004d.jpg"
+    },
+    {
+      "hash_id": "e5f53cdbf4dd0ff160004a22ef8d58e9",
+      "title": "東京大学に眠るお宝に出会う。総合研究博物館の松原始先生が解説する「カラス」",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-495287/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/04/dddd.jpg"
+    },
+    {
+      "hash_id": "6b0bc81f3f9064322fc600032961483e",
+      "title": "デムナ・ヴァザリアによる新解釈に注目！〈グッチ〉のホースビット ローファー",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-500519/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/05/43d.jpg"
+    },
+    {
+      "hash_id": "64942995fddad6f44c0a5506a5f87a29",
+      "title": "ラムダン・トゥアミが仕掛ける“24時間だけ存在するTシャツ”プロジェクト『24-HOUR PROPOSITION PROJECT』",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-507215/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/06/b9bde6bff5e6de88d1c638ccd0d1ecc4.jpeg"
+    },
+    {
+      "hash_id": "1de48e0cc0fa6054e78c3333a91d4e5c",
+      "title": "ブラジルの巨匠、セルジオ・ロドリゲスの家具を〈CASA DE〉が販売中。",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "Casa BRUTUS",
+      "region": "culture",
+      "url": "https://casabrutus.com/categories/design/489395",
+      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/06/07fridge11_1200.jpg"
+    },
+    {
+      "hash_id": "8da3575825e56811945ae07c34be05db",
+      "title": "【#3】Traveling Journal – ロンドンの本屋",
+      "date": "2026-06-23",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "POPEYE",
       "region": "culture",
-      "url": "https://popeyemagazine.jp/post-287671/",
-      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/DMA-146089-share.jpg"
+      "url": "https://popeyemagazine.jp/post-287373/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/IMG_4778-1077x630.jpg"
+    },
+    {
+      "hash_id": "05bf8964dd8298a85c9313ac7bd0f7ec",
+      "title": "シャバカ・ハッチングスが教えてくれた初夏に聴きたい30曲。",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-284984/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/06/8288E50F-B04D-4ABA-A78E-DA5B67751E30-1200x630.jpg"
     }
   ],
   "travel": [
     {
-      "hash_id": "0e7315f89487f3349eee409c41b4353f",
-      "title": "山に消えた4人の友、遺影を胸に　「パンドラ」に挑んだ山岳ライター",
-      "date": "2026-06-22",
-      "importance": "B",
+      "hash_id": "0eba439378ed5ab5781acf776be19ced",
+      "title": "開山間近の富士山、どうなっている？　頂上へ至る「県道」調査に同行",
+      "date": "2026-06-23",
+      "importance": "C",
       "labels": [
-        "文化",
-        "体育",
-        "防灾"
+        "低相关"
       ],
       "source_label": "朝日新聞 山",
       "region": "travel",
-      "url": "https://www.asahi.com/articles/ASV6K420YV6KOXIE03RM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260617004799_comm.jpg"
+      "url": "https://www.asahi.com/articles/ASV6R2HNSV6RUZOB007M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260623003194_comm.jpg"
+    },
+    {
+      "hash_id": "8ad711444308c54acc6a8a155d80feea",
+      "title": "愛された「脱走の女王」をしのぶ　ミンファの動画に写真…涙も笑いも",
+      "date": "2026-06-23",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞 旅行",
+      "region": "travel",
+      "url": "https://www.asahi.com/articles/ASV6R2SLBV6RPGJB009M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260623003399_comm.jpg"
     },
     {
       "hash_id": "9b455acfe65bd7bdaffe03fdca11004c",
@@ -1051,32 +1060,6 @@
       "region": "travel",
       "url": "https://www.asahi.com/articles/ASV6Q135BV6QOXIE013M.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20260622001900_comm.jpg"
-    },
-    {
-      "hash_id": "2fdd3ea10f30ddb8f8beeca9a82ba0a3",
-      "title": "閉山期の富士山登山禁止論に「再考求める」　日本山岳会など反対声明",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞 山",
-      "region": "travel",
-      "url": "https://www.asahi.com/articles/ASV6Q2STGV6QOXIE037M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260622003505_comm.jpg"
-    },
-    {
-      "hash_id": "2a76c6196f0032e3483bae342aec5e01",
-      "title": "赤ちゃんコアラ母の袋から顔ひょっこり　横浜の動物園で「出袋」確認",
-      "date": "2026-06-22",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞 旅行",
-      "region": "travel",
-      "url": "https://www.asahi.com/articles/ASV6Q21XTV6QULOB00NM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260622002813_comm.jpg"
     }
   ]
 }
