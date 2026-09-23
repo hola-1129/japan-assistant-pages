@@ -215,6 +215,124 @@
       "image_url": "https://imgu.web.nhk/news/u/kansai-news/20260922/2000105735_20260922081223_m.jpg"
     }
   ],
+  "tokyo": [
+    {
+      "hash_id": "33826bfe2411c953e5272903dd7386af",
+      "title": "前职业棒球选手内川圣一在八王子市举办儿童传球教学活动",
+      "date": "2026-09-23",
+      "importance": "A",
+      "labels": [
+        "亲子",
+        "体育",
+        "教育"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASV9Q3WB7V9QOXIE001M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260922003121_comm.jpg"
+    },
+    {
+      "hash_id": "ba7529376766850d305e8bdc9b8eb322",
+      "title": "羽田机场第一航站楼启用“可读式电话亭”",
+      "date": "2026-09-22",
+      "importance": "A",
+      "labels": [
+        "交通",
+        "文化",
+        "艺术"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASV9P3VX8V9POXIE019M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260921003467_comm.jpg"
+    },
+    {
+      "hash_id": "9ae2b2ed33b6eff742ab4f4f4392b357",
+      "title": "东京新宿一栋大楼发生火灾，4人因吸入烟雾受伤",
+      "date": "2026-09-23",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "交通",
+        "市政"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASV9R3V8MV9RUEFT00LM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260923004034_comm.jpg"
+    },
+    {
+      "hash_id": "6e8de1494b0883211b8dce2d5c35711e",
+      "title": "JR新宿站前大楼7层冒烟，消防持续扑救，多人出现身体不适",
+      "date": "2026-09-23",
+      "importance": "S",
+      "labels": [
+        "交通",
+        "防灾",
+        "市政"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52062",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52062/20260923de52062_E0000034607_1_l.jpg"
+    },
+    {
+      "hash_id": "cfe241ee4b9ed228f87aad4e1d3a3bc7",
+      "title": "东京新宿区一栋大楼七层冒烟，消防车到场灭火",
+      "date": "2026-09-23",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "市政"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52058",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52058/20260923de52058_E0000034607_1_l.jpg"
+    },
+    {
+      "hash_id": "53d36b38688d5db8ead9b53d51f3e39d",
+      "title": "台风25号致关东及伊豆群岛多地住宅受损",
+      "date": "2026-09-23",
+      "importance": "S",
+      "labels": [
+        "防灾",
+        "住宅"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51974",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "22df8f851a61e377b1bdc9a7e078e5eb",
+      "title": "关东及伊豆群岛遭遇历史性暴雨，需持续警惕泥石流灾害",
+      "date": "2026-09-22",
+      "importance": "S",
+      "labels": [
+        "防灾"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51886",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "e4b829772c6ef748ab504d963d6d5fe9",
+      "title": "台风25号致皇居大手门桥梁被淹，护城河水溢出",
+      "date": "2026-09-22",
+      "importance": "A",
+      "labels": [
+        "防灾",
+        "交通",
+        "市政"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASV9Q3RRMV9QUQIP02TM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260922002859_comm.jpg"
+    }
+  ],
   "hokkaido": [
     {
       "hash_id": "087712667dbb9baa6a9c17dd13a1bd92",
@@ -625,7 +743,7 @@
       "source_label": "朝日新聞",
       "region": "national",
       "url": "http://www.asahi.com/articles/ASV9R11CBV9RPLZB001M.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20260923001477_comm.jpg"
+      "image_url": "https://imgopt.asahi.com/ogp/AS20260923002508_comm.jpg"
     },
     {
       "hash_id": "10189e313907341775d8e1d6597b791b",
