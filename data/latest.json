@@ -1,6 +1,136 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "osaka": [
+    {
+      "hash_id": "37bf3b1fbec1ff1be0c8c990214551b1",
+      "title": "来春の選抜高校野球大会の「21世紀枠」に豊中を推薦、大阪府高野連",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASVC922KBVC9OXIE025M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261109002439_comm.jpg"
+    },
+    {
+      "hash_id": "f1f96ab492485016c82e90f6f926f3d5",
+      "title": "大阪 児童7人車ではねた殺人未遂の罪 被告は黙秘",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72906",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72906/20261109de72906_E0000155108_1_l.jpg"
+    },
+    {
+      "hash_id": "bcac2bd73e40bc3a79ff36f3a0c8ea6b",
+      "title": "大阪 デパート10月の売り上げ 阪神リーグ優勝セールなど好調",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72710",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "901f3a2ca333933b9707a44f5ac24764",
+      "title": "ウイスキー蒸留所で新しい熟成施設オープン 大阪 岸和田",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72712",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72712/20261109de72712_E0000154759_1_l.jpg"
+    },
+    {
+      "hash_id": "ebc25810ea20d8f768d69d1fb470a524",
+      "title": "産休取得の川田翔子市長が公務復帰「心機一転 仕事」京都 八幡",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72780",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72780/20261109de72780_E0000154785_1_l.jpg"
+    },
+    {
+      "hash_id": "1b73c9bc70a38b831f4ccd03c98f482c",
+      "title": "「しあわせ運べるように」歌い継ぐ集い 兵庫 神戸",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72668",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72668/20261109de72668_E0000154066_1_l.jpg"
+    },
+    {
+      "hash_id": "3f2a31dc54a2de985399b4ac170bd4ae",
+      "title": "兵庫 西宮 住宅火災 1人死亡1人搬送",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72683",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72683/20261109de72683_E0000154110_1_l.jpg"
+    },
+    {
+      "hash_id": "919fc5ead2a4ef444fd5dc7843015d09",
+      "title": "茶の産地の魅力発信「茶源郷まつり」 京都 和束町",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72666",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72666/20261109de72666_E0000154123_1_l.jpg"
+    },
+    {
+      "hash_id": "52a9422b8964289eb223a12d141ddf76",
+      "title": "タワマン3棟が合同防災イベント 災害に備え体制づくり 大阪",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK大阪",
+      "region": "osaka",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72665",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72665/20261109de72665_E0000154181_1_l.jpg"
+    },
+    {
+      "hash_id": "26dfae8bccbb91bfab75c2b9c87e1890",
+      "title": "大阪・梅田の書店で従業員が刺される　男を傷害容疑で現行犯逮捕",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞大阪",
+      "region": "osaka",
+      "url": "https://www.asahi.com/articles/ASVC82QDTVC8OXIE00HM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261108002221_comm.jpg"
+    },
     {
       "hash_id": "7eee3e2a8b90f6ad0fc60de374ff7930",
       "title": "「戦時下で必死に生きる人に目を向けて」大阪でウクライナ映画祭",
@@ -65,139 +195,152 @@
       "region": "osaka",
       "url": "https://news.web.nhk/newsweb/na/nd-20261108de72431",
       "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72431/20261108de72431_E0000152911_1_l.jpg"
-    },
-    {
-      "hash_id": "b176eb80d6c94b07956fde9aa3d340a1",
-      "title": "「学研都市」の科学技術 ロボット遠隔操作で競う 京都 精華町",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK大阪",
-      "region": "osaka",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72243",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72243/20261107de72243_E0000152723_1_l.jpg"
-    },
-    {
-      "hash_id": "f9073d4ed29b0c49a16384c0baf1e030",
-      "title": "商店街を元気に 高校生企画のファッションショー 大津",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK大阪",
-      "region": "osaka",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72240",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72240/20261107de72240_E0000152704_1_l.jpg"
-    },
-    {
-      "hash_id": "5dce0e92e85654b526213c0a9e7048f6",
-      "title": "秋の伝統行事「鹿の角きり」 奈良",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK大阪",
-      "region": "osaka",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72239",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72239/20261107de72239_E0000152691_1_l.jpg"
-    },
-    {
-      "hash_id": "9d2c825de3108e9d0850e17633945fac",
-      "title": "近畿地方でも広い範囲で震度3の揺れ",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK大阪",
-      "region": "osaka",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72262",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72262/20261108de72262_E0000152719_1_l.jpg"
-    },
-    {
-      "hash_id": "fba4d41896144559a2fb6eb55daaa7c5",
-      "title": "大阪のニュース",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "読売新聞大阪",
-      "region": "osaka",
-      "url": "https://www.yomiuri.co.jp/local/osaka/news/",
-      "image_url": "https://www.yomiuri.co.jp/media/2025/07/27osaka1600.jpg"
-    },
-    {
-      "hash_id": "cbdd844160362b438007517095d2d87a",
-      "title": "【ひと語り】夜空に大輪夢へ舵取り",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "読売新聞大阪",
-      "region": "osaka",
-      "url": "https://www.yomiuri.co.jp/local/osaka/news/20261107-GYTNT00141/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261107-GYTNI00145-1.jpg?type=ogp"
-    },
-    {
-      "hash_id": "d381e370fd0688ce5df194931ecb0324",
-      "title": "ひとり親世帯へ食品支援　孤立防ぎ、人と人のつながりつくる入り口に",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASVC624XFVC6OXIE007M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106002797_comm.jpg"
-    },
-    {
-      "hash_id": "e0aa45205f9c2ed32b2a7f369a8f378e",
-      "title": "大阪公立大工業高専で移転前最後の学園祭 大阪 寝屋川",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK大阪",
-      "region": "osaka",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72154",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72154/20261107de72154_E0000152132_1_l.jpg"
-    },
-    {
-      "hash_id": "f06aa4e173143db75987c57e1b502b75",
-      "title": "NMB48で得た「根性」、新たな「武器」を探して　原かれんの今",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASVC532YFVC5PTIL00GM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105003394_comm.jpg"
-    },
-    {
-      "hash_id": "63a5d407fa80c1a1daa938bdb5cf2c30",
-      "title": "かしまし娘のギターなどがずらり　ワッハ上方が開館30周年で記念展",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞大阪",
-      "region": "osaka",
-      "url": "https://www.asahi.com/articles/ASVC21HJQVC2UCVL02VM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261102002113_comm.jpg"
     }
   ],
   "tokyo": [
+    {
+      "hash_id": "a936b1b298cfec4819b1cd9cb770897a",
+      "title": "銀座でスマホが突然圏外に、「電波妨害」何のため？　相次いだ相談",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASVC90V4GVC9UEFT004M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261109001538_comm.jpg"
+    },
+    {
+      "hash_id": "66ac22148d836fadad01b2675090c33c",
+      "title": "銀座で携帯向けに違法電波か　車載「ニセ基地局」を全国初摘発",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASVC90QSXVC9UTIL003M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261109001297_comm.jpg"
+    },
+    {
+      "hash_id": "bc864769a68d91de5c71e8004c6ef666",
+      "title": "違法電波でスマホ「圏外」にさせた疑い逮捕 詐欺が目的か",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72847",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72847/20261109de72847_E0000155110_1_l.jpg"
+    },
+    {
+      "hash_id": "cedec72f47865cbaefe37b8da64d2a7b",
+      "title": "東京の都心など冬のような寒さ 台風は小笠原に近づく見込み",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72806",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72806/20261109de72806_E0000154773_1_l.jpg"
+    },
+    {
+      "hash_id": "33b01e7a1bf2b4c6044932ac15c84bb5",
+      "title": "待機児童急増で東京 江戸川区が保育士確保へ支援拡充",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72783",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72783/20261109de72783_E0000154779_1_l.jpg"
+    },
+    {
+      "hash_id": "f56a85a423f705492eab9ccab66aaf4c",
+      "title": "JR中央線快速電車 運転再開",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72694",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72694/20261109de72694_E0000003959_1_l.jpg"
+    },
+    {
+      "hash_id": "0346a169e55876b5c88ff594d98fd228",
+      "title": "JR中央線快速電車 人身事故で運転見合わせ",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72689",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "57a521f7dcc6cf97257475b96f1294b6",
+      "title": "誤審で異例の復活、東海大高輪台高が決勝へ　「感動させる試合」体現",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASVC83PQ9VC8UTQP00DM.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261108003170_comm.jpg"
+    },
+    {
+      "hash_id": "ee13267454dca7b5d521a284f5639e15",
+      "title": "朝の混雑は全国一、でも赤字危機　日暮里・舎人ライナーの「想定外」",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASVC62PCRVC6OXIE015M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261106003123_comm.jpg"
+    },
+    {
+      "hash_id": "22a7c5d16d2150d7b24c4a729f67cfce",
+      "title": "東京トリプル首長選が告示　新宿・品川・小金井いずれも現新の争いに",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞東京",
+      "region": "tokyo",
+      "url": "https://www.asahi.com/articles/ASVC834RCVC8OXIE034M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261108002709_comm.jpg"
+    },
+    {
+      "hash_id": "531b664f92ae100de734e267e5de3999",
+      "title": "東京 品川区長選挙告示 現職と新人のあわせて2人が立候補",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK首都圏",
+      "region": "tokyo",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72546",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72546/20261108de72546_E0000153579_1_l.jpg"
+    },
     {
       "hash_id": "55072552f577848943cac9d57f1b7c0b",
       "title": "岩手のおいしさ、北区で堪能　わんこそば「まだまだ食べられる」",
@@ -210,310 +353,297 @@
       "region": "tokyo",
       "url": "https://www.asahi.com/articles/ASVC73VJ3VC7OXIE006M.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20261107003571_comm.jpg"
-    },
-    {
-      "hash_id": "c35d218f7aae956331d7caf9c665d13e",
-      "title": "電柱に引っかかった男性が死亡　マンション建設現場から転落か　東京",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC725SDVC7OXIE004M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261107002166_comm.jpg"
-    },
-    {
-      "hash_id": "e9ec44515f155868b7cfd6b4966c9c98",
-      "title": "東京 足立区のマンションで地震備え防災訓練 防災船の活用も",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK首都圏",
-      "region": "tokyo",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72228",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72228/20261107de72228_E0000152406_1_l.jpg"
-    },
-    {
-      "hash_id": "cc259d84202156bcbde640fd2dcd49a5",
-      "title": "ロックバンドボーカル「JESSE」容疑者を逮捕　コカイン使用疑い",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261107001575_comm.jpg"
-    },
-    {
-      "hash_id": "4b7050e306a3347c0f5149307c0e95f3",
-      "title": "「運動教えても分からない」と入室断られた子　成長実感できる機会を",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC30Q2LVC3UTQP003M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261103001282_comm.jpg"
-    },
-    {
-      "hash_id": "2c4efbc140d0625d144db65a19680c5e",
-      "title": "東大レゴ部、破壊されたガザの病院を制作「身近なこととして感じて」",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC60SXWVC6UHMC004M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106001543_comm.jpg"
-    },
-    {
-      "hash_id": "e5932fcfdabef8fca3fe06077f3c3ace",
-      "title": "産後母襲う「赤ちゃん部屋のお化け」　泣き声に恐怖、虐待連鎖の恐れ",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC513H1VC5OXIE03NM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105001412_comm.jpg"
-    },
-    {
-      "hash_id": "6257a85dbf3af959f4542fb15db24a67",
-      "title": "障害のある学生の学びを支援するプロジェクト　鍵は自立と自己決定",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞東京",
-      "region": "tokyo",
-      "url": "https://www.asahi.com/articles/ASVC520KWVC5OXIE01YM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105002322_comm.jpg"
-    },
-    {
-      "hash_id": "7c80d259f36a242fe99dbd541ce1bb25",
-      "title": "長時間労働や賃金不払いなど 厚労省が全国一斉の電話相談",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK首都圏",
-      "region": "tokyo",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72076",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72076/20261107de72076_E0000151525_1_l.jpg"
     }
   ],
   "hokkaido": [
     {
-      "hash_id": "f68622ee864a232d3556f4258363d1f2",
-      "title": "【速報】札大谷が2年ぶり5度目の全国へ　高校サッカー選手権道予選",
-      "date": "2026-11-08",
+      "hash_id": "17865d0259260a791ce17a33144eed53",
+      "title": "糖尿病　自覚症状なくても治療を　放置すると合併症リスク",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404613/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/f68622ee864a232d3556f4258363d1f2.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404906/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/17865d0259260a791ce17a33144eed53.webp"
     },
     {
-      "hash_id": "8004f29802f280c1f20e8450f706db62",
-      "title": "【速報】コンサドーレ、クラブ新記録の6戦連続無失点勝利",
-      "date": "2026-11-08",
+      "hash_id": "8d70d06dc70c32743ef37b555dfa8384",
+      "title": "当別の中学校に「蛇口からみかんジュース」　姉妹都市・愛媛県宇和島市から借りる",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404609/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/8004f29802f280c1f20e8450f706db62.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404905/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/8d70d06dc70c32743ef37b555dfa8384.webp"
     },
     {
-      "hash_id": "4fcccbe2e5ae50f9fe07da96f59cf196",
-      "title": "強風吹き付ける八戸のピッチ　名物のイカ、リンゴのグルメも　一帯は東日本大震災で津波被害、防災拠点の顔も",
-      "date": "2026-11-08",
+      "hash_id": "5c9191e5807f8af70285662ca804878b",
+      "title": "千歳科学技術大、高まる存在感　ラピダス「お膝元」偏差値アップ　半導体工学コース新設も",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404599/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/4fcccbe2e5ae50f9fe07da96f59cf196.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404894/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/5c9191e5807f8af70285662ca804878b.webp"
     },
     {
-      "hash_id": "dbd408f851e311b0a8650ea6395551ca",
-      "title": "殺人容疑に切り替え74歳男送検　室蘭の刺殺事件",
-      "date": "2026-11-08",
+      "hash_id": "9b3aacb0d9fdfaae8a1c1e5e19cb0c4c",
+      "title": "【写真26枚】食と映画の3日間　フービーフェスが閉幕",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404587/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/dbd408f851e311b0a8650ea6395551ca.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404871/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/9b3aacb0d9fdfaae8a1c1e5e19cb0c4c.webp"
     },
     {
-      "hash_id": "c298d6f6a86202777fed4ba611906f7d",
-      "title": "財政危機の北見市　団地の草刈り代さえ惜しい　広すぎるマチ、進む行政サービスの縮小",
-      "date": "2026-11-08",
+      "hash_id": "98fb554af81423762b46b12add109065",
+      "title": "私立高4校が合格ライン引き上げ　27年度入試、道内48校調査　背景に無償化",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1403673/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/c298d6f6a86202777fed4ba611906f7d.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404845/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/98fb554af81423762b46b12add109065.webp"
     },
     {
-      "hash_id": "0073fa8387aa2138eb081719278f3a0f",
-      "title": "修繕も架け替えもしない橋の「終活」　高知・大豊町の決断　必要性に応じ「優先順位」",
-      "date": "2026-11-08",
+      "hash_id": "331907500fdeb3d5f8ddd20e582a1430",
+      "title": "秋サケ不漁、胆振管内は7割減　10月末時点",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1403733/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/0073fa8387aa2138eb081719278f3a0f.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404826/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/331907500fdeb3d5f8ddd20e582a1430.jpg"
     },
     {
-      "hash_id": "43b784f125f6ea9f7a0b791837d04183",
-      "title": "道路補修、判断ごと民間委託　新潟・三条市　技術職不足に対応「年間4千日分浮いた」",
-      "date": "2026-11-08",
+      "hash_id": "7fa8c165fffa6a846edf5a9392507e55",
+      "title": "大通公園「令和の再整備」に寄せられた声、札幌市へ届けました＜記者トーク＞",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "北海道新聞",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1403756/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/43b784f125f6ea9f7a0b791837d04183.webp"
+      "url": "https://www.hokkaido-np.co.jp/article/1404822/",
+      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/7fa8c165fffa6a846edf5a9392507e55.webp"
     },
     {
-      "hash_id": "98a47fd8cdd84e63ac5dd9697d1f5b47",
-      "title": "だまされんDO！ 被害3件 電話での金銭の要求に注意",
-      "date": "2026-11-08",
+      "hash_id": "b60ecef81372a8ebacb82cdc193e1f55",
+      "title": "【特集】“人より牛が多い町”に世界が注目、ナゼ！？",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "NHK北海道",
       "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72430",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72430/20261108de72430_E0000152928_1_l.jpg"
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70972",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70972/20261105de70972_E0000147825_1_l.jpg"
     },
     {
-      "hash_id": "24638f6e6b423e0a09f8b7dbc1013000",
-      "title": "道内 雪の影響で死亡事故相次ぐ 午後も日本海側で雪のおそれ",
-      "date": "2026-11-08",
+      "hash_id": "f389f63e9bc32d5d0e3a4de224cfe861",
+      "title": "繰り返し被害受けた岩見沢の養鶏場近くでヒグマを捕獲",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "NHK北海道",
       "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72443",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72443/20261108de72443_E0000152919_1_l.jpg"
-    },
-    {
-      "hash_id": "ee75b2d50990ac6798e564266152787d",
-      "title": "道内でスリップとみられる事故相次ぎ3人死亡",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK北海道",
-      "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72251",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72919",
       "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
-      "hash_id": "fe27dd5a2c63251808fa8badc3788b8f",
-      "title": "滝川 避難所運営と備蓄資材の運搬訓練",
-      "date": "2026-11-08",
+      "hash_id": "4d69bb34a54cd6956c97256991d3fd78",
+      "title": "韓国の大学生が交流事業で函館市役所を訪問",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "NHK北海道",
       "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72238",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72238/20261107de72238_E0000152778_1_l.jpg"
-    },
-    {
-      "hash_id": "42161b428c2663f0a50c335665fdea8a",
-      "title": "道内は日本海側で雪 きょう昼前まで高波に警戒",
-      "date": "2026-11-08",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK北海道",
-      "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72352",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72352/20261108de72352_E0000152774_1_l.jpg"
-    },
-    {
-      "hash_id": "28a1388f12e179a168c98f35fe0e3906",
-      "title": "バレー女子 アルテミス北海道が開幕戦白星スタート",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK北海道",
-      "region": "hokkaido",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72227",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72901",
       "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
-      "hash_id": "7934f5e417d55836bcaecb03a3e9fddb",
-      "title": "俳人の櫂未知子さん死去　66歳、余市出身　本紙日曜版でエッセー",
-      "date": "2026-11-07",
+      "hash_id": "28d5fa664805f73f984dbe2ee329e9f3",
+      "title": "佐呂間町の竜巻被害から20年 9人死亡 犠牲者悼む慰霊祭",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
-      "source_label": "北海道新聞",
+      "source_label": "NHK北海道",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404352/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/7934f5e417d55836bcaecb03a3e9fddb.webp"
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72872",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
-      "hash_id": "76f49c7a8d5e4d935960ba442623a7d4",
-      "title": "深川駅西側に交流施設ふかふか　市民30人が500冊の本棚を丁寧に仕上げ　22日開館",
-      "date": "2026-11-07",
+      "hash_id": "0a17d2ccffce660a1e600c540854fc0c",
+      "title": "貴重な生態系残る苫小牧の勇払原野で自然観察ツアー",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
-      "source_label": "北海道新聞",
+      "source_label": "NHK北海道",
       "region": "hokkaido",
-      "url": "https://www.hokkaido-np.co.jp/article/1404337/",
-      "image_url": "https://hola-1129.github.io/japan-assistant-pages/images/76f49c7a8d5e4d935960ba442623a7d4.webp"
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72867",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "57e7064ee3ca820bf2226d3d66b09c11",
+      "title": "9月の北海道輸入額 原油が前年同月1.5倍 函館税関",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK北海道",
+      "region": "hokkaido",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72865",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "ce93bd669d7a8bab767b0c69c78e137f",
+      "title": "市場でナガスクジラの競り 最高値1キロ5万5000円 函館",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK北海道",
+      "region": "hokkaido",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72863",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "8b3c605716332daa6c71ec3eba88a0b7",
+      "title": "“クジラの王様”「ナガスクジラ」の生肉が釧路の市場に出荷",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK北海道",
+      "region": "hokkaido",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72805",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72805/20261109de72805_E0000154740_1_l.jpg"
     }
   ],
   "okinawa": [
+    {
+      "hash_id": "a58c2dafd8a038e1bc70df429b158dfa",
+      "title": "沖縄 中国海警局の船4隻が尖閣諸島沖で領海侵入",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72840",
+      "image_url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "hash_id": "22a3f787a7e061f4a32996ae2aacef06",
+      "title": "宮古島 下地島空港13年ぶりに訓練再開",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72798",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72798/20261109de72798_E0000154819_1_l.jpg"
+    },
+    {
+      "hash_id": "bcc057d43f62cea49ac840e3a1d34b1c",
+      "title": "沖縄 那覇 発掘調査が行われている大正時代の橋で現地説明会",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72646",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72646/20261109de72646_E0000154209_1_l.jpg"
+    },
+    {
+      "hash_id": "e8f0537c34dbfe09d5a110874382716f",
+      "title": "競泳の池江選手 中学校で“夢”語る 沖縄 名護",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72645",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72645/20261109de72645_E0000154868_1_l.jpg"
+    },
+    {
+      "hash_id": "a466e556f5602f607eebc881e1fc359f",
+      "title": "［続きを読む］",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "朝日新聞沖縄",
+      "region": "okinawa",
+      "url": "https://www.asahi.com/articles/ASVC730WJVC7DIFI004M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261107002746_comm.jpg"
+    },
+    {
+      "hash_id": "5a8a40a8e40ef88a4fb36e65a652b570",
+      "title": "石垣島まつりで市民パレード",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72531",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72531/20261108de72531_E0000153587_1_l.jpg"
+    },
+    {
+      "hash_id": "a514635ee8697e5636f4849e9c1e60e9",
+      "title": "「ツール・ド・おきなわ」 レース部門 開催",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "NHK沖縄",
+      "region": "okinawa",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72501",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72501/20261108de72501_E0000153626_1_l.jpg"
+    },
     {
       "hash_id": "da1867d5b254ce544af20434ad420339",
       "title": "「小さな恋のうた」が沖縄の空に響く　モンパチ主催の音楽フェス開幕",
@@ -526,271 +656,349 @@
       "region": "okinawa",
       "url": "https://www.asahi.com/articles/ASVC730WJVC7DIFI004M.html",
       "image_url": "https://imgopt.asahi.com/ogp/AS20261107002746_comm.jpg"
-    },
-    {
-      "hash_id": "542142c61d935f10fc59aef18597fff4",
-      "title": "沖縄 自転車競技の祭典「ツール・ド・おきなわ」始まる",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72084",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72084/20261107de72084_E0000153018_1_l.jpg"
-    },
-    {
-      "hash_id": "5bd1b563dff53473d2a1afa38cab0ef5",
-      "title": "浦添 若い世代が体や性の悩み相談できる「ユースクリニック」",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72167",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72167/20261107de72167_E0000152241_1_l.jpg"
-    },
-    {
-      "hash_id": "acb3c8bcf749dbc9175a3ee864cac924",
-      "title": "元名護市長の比嘉鉄也氏が死去 米軍基地の移設問題に取り組む",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "NHK沖縄",
-      "region": "okinawa",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72132",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72132/20261107de72132_E0000152250_1_l.jpg"
-    },
-    {
-      "hash_id": "dff72d9f4d6ae59eb2bdae9bef78283f",
-      "title": "「応援してくれたらうれしい」ツール・ド・おきなわ 11月7日開幕",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞沖縄",
-      "region": "okinawa",
-      "url": "https://www.asahi.com/articles/ASVC6316FVC6DIFI00MM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106003408_comm.jpg"
-    },
-    {
-      "hash_id": "008ec0251fa975355260eeae8a3958f1",
-      "title": "沖縄県産塩シママース使った新商品、那覇空港で発売へ",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞沖縄",
-      "region": "okinawa",
-      "url": "https://www.asahi.com/articles/ASVC631FFVC6DIFI00NM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106003421_comm.jpg"
     }
   ],
   "national": [
     {
-      "hash_id": "387446f74400b1bd15e5062758debe5e",
-      "title": "佳子さま伝統工芸展に　横浜、からくり箱視察",
-      "date": "2026-11-08",
+      "hash_id": "87a8078473ea9bc8517cb96fa651edb8",
+      "title": "【独自】政府、地方のＬＰガス・灯油支援　交付金１３００億円積み増す",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東京新聞",
       "region": "national",
-      "url": "https://www.tokyo-np.co.jp/article/526848",
+      "url": "https://www.tokyo-np.co.jp/article/526960",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
-      "hash_id": "aefd01ba992174533a696ad15035af23",
-      "title": "泊原発、装甲車乗り避難訓練　複合災害による孤立地域想定",
-      "date": "2026-11-08",
+      "hash_id": "3776dc8a234c410dcca7def2fe48ac4b",
+      "title": "７月熊本地震で初の関連死　９０代女性、八代市が認定",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東京新聞",
       "region": "national",
-      "url": "https://www.tokyo-np.co.jp/article/526843",
-      "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
+      "url": "https://www.tokyo-np.co.jp/article/526959",
+      "image_url": "https://static.tokyo-np.co.jp/image/article/size1/c/f/6/2/cf628b1850797a36d0079625ac4dbec6_1.jpg"
     },
     {
-      "hash_id": "a0826431c5e0194d62c36c84ba368a7f",
-      "title": "小林政調会長「党議拘束重い」　消費減税法案の採決前退席巡り",
-      "date": "2026-11-08",
+      "hash_id": "4e356f27e9cb5d04008ecae7d4408da7",
+      "title": "保育士刺殺、１９歳懲役１８年　徳之島、家裁移送認めず",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東京新聞",
       "region": "national",
-      "url": "https://www.tokyo-np.co.jp/article/526842",
+      "url": "https://www.tokyo-np.co.jp/article/526968",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
-      "hash_id": "df9e9f4c7730667afec654453c3ca11f",
-      "title": "消費減税案、参院賛成否定せず　公明代表「審議次第で」",
-      "date": "2026-11-08",
+      "hash_id": "33cf210f8c5f778ad05a207986792535",
+      "title": "首相「課題解決へ探究を」　政策立案入賞の高校生激励",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東京新聞",
       "region": "national",
-      "url": "https://www.tokyo-np.co.jp/article/526817",
+      "url": "https://www.tokyo-np.co.jp/article/526971",
       "image_url": "https://static.tokyo-np.co.jp/tokyo-np/images/logo_ogp.png"
     },
     {
-      "hash_id": "94d09592b9c0202ba5e0505e278d902f",
-      "title": "静岡県内では3人がけが　深夜の緊急地震速報に釣り人「パニックに」",
-      "date": "2026-11-08",
+      "hash_id": "74021305d2f545e7986cb293bc57edc0",
+      "title": "「においをかぐため」学校のげた箱からサンダル盗んだ容疑　男を逮捕",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASVC80FVWVC8UTPB003M.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261108000903_comm.jpg"
+      "url": "http://www.asahi.com/articles/ASVC91TQWVC9ULZU00DM.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261109002243_comm.jpg"
     },
     {
-      "hash_id": "7ba98b3c5c7842bb393707f8e8dffd52",
-      "title": "木造住宅が全焼、成人と子ども？ 焼け跡から2人の遺体　茨城・結城",
-      "date": "2026-11-08",
+      "hash_id": "84a76f4b7a8013ca564887bd13699a33",
+      "title": "「穴あけず出産育児に向き合う姿勢示せた」　復帰の京都府八幡市長",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASVC80QCPVC8UJHB001M.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261108000987_comm.jpg"
+      "url": "http://www.asahi.com/articles/ASVC90RFZVC9OXIE009M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261109002436_comm.jpg"
     },
     {
-      "hash_id": "1c9127cb114801311fefeb1f707d91a5",
-      "title": "マチアプで「資産運用の誘い」に注意　何度も会った、恋愛感情の先に",
-      "date": "2026-11-08",
+      "hash_id": "fa89328b4f6649b5f5b8601cdcc70176",
+      "title": "天皇、皇后陛下とベトナム国家主席夫妻が会見　9日からの皇室の予定",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASVC51HQDVC5TIPE006M.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105001658_comm.jpg"
+      "url": "http://www.asahi.com/articles/ASVC62CSRVC6UTIL025M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261106002883_comm.jpg"
     },
     {
-      "hash_id": "8f6737f965525982780d24994a953c7f",
-      "title": "65万人を魅了　全国から集った2万発が秋の夜空彩る　土浦全国花火",
-      "date": "2026-11-08",
+      "hash_id": "b1590e2863cd1c63f9abe2d0c7c3cabf",
+      "title": "「どうして僕は歩けないの」車いすの少年 魚と生きる集落の先住民",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "朝日新聞",
       "region": "national",
-      "url": "http://www.asahi.com/articles/ASVC801XTVC8UJHB00CM.html?ref=rss",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261108000935_comm.jpg"
+      "url": "http://www.asahi.com/articles/ASVC514PVVC5TIPE018M.html?ref=rss",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261107000407_comm.jpg"
     },
     {
-      "hash_id": "69777c4546b70b0b857f84a151e4c211",
-      "title": "なぜ東京駅の寿司店に朝から客が集まるのか…ご飯おかわり自由､1078円の\"特大豚汁定食\"が駅弁より割安に感じるワケ",
-      "date": "2026-11-08",
+      "hash_id": "e200f9357b47115a31db77f9445bab91",
+      "title": "｢靴下濡れるし､地獄のロープレ｣誰もが憂鬱すぎる雨の朝に､やたら元気な先輩の足元に隠された\"奇天烈な秘密\"",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東洋経済オンライン",
       "region": "national",
-      "url": "https://toyokeizai.net/articles/-/963665",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/5/4/1200xm/img_5471f95a842bc8a84084de2764ed165b220387.jpg"
+      "url": "https://toyokeizai.net/articles/-/963661",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/d/9/1200xm/img_d94507e63a6d99b011dc7d74e2f8b446205888.jpg"
     },
     {
-      "hash_id": "2c0f132685ed3d9d682769dcacd676e0",
-      "title": "｢湯沢のリゾマン｣温泉･プール付きで300万円台も！かつての｢負動産｣に移住者が集まり\"富動産\"に化けた理由",
-      "date": "2026-11-08",
+      "hash_id": "5255ca2b7443af14bd84d61fb0ed3628",
+      "title": "インド｢国産高速列車｣初公開､新幹線の立場どうなる　1つの路線に｢欧州式と日本式｣信号混在の不安",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東洋経済オンライン",
       "region": "national",
-      "url": "https://toyokeizai.net/articles/-/963812",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/e/4/1200xm/img_e483cf0ef80b8ac0e1f60f9b41dc6de7103195.jpg"
+      "url": "https://toyokeizai.net/articles/-/963811",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/a/c/1200xm/img_aca05719fc9e639a73966490d657b715273682.jpg"
     },
     {
-      "hash_id": "528f4e9366a6e2c46b1890c3ca8d4ab3",
-      "title": "かつて海軍エリートが暮らした｢東京の軽井沢｣はいま…三茶と二子玉川に挟まれた渋谷10分の街が\"変わらない\"ワケ",
-      "date": "2026-11-08",
+      "hash_id": "f426f314ea7559204e59cca9f390cdcd",
+      "title": "日本では過去最高視聴も､Netflix本社で｢1000人削減｣｢株価3割安｣…相次ぐ異変の背景と《強すぎる敵》の正体",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "東洋経済オンライン",
       "region": "national",
-      "url": "https://toyokeizai.net/articles/-/963668",
-      "image_url": "https://tk.ismcdn.jp/mwimgs/c/0/1200xm/img_c034c2242564386c553eae12c1670cb6462670.jpg"
+      "url": "https://toyokeizai.net/articles/-/963872",
+      "image_url": "https://tk.ismcdn.jp/mwimgs/b/c/1200xm/img_bcc45a15181a8dd6f3ddd5888193615d511001.jpg"
     },
     {
-      "hash_id": "cdb72148055f07d490afcd65ccd4e6e3",
-      "title": "大阪マーヴェラス、尼崎で逆転勝ち１８８０人観戦…ファンらタオル手に応援「ＳＶリーグ女子」",
-      "date": "2026-11-08",
+      "hash_id": "dc95d5ca9842761ff99cc7cb3b63aee2",
+      "title": "福岡市長選挙の各候補者の政策や主張は？…１３人分を一挙紹介",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "読売新聞",
       "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20261108-GYO1T00064/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261108-GYO1I00065-1.jpg?type=ogp"
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261109-GYS1T00053/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261109-GYS1I00054-1.jpg?type=ogpw"
     },
     {
-      "hash_id": "1316cde173fc53e685cc34877c5dd4f0",
-      "title": "アナキズムや現代思想を研究する長崎大学准教授、ゼミ指導の楽しさは…学生が「当たり前」に疑問を持ってくれる",
-      "date": "2026-11-08",
+      "hash_id": "405cd8c238501470c87f1f96386ccdc5",
+      "title": "「九年庵」秋の一般公開、今年は１４～２９日…「コケの緑とモミジの赤のコントラストを楽しんで」",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "読売新聞",
       "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261108-GYS1T00107/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261108-GYS1I00109-1.jpg?type=ogp"
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261109-GYS1T00059/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261109-GYS1I00060-1.jpg?type=ogp"
     },
     {
-      "hash_id": "c639a1572c7b6d0369bc5b0619a0bf3a",
-      "title": "「秋吉台エコ・ミュージアム」展示など一部を新しく…草原写真を使った壁面ボードやカルスト地形の空撮映像",
-      "date": "2026-11-08",
+      "hash_id": "d23141e8db76008d08344cfdfe2ee745",
+      "title": "福岡市長選挙で井上潔候補の主張は？…市民税５％減税・市長年収を８００万円に削減・政治資金の透明化",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "読売新聞",
       "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261108-GYS1T00105/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261108-GYS1I00106-1.jpg?type=ogp"
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261109-GYS1T00032/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261109-GYS1I00034-1.jpg?type=ogp"
     },
     {
-      "hash_id": "6fc464b4257857bbbd5f61750e471c2e",
-      "title": "鳴門と徳島市立が勝ち上がる「高校サッカー」決勝カード…準決勝から見えたそれぞれの「粘り」と「攻め」",
-      "date": "2026-11-08",
+      "hash_id": "667355f5705d17c535c6c63f1876e974",
+      "title": "福岡市長選挙で神野元基候補の主張は？…「誰一人取り残さない市政」実現を目指し、教育や介護など柱に",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "読売新聞",
       "region": "japan_local",
-      "url": "https://www.yomiuri.co.jp/local/kansai/news/20261108-GYO1T00058/",
-      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261108-GYO1I00061-1.jpg?type=ogp"
+      "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261109-GYS1T00029/",
+      "image_url": "https://www.yomiuri.co.jp/media/2026/11/20261109-GYS1I00031-1.jpg?type=ogp"
     }
   ],
   "culture": [
+    {
+      "hash_id": "4b93fce4f5aa19651f500c6791f8f8df",
+      "title": "ヘラルボニーの、これから。",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-535230/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-29.jpg"
+    },
+    {
+      "hash_id": "e50ce49e9e90a7b40f8956358a9360de",
+      "title": "障害とアート。ヘラルボニーが立つ文脈をひもとく、8冊の本",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-535156/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-27.jpg"
+    },
+    {
+      "hash_id": "aac19e73a1914fc19bf5d4fc93ddd23e",
+      "title": "今、ヘラルボニーに面白い人が集うワケ。個性豊かなメンバーに入社理由を聞きました",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-535329/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-31.jpg"
+    },
+    {
+      "hash_id": "3e7dde4dd0e437ec5ea567bb5c3699cb",
+      "title": "【今日のギフト】12星座がモチーフに。〈Holi lab.〉のキャンドル",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-537611/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/11/af1b541dc86d28fbdad12659cb932dc3.jpg"
+    },
+    {
+      "hash_id": "11c849c3642f780752ade396df53a34e",
+      "title": "6:35発",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-537982/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/11/OG-11.jpg"
+    },
+    {
+      "hash_id": "6d58317e9297612ac85f698a70e304e9",
+      "title": "「DECISIVE MOMENTS」瞬間を生きる人",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "BRUTUS",
+      "region": "culture",
+      "url": "https://brutus.jp/post-535975/",
+      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/11/OG_35623.jpg"
+    },
+    {
+      "hash_id": "d09b17ed636b4ff39fdb74ccd396c914",
+      "title": "【LIFE@PET】真っ黒なふわふわ姿が絵本のモデルに。｜クロ＆アートディレクター・サイトヲヒデユキさん",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "Casa BRUTUS",
+      "region": "culture",
+      "url": "https://casabrutus.com/categories/design/496075",
+      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/11/1105pet_1200.jpg"
+    },
+    {
+      "hash_id": "edee394d7dfbcc88cf925a48ff09b509",
+      "title": "雪山でも活躍する〈BAPE®〉だって!?",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-300648/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/11/kazuki_1200x630.jpg"
+    },
+    {
+      "hash_id": "c62c6e050bd3b755221f5638c8793b1f",
+      "title": "ぼくが〈 UGG 〉を履くとき。／#2 平野優太",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-300770/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/11/2609_POPEYE_UGG-11_A0115_1.jpg"
+    },
+    {
+      "hash_id": "1642dc4ed43dc9972e932686b161c6ac",
+      "title": "POP-EYE MEETING 編集会議 Vol.252",
+      "date": "2026-11-09",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "POPEYE",
+      "region": "culture",
+      "url": "https://popeyemagazine.jp/post-299861/",
+      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2021/09/podcast-cover-1200x630.jpg"
+    },
+    {
+      "hash_id": "2e119c79b284575cb083f4f5e5326239",
+      "title": "富士山麓で育まれた郡内織。山梨の老舗〈槙田商店〉が手がける、美しい布の傘。",
+      "date": "2026-11-08",
+      "importance": "C",
+      "labels": [
+        "低相关"
+      ],
+      "source_label": "Casa BRUTUS",
+      "region": "culture",
+      "url": "https://casabrutus.com/categories/design/495254",
+      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2027/11/1026umbrella_1312_ogp_07.jpg"
+    },
     {
       "hash_id": "9b13a593608e4db23cfc9128bdfb07c2",
       "title": "フランスの巨匠・シルヴァン・ショメに細野晴臣が聞きたかったこと。長編アニメ公開を記念して対談が実現",
@@ -829,190 +1037,34 @@
       "region": "culture",
       "url": "https://popeyemagazine.jp/post-298081/",
       "image_url": "https://popeyemagazine.jp/wp-content/uploads/2023/04/569d557638865316c402c243fa8dabd6-1200x630.jpg"
-    },
-    {
-      "hash_id": "41d6b3126eb8c773dacfe4afb8ae16bd",
-      "title": "第一線で活動するフォトグラファーが創る、写真のための空間。ロンドン〈GRACES MEWS〉",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-531984/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/fe110be6c718d2dcaa5137540da4a40b.jpg"
-    },
-    {
-      "hash_id": "ba06b7ba0bea40b63ccda435b4768a05",
-      "title": "ザ・ぼんち師匠、55年目の漫才道はどんな景色ですか？",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-536137/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/c1bbd537b52e24882efddb45c40d5f2d.jpg"
-    },
-    {
-      "hash_id": "67207eb9aacf51fafe7806ae4aae6619",
-      "title": "ヒコロヒー「直感的社会論」：ネタをこれからもやるかどうか、見極めようと決めた",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-538534/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2021/09/ba5442bd97862d520b92fa4dedada44a.jpg"
-    },
-    {
-      "hash_id": "5ccd73e395d5908a9a28e1d60f8905ed",
-      "title": "笑顔が増えて、仕事の集中力がアップ。水川かたまりの愛犬・そら豆",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-535668/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/11/og-36.jpeg"
-    },
-    {
-      "hash_id": "9d3b9bff9adc585096b7008088f322e2",
-      "title": "定番を自由な色で。〈LACOSTE〉のポロシャツ：Brutus Best Bets",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-536186/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/08-2.jpg"
-    },
-    {
-      "hash_id": "33c5588d6383bd8df1379037343001cf",
-      "title": "江戸と水戸を結ぶ水戸街道の新しい宿場。【今日の名所江戸百景 by 村上隆】",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "Casa BRUTUS",
-      "region": "culture",
-      "url": "https://casabrutus.com/categories/art/491340",
-      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/07/0727_edo2_1312_ogp_03.jpg"
-    },
-    {
-      "hash_id": "9a9946f86eb27f06c00364b9ad6206cd",
-      "title": "京都にある築100年の長屋を青いスチールで貫いたショップ〈INTA-NET〉。",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "Casa BRUTUS",
-      "region": "culture",
-      "url": "https://casabrutus.com/categories/architecture/494379",
-      "image_url": "https://wp2022.casabrutus.com/wp-content/uploads/2026/10/1005intanet_1200.jpg"
-    },
-    {
-      "hash_id": "3e48081aad5feae10f94dd60217450ad",
-      "title": "綴る、わがままな部屋。〈BOOKNERD〉店主・早坂大輔の居住空間学",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-531041/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/1056_74-03.jpg"
-    },
-    {
-      "hash_id": "528a295c3d52b6a32d4a032ee9d397ad",
-      "title": "サルがヒトに進化したのは誤り。東大人気講義録：香田啓貴先生の「適応行動論」",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "BRUTUS",
-      "region": "culture",
-      "url": "https://brutus.jp/post-495163/",
-      "image_url": "https://media.brutus.jp/wp-content/uploads/2026/10/01_OG.jpg"
-    },
-    {
-      "hash_id": "f14d67522ad7fed5b17a49fe76dcbecf",
-      "title": "デパルマ南部はやとは『トキワ荘の青春』に芸人として共感しすぎた。",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "POPEYE",
-      "region": "culture",
-      "url": "https://popeyemagazine.jp/post-300816/",
-      "image_url": "https://popeyemagazine.jp/wp-content/uploads/2026/11/2026-11-vol36.gif"
     }
   ],
   "travel": [
     {
-      "hash_id": "a521e280a0f35603da92f015ae51b1ba",
-      "title": "［続きを読む］",
-      "date": "2026-11-07",
+      "hash_id": "f5041e31154644de3a39cdb17eb93848",
+      "title": "＆Travel毎週レッサーパンダ～カリン＆ルカの日常ルカが夢中で集める“おもちゃ”って？　大人になっても遊ぶのが大好き",
+      "date": "2026-11-09",
       "importance": "C",
       "labels": [
         "低相关"
       ],
-      "source_label": "朝日新聞 山",
+      "source_label": "朝日新聞 &Travel",
       "region": "travel",
-      "url": "https://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106003628_comm.jpg"
+      "url": "https://www.asahi.com/and/travel/article/17020309",
+      "image_url": "https://p.potaufeu.asahi.com/3c5b-p/picture/31522598/d86387d6743f289fc44c3a690d615867.jpg"
     },
     {
-      "hash_id": "7efe7af813001bfb8e546fb394e16f54",
-      "title": "初公開の太宰との書簡・二科展入選の絵…　近代文学館で佐藤春夫展",
-      "date": "2026-11-07",
+      "hash_id": "b50ffa9c6c73d21089515458a9bd0b20",
+      "title": "大河にも登場、高山右近と小豆島の深い縁　島に残る信仰の足跡を追う",
+      "date": "2026-11-08",
       "importance": "C",
       "labels": [
         "低相关"
       ],
       "source_label": "朝日新聞 旅行",
       "region": "travel",
-      "url": "https://www.asahi.com/articles/ASVC534G6VC5OXIE03LM.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105003487_comm.jpg"
-    },
-    {
-      "hash_id": "4e9fe7d49ece408524610cf3dfe48368",
-      "title": "喧噪忘れる別天地　緑豊かなオアシス　愛犬と歩く横浜・大倉山界隈",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞 旅行",
-      "region": "travel",
-      "url": "https://www.asahi.com/articles/ASVC5146TVC5OXIE005M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261105001430_comm.jpg"
-    },
-    {
-      "hash_id": "221ba064a87ed087569d0b67559fc96a",
-      "title": "横浜園芸博×JAL機　コシノジュンコさんのファッションショーも",
-      "date": "2026-11-07",
-      "importance": "C",
-      "labels": [
-        "低相关"
-      ],
-      "source_label": "朝日新聞 旅行",
-      "region": "travel",
-      "url": "https://www.asahi.com/articles/ASVC63G45VC6ULOB007M.html",
-      "image_url": "https://imgopt.asahi.com/ogp/AS20261106003879_comm.jpg"
+      "url": "https://www.asahi.com/articles/ASVC236CYVC2PLXB008M.html",
+      "image_url": "https://imgopt.asahi.com/ogp/AS20261102003602_comm.jpg"
     }
   ]
 }
